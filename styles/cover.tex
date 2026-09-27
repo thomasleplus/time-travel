@@ -1,0 +1,6 @@
+% Full-page cover, printed before the title page in KOMA-Script's half-title slot
+\usepackage{eso-pic}
+\extratitle{%
+  \AddToShipoutPictureBG*{\AtPageLowerLeft{%
+    \includegraphics[width=\paperwidth,height=\paperheight]{maps/output/cover.pdf}}}%
+  \null}

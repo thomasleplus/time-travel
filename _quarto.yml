@@ -8,6 +8,10 @@ book:
   author: "Thomas Leplus"
   date: "2026-09-27"
   isbn: "978-2-493382-01-6"
+  cover-image: maps/output/cover.png
+  cover-image-alt: >-
+    Cover: the same map of western Europe cut into eight strips, one per era from AD 200
+    to today, each coloured by travel time from Paris, from weeks in the west to hours in the east.
   site-url: https://thomasleplus.github.io/time-travel/
   repo-url: https://github.com/thomasleplus/time-travel
   downloads: [pdf]
@@ -55,6 +59,7 @@ format:
     toc: true
     colorlinks: true
     fig-pos: "H"
+    include-in-header: styles/cover.tex
     include-before-body: styles/copyright-page.tex
   docx:
     reference-doc: styles/reference.docx

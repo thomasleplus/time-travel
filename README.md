@@ -32,6 +32,7 @@ quarto preview                # live preview while editing
 | `references.qmd`        | The generated reference list                                                                                                        |
 | `styles/numeric.csl`    | Citation style: numbered `[1]` citations in order of first use                                                                      |
 | `styles/reference.docx` | Word template (edit its styles to restyle the .docx output)                                                                         |
+| `styles/cover.tex`      | Puts the cover before the title page of the PDF                                                                                     |
 | `data/travel_times.csv` | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate                                            |
 | `data/known_world.json` | Areas reachable at all in the Roman and medieval eras                                                                               |
 | `maps/`                 | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
