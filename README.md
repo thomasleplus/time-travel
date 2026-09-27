@@ -50,7 +50,7 @@ quarto preview                # live preview while editing
 text to match. The comparison chart is rebuilt every time.
 
 **Change the cover.** It is drawn from the data by `cover()` in `maps/render.py`: run `python maps/make_maps.py cover`.
-It produces `cover.png` for the website and e-books and `cover.pdf` for the PDF.
+It produces `cover.png` for the site and e-books and `cover.pdf` for the PDF.
 
 **Cite a source.** Add an entry to `references.bib` and cite it in the text as `[@key]`, or `[@key1; @key2]`.
 Numbering and the reference list are generated automatically.
