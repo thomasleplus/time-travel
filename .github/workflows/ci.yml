@@ -5,6 +5,9 @@ on:
   push:
   pull_request:
   workflow_dispatch:
+  # Attaches the book files to the release (release job)
+  release:
+    types: [published]
 
 permissions: {}
 
@@ -91,6 +94,18 @@ jobs:
           ebook-convert "${downloads}/how-far-is-paris.epub" "${downloads}/how-far-is-paris.azw3"
           quarto render --to html
           mv "${downloads}"/* _book/
+      # The book files on their own, for the release job and so they can be
+      # downloaded from any run without unpacking the site.
+      - name: Upload book files
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: book
+          path: |
+            _book/how-far-is-paris.pdf
+            _book/how-far-is-paris.epub
+            _book/how-far-is-paris.azw3
+            _book/maps/output/cover.png
+          if-no-files-found: error
       # Uploaded on every run so the rendered site can be downloaded from
       # any run, and deployed as-is on main.
       - name: Upload Pages artifact
@@ -123,3 +138,36 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
+
+  release:
+    name: Attach book to release
+    needs: [maps, book]
+    if: ${{ github.event_name == 'release' }}
+    runs-on: ubuntu-latest
+    permissions:
+      # Required to upload assets to the release
+      contents: write
+    steps:
+      - name: Download book files
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: book
+          path: book
+      # --clobber replaces the files if the release is published again or the
+      # run is re-run
+      - name: Upload to release
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          IFS=$'\n\t'
+          cp book/maps/output/cover.png how-far-is-paris-cover.png
+          gh release upload "${TAG}" \
+            book/how-far-is-paris.pdf \
+            book/how-far-is-paris.epub \
+            book/how-far-is-paris.azw3 \
+            how-far-is-paris-cover.png \
+            --clobber --repo "${REPO}"
