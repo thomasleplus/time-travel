@@ -16,6 +16,15 @@ updates:
       osv-scanner:
         patterns:
           - "google/osv-scanner-action*"
+      artifacts:
+        patterns:
+          - "actions/upload-artifact"
+          - "actions/download-artifact"
+      pages:
+        patterns:
+          - "actions/configure-pages"
+          - "actions/upload-pages-artifact"
+          - "actions/deploy-pages"
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
