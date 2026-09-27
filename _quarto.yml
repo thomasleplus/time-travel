@@ -5,8 +5,8 @@ project:
 book:
   title: "How Far Is Paris?"
   subtitle: "Two Thousand Years of Travel Time"
-  author: "Your Name"
-  date: "2026"
+  author: "Thomas Leplus"
+  date: "2026-09-27"
   site-url: https://thomasleplus.github.io/time-travel/
   repo-url: https://github.com/thomasleplus/time-travel
   downloads: [pdf]

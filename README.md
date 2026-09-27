@@ -56,7 +56,6 @@ Numbering and the reference list are generated automatically.
   are still marked `estimate` in the CSV; update them if you want the map asterisks to match.
 - The maps use hand-drawn schematic coastlines, and the travel-time surface is a model: see the introduction.
 - The original document numbered sources per chapter; here they are numbered once for the whole book.
-- Set your name in `book.author` in `_quarto.yml`.
 
 ## Contributing
 
