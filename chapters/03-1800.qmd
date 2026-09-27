@@ -1,0 +1,62 @@
+# c. 1800: the diligence and the last age of sail
+
+Around 1800, France began to shrink for the first time since Roman times. Faster coaches on new straight roads cut many journeys from Paris by half in a single generation: Lyon came within four and a half days, Bordeaux five and a half, Lille two. Beyond Europe, though, everything still moved at the pace of the wind, and India lay four months away.
+
+### A traveller: Arthur Young, 1787–89
+
+The English farmer and agricultural writer Arthur Young made three journeys through France in 1787, 1788 and 1789, and published his journal [@reseau-routier-france]. He first reached Paris on 25 May 1787, by the road from Calais, and what struck him most was the emptiness: after the crowded roads outside London, he found the approaches to the French capital almost deserted [@reseau-routier-france].
+
+On the road to Orléans, over ten miles, he met no coach or diligence at all, only two carriers' wagons and a handful of post-chaises, not a tenth of what he would have met leaving London at the same hour [@reseau-routier-france]. In 1789, riding out of Paris in the middle of the Revolution, he was exasperated to see not a single diligence between Meaux and Château-Thierry, on one of the great roads thirty miles from the capital, and complained that news barely circulated in the provinces [@reseau-routier-france]. Young travelled on his own mare and admitted he was a poor horseman; like most riders of the time, he went little faster than a good walker [@temps-couts-transport].
+
+### The maps
+
+![Europe from Paris, c. 1800](/maps/output/europe_1800.png){#fig-europe-1800 fig-alt="Europe from Paris, c. 1800: isochrone map of fastest travel times"}
+
+For the first time, the fast zone around Paris stretches out along the roads. Northern France, Lille and Champagne lay within two days, and Lyon and Bordeaux within a week. London, Amsterdam and Brussels were four or five days away. Madrid, Rome, Vienna and Berlin lay about two weeks out, St Petersburg and Constantinople a month or more.
+
+![The world from Paris, c. 1800](/maps/output/world_1800.png){#fig-world-1800 fig-alt="The world from Paris, c. 1800: isochrone map of fastest travel times"}
+
+The whole world is now on the map, but most of it is very far away. North America's east coast and the Caribbean lay six weeks or more away, depending on the winds. India took about four months by the long route round the Cape of Good Hope, China six, and Australia more than half a year.
+
+### Travel times from Paris, c. 1800
+
+| Destination | Fastest journey | Basis |
+| --- | --- | --- |
+| Reims, Amiens | 1 day | Diligence timetables of the late 1770s [@reseau-routier-france] |
+| Lille | 2 days | Diligence, late 18th century [@temps-couts-transport] |
+| Caen | 2 days | Diligence, 1780 [@temps-couts-transport] |
+| Dijon | 3 days | Diligence, 1780 [@temps-couts-transport] |
+| Rennes | 3 days | Diligence, 1780 [@temps-couts-transport] |
+| Lyon | 4½ days | Diligence, 1800 [@temps-couts-transport] |
+| London | about 4½ days | Estimate, via Calais and the Dover packet |
+| Bordeaux | 5½ days | Diligence, 1780 [@temps-couts-transport] |
+| Marseille | about 8 days | Estimate |
+| Rome, Madrid, Vienna | about 2 weeks | Estimates |
+| Constantinople | about 5 weeks | Estimate |
+| New York | about 6–7 weeks | Estimate, sailing ship from Le Havre |
+| Madras | about 4 months | East Indiaman, 1801: Portsmouth to Madras in 117 days [@hindostan-1796-indiaman] |
+| Canton | about 6 months | Same ship, reaching Canton after six months [@hindostan-1796-indiaman] |
+
+### Conditions on the road
+
+The acceleration had a name: the *turgotine*. From 1775, the minister Turgot brought the passenger coaches under a single state service, with lighter, better-sprung vehicles, horses changed every 10 to 16 km, and a conductor on board whose job was to keep the timetable at 8 to 9 km/h [@reseau-routier-france]. Coaches began to run through the night, protected in the forests by two mounted police [@reseau-routier-france]. On the best routes the diligence now covered about 94 km a day to Lyon and 117 km a day to Lille [@temps-couts-transport].
+
+The roads themselves were new. Between 1750 and 1790 France built close to 30,000 km of straight, paved royal roads, most of it with the forced unpaid labour of peasants living along the route, the hated *corvée* [@reseau-routier-france]. The Revolution then halted construction, and the roads quickly decayed [@reseau-routier-france].
+
+Even so, averages stayed low. Counting stops, the Paris–Lyon diligence of 1800 averaged just 4.3 km/h [@temps-couts-transport]. At sea, a large East Indiaman leaving Portsmouth in March 1801 reached Madras at the end of July and Canton at the end of September [@hindostan-1796-indiaman]. No coach or passage fare from these years could be verified, so this chapter gives no prices.
+
+### Paying the way
+
+A traveller in France in the 1790s could not trust French paper money. The *assignats*, issued from 1789, collapsed: by 1796 prices had often risen 500-fold compared with 1790 [@france-inflation-revolution], and the notes ended worth a quarter of 1% of their face value; their printing plates were publicly burnt in the Place Vendôme in February 1796 [@tales-from-vault]. Coin returned, and in 1803 the new franc was fixed at 5 grams of silver, 90% pure [@france-inflation-revolution].
+
+Wealthy foreign travellers relied instead on paper from a trusted London house. Until the 1760s they could draw cash abroad only with bills of exchange or letters of credit, which were costly and tied them to a fixed itinerary [@lettre-d-indication]. The Scottish banker Robert Herries then devised the *circular note*: fixed sums bought before departure and cashed without charge, at the London exchange rate, through a network of correspondents across Europe [@lettre-d-indication]. Lord Byron kept enough circular notes for a year's living, and Percy Bysshe Shelley carried them when he eloped to the Continent in 1814 [@herries-co-circular].
+
+### Risks
+
+The sea remained the great killer. The East Indiaman *Hindostan*, which had made three round trips to Asia, was wrecked in a gale off Margate in January 1803, just days after setting out, and 24 people died [@hindostan-1796-indiaman]. In wartime such ships sailed as armed privateers, licensed to capture enemy vessels and liable to be captured themselves [@hindostan-1796-indiaman]. On land, the mounted escorts in the forests show that highway robbery was still a real fear [@reseau-routier-france].
+
+### Who travelled, and how many
+
+Very few. The only traffic counts from the period, taken in spring 1788 on two brand-new roads just outside Paris, found about 140 vehicles a day, fewer than ten an hour in daylight [@reseau-routier-france]. Coaches carried nobles, officials and merchants; most people walked, and even riders like Arthur Young went little faster than walkers [@temps-couts-transport].
+
+News travelled with them, and just as slowly, which is exactly what Young complained of in 1789. Within a few years France would build the first network in which messages moved faster than people: the Chappe telegraph, described in the interlude that follows Chapter 4.

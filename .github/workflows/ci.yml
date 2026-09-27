@@ -1,0 +1,75 @@
+---
+name: CI
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  maps:
+    name: Generate maps
+    runs-on: ubuntu-latest
+    permissions:
+      # Required to read the code
+      contents: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.14.7"
+      - name: Install dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          IFS=$'\n\t'
+          python -m pip install --require-hashes -r requirements.txt
+      - name: Generate maps
+        shell: bash
+        run: |
+          set -euo pipefail
+          IFS=$'\n\t'
+          python maps/make_maps.py
+      - name: Upload maps
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: maps
+          path: maps/output/
+          if-no-files-found: error
+
+  book:
+    name: Render book
+    runs-on: ubuntu-latest
+    permissions:
+      # Required to read the code
+      contents: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
+        with:
+          # Required for PDF output
+          tinytex: true
+      - name: Render book
+        shell: bash
+        run: |
+          set -euo pipefail
+          IFS=$'\n\t'
+          quarto render
+      - name: Upload book
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: book
+          path: _book/
+          if-no-files-found: error

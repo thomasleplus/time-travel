@@ -1,0 +1,63 @@
+# c. 1850: the first railways and the steam packet
+
+Around 1850 the old world and the new ran side by side. From Paris, the first railway lines reached the Channel and Brussels in hours, but most of France still travelled by coach. At sea, steamships had cut the Atlantic to under two weeks, and a new route across Egypt brought India within a month.
+
+### A traveller: Gustave Flaubert, 1849–51
+
+In the autumn of 1849, the 28-year-old Gustave Flaubert left for the East with his friend Maxime Du Camp [@voyage-orient-gustave]. Both had official missions: Du Camp's from the Ministry of Public Instruction, Flaubert's from the Ministry of Agriculture and Commerce, which asked him to gather commercial information for the chambers of commerce, a task Du Camp later found hard to take seriously [@voyage-orient-gustave]. Du Camp packed a camera; his photographs were among the first ever taken of the region [@voyage-orient-gustave].
+
+They sailed from Marseille on 4 November and landed at Alexandria on the 15th [@voyage-orient-gustave]. Flaubert had drawn up a vast itinerary through Egypt, Palestine, Syria, Persia, Asia Minor, Greece and Italy, of which they completed barely a quarter [@voyage-orient-gustave]. They sailed up the Nile as far as Wadi Halfa, reached on 22 March 1850, then went on to Beirut, Jerusalem, Rhodes, Smyrna, Constantinople, Greece and Rome, returning to France in May 1851 [@voyage-orient-gustave]. That September, Flaubert began writing *Madame Bovary* [@voyage-orient-gustave].
+
+### The maps
+
+![Europe from Paris, c. 1850](/maps/output/europe_1850.png){#fig-europe-1850 fig-alt="Europe from Paris, c. 1850: isochrone map of fastest travel times"}
+
+The new railways show up as sharp red corridors: north to Lille, Brussels and the Channel ports, west to Rouen and Le Havre, south to Orléans and Tours. London and Brussels now lay within a day, Lyon within a day and a half by the fastest mail coach. Most of the rest of France lay two to five days away; Italy, Spain and Central Europe about a week; Russia and the Balkans two weeks or more.
+
+![The world from Paris, c. 1850](/maps/output/world_1850.png){#fig-world-1850 fig-alt="The world from Paris, c. 1850: isochrone map of fastest travel times"}
+
+Steam has pulled the world closer along a few lines. New York lay about twelve days away, Alexandria two weeks, and India, by the overland route through Egypt, about four weeks, against four months in 1800. China took about six weeks. Australia, still served by sailing ships, lay nearly three months away.
+
+### Travel times from Paris, c. 1850
+
+| Destination | Fastest journey | Basis |
+| --- | --- | --- |
+| Rouen, Orléans, Amiens | about 4 hours | Estimate, by the new railways |
+| Lille | about 7 hours | Estimate |
+| Brussels | 12½ hours | Inaugural train, 1846 [@did-you-know] |
+| London | about 14 hours | Estimate, rail and Channel steamer |
+| Lyon | about 31 hours | Mail coach (*malle-poste*), 1850 [@temps-couts-transport] |
+| Bordeaux | about 2 days | Estimate |
+| Marseille | about 2½ days | Estimate |
+| Berlin | about 2½ days | Estimate |
+| Vienna | about 4½ days | Estimate |
+| Rome, Madrid | about 6 days | Estimates |
+| Constantinople | about 10 days | Estimate |
+| New York | about 12 days | Estimate, including a 10-day-15-hour steamer crossing from Liverpool in 1850 [@atlantic-1849-ship] |
+| Alexandria | about 13 days | Estimate; Flaubert's steamer took 11 days from Marseille in 1849 [@voyage-orient-gustave] |
+| Bombay | about 4 weeks | India mail via Egypt, Marseille and Paris, 1845: Bombay to London in 29 days [@reproduced-by-victorian] |
+| Sydney | about 11 weeks | Estimate, by sail |
+
+### Conditions on the road
+
+The coach itself had become much faster. Counting stops, the Paris–Lyon diligence averaged 11 km/h in 1850, against 4.3 km/h in 1800; it took 2.3 days instead of 4½, and the mail coach just 1.3 days [@temps-couts-transport]. Five years later, a train covered the same distance in 10 hours 30 minutes [@temps-couts-transport].
+
+The two worlds literally rode on top of each other. Early trains on the Paris–Lille line carried stagecoaches, post-chaises and private carriages strapped to flat wagons, so that travellers could continue by road from the railhead [@fampoux-rail-accident]. Passengers rode in first, second or third class [@fampoux-rail-accident]. The regulations capped speed at 24 km/h for trains pulled by two engines, but the company's operating engineer admitted telling drivers to run at 39 to 50 km/h [@fampoux-rail-accident].
+
+On the Atlantic, the American Collins Line steamers of 1850 made nearly 300 miles a day and offered panelled saloons, marble-topped tables and a separate ladies' drawing room [@atlantic-1849-ship]. They had no steerage at all: 200 first-class and 80 second-class berths [@atlantic-1849-ship]. By 1866, as the ships aged and turned to carrying emigrants, a first-class passage on the same ship cost $105 (about $2,200 today), second class $62 (about $1,300) and a steerage berth $37.50 (about $790) [@atlantic-1849-ship; @1-1866-is].
+
+### Paying the way
+
+Money was one of the few things that did not change. A Parisian of 1850 still carried the franc fixed in 1803 at 5 grams of silver [@france-inflation-revolution]. Foreign visitors, above all the British, paid their way with circular notes, bought before departure and cashed across the Continent; each came with a *lettre d'indication* identifying its holder, and they remained the standard instrument for British tourists abroad for over a century [@lettre-d-indication]. The system suited the issuing banks too: they held the traveller's money until the used notes came back to London [@lettre-d-indication].
+
+### Risks
+
+The railway brought its own kind of disaster. On 8 July 1846, less than three weeks after the Paris–Lille line opened, a heavy train derailed near Fampoux, south of Arras, and several carriages fell into a flooded peat bog; the official toll was 14 dead and about 40 injured [@fampoux-rail-accident]. The electric telegraph between Paris and Lille was still only a project, so news of the accident spread late and garbled, though it reached the Paris stock exchange well before the public [@fampoux-rail-accident].
+
+Steam at sea was still fragile. In January 1851 the *Atlantic*'s paddle-wheel shaft broke in mid-ocean; unable to make headway under sail against the wind, she drifted back to Ireland and took six months to repair [@atlantic-1849-ship]. In winter, fewer than fifty passengers might brave the crossing, against over two hundred in summer [@atlantic-1849-ship].
+
+### Who travelled, and how many
+
+Railways drew crowds from the start: in its first weeks the Paris–Lille company had to run long, heavy trains with two engines to meet demand [@fampoux-rail-accident]. The fast steamers served a wealthy few; the *Atlantic* carried a singer, presidents, ambassadors and a papal nuncio [@atlantic-1849-ship]. Writers such as Flaubert travelled with government missions and letters of introduction [@voyage-orient-gustave].
+
+Speed also became a matter of national prestige. When the India mail reached London from Bombay in 29 days in December 1845, a contemporary dictionary of dates credited the French government's efforts to prove that the route through France was the shortest [@reproduced-by-victorian].

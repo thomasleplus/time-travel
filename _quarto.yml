@@ -1,0 +1,56 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "How Far Is Paris?"
+  subtitle: "Two Thousand Years of Travel Time"
+  author: "Your Name"
+  date: "2026"
+  site-url: https://thomasleplus.github.io/time-travel/
+  repo-url: https://github.com/thomasleplus/time-travel
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - chapters/01-roman.qmd
+    - chapters/02-medieval.qmd
+    - chapters/03-1800.qmd
+    - chapters/04-1850.qmd
+    - chapters/interlude-news.qmd
+    - chapters/05-1914.qmd
+    - chapters/06-1950.qmd
+    - chapters/07-1975.qmd
+    - chapters/08-today.qmd
+    - chapters/at-a-glance.qmd
+    - chapters/closing.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: styles/numeric.csl
+link-citations: true
+
+fig-cap-location: bottom
+lang: en-GB
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    number-sections: true
+    fig-responsive: true
+  pdf:
+    documentclass: scrbook
+    classoption: [oneside]
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=2.5cm]
+    number-sections: true
+    toc: true
+    colorlinks: true
+    fig-pos: "H"
+  docx:
+    reference-doc: styles/reference.docx
+    toc: true
+    number-sections: true
