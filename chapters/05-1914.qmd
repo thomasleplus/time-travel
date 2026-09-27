@@ -43,7 +43,7 @@ At world scale the pattern follows ports and railheads. New York was about a wee
 
 The great expresses sold comfort as much as speed. The Orient Express ran bogie carriages that shook far less than older stock, with dining cars, sleeping cars and uniformed staff led by a *chef de train* [@orient-express]. The Sud Express was billed as the fastest train in the world on its French section, averaging 87 km/h between Paris and Bayonne [@1900-landes-sud].
 
-Borders still slowed things down. Sud Express passengers changed trains at Hendaye because Spain used a wider track gauge [@1900-landes-sud]. Crossing the Channel meant a boat between two trains, though the railway promised no small boats, an interpreting conductor, stewardesses and private cabins for those who booked early [@time-tables-south].
+Borders still slowed things down. Sud Express passengers changed trains at Hendaye because Spain used a wider track gauge [@1900-landes-sud]. Crossing the Channel meant a boat between two trains, though the railway promised no small boats, an interpreting conductor, stewardesses and private cabins for those who booked early [@time-tables-south]. The Channel itself made no promises.
 
 Price separated the traveller's experience sharply. In 1890 a first-class single from London to Paris cost £2 17s 6d (about $640 today), while the cheap night service in third class cost £1 2s 6d (about $250) [@time-tables-south; @1-1890-2026; @gbp-usd-historical]. Passengers bound for India could add a sleeping car from Calais to Bologna for another £3 14s (about $820) [@time-tables-south; @1-1890-2026; @gbp-usd-historical].
 
@@ -53,7 +53,7 @@ At sea the gulf was wider still. Emigrants crossed in steerage, in low decks wit
 
 On the eve of war, paying abroad had never been simpler. Thomas Cook had been issuing circular notes since 1874, and in 1891 American Express launched a large-scale traveller's cheque to replace the old letters of credit [@traveller-s-cheque].
 
-It all stopped in August 1914. As the armies mobilised, banks across Europe refused to cash foreign paper; a contemporary account described Americans holding letters of credit for $5,000 without enough money to buy a meal [@nations-europe-great]. The United States sent the cruiser *Tennessee* across the Atlantic with $2.5 million in gold, and more than 100,000 Americans were eventually brought home [@american-relief-expedition].
+It all stopped in August 1914. As the armies mobilised, banks across Europe refused to cash foreign paper; a contemporary account described Americans holding letters of credit for $5,000 without enough money to buy a meal [@nations-europe-great], an abrupt lesson in the difference between being rich and having cash. The United States sent the cruiser *Tennessee* across the Atlantic with $2.5 million in gold, and more than 100,000 Americans were eventually brought home [@american-relief-expedition].
 
 ### Risks
 

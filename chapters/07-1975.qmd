@@ -6,7 +6,7 @@ By the mid-1970s jets had made the world a place of hours. New York lay a workin
 
 At 12:40 on Wednesday 21 January 1976, the Air France Concorde F-BVFA left Paris on the world's first scheduled supersonic passenger service, bound for Rio de Janeiro with a stop in Dakar [@air-france-commemorates]. It reached Rio after 7 hours 26 minutes of flying [@air-france-commemorates]. The aircraft carried 100 passengers at up to Mach 2.02, about 2,170 km/h, and cruised at around 18,000 metres, twice as high as other airliners, high enough for passengers to see the curve of the Earth [@air-france-commemorates].
 
-The experience was designed as a statement. Air France served champagne and truffle pastries by Lenôtre; the industrial designer Raymond Loewy fitted out the cabin and a lounge at Charles de Gaulle with Le Corbusier furniture, and Jean Patou designed the cabin crew's uniforms [@air-france-commemorates]. Concorde flew for Air France for 27 years, until 2003 [@air-france-commemorates].
+The experience was designed as a statement. Air France served champagne and truffle pastries by Lenôtre; the industrial designer Raymond Loewy fitted out the cabin and a lounge at Charles de Gaulle with Le Corbusier furniture, and Jean Patou designed the cabin crew's uniforms [@air-france-commemorates]. Nobody could accuse it of understatement. Concorde flew for Air France for 27 years, until 2003 [@air-france-commemorates].
 
 ### The maps
 
@@ -48,4 +48,4 @@ Bigger aircraft meant bigger disasters. On 3 March 1974, a Turkish Airlines DC-1
 
 ### Who travelled, and how many
 
-Flying was becoming ordinary. In the United States, passenger numbers more than quadrupled between 1955 and 1972, and by 1972 almost half of all Americans had flown, although business travellers still made up most passengers [@evolution-commercial-flying]. Concorde remained the privilege of a few: its cabin held just 100 people [@air-france-commemorates]. For everyone else, fares began to fall. When Freddie Laker's no-frills Skytrain began flying between London and New York in September 1977, a one-way ticket cost $138 (about $760 today), against $385 (about $2,120) for the cheapest seat on a scheduled airline [@sir-freddie-laker; @100-1977-is].
+Flying was becoming ordinary. In the United States, passenger numbers more than quadrupled between 1955 and 1972, and by 1972 almost half of all Americans had flown, although business travellers still made up most passengers [@evolution-commercial-flying]. Concorde remained the privilege of a few: its cabin held just 100 people [@air-france-commemorates]. For everyone else, fares began to fall. When Freddie Laker's "no-frills" Skytrain, a phrase then still a novelty rather than a warning, began flying between London and New York in September 1977, a one-way ticket cost $138 (about $760 today), against $385 (about $2,120) for the cheapest seat on a scheduled airline [@sir-freddie-laker; @100-1977-is].

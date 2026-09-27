@@ -48,15 +48,15 @@ The network was built to be used in stages. The Bordeaux Pilgrim's 230 changes o
 
 Rivers and the sea were cheaper than roads, but less predictable. Boats drifted downstream at around 65 km a day, but were hauled upstream at 10 to 30 [@building-orbis-historical]. Sea travel was possible all year in principle, but ancient writers stress the dangers of winter, and Atlantic storms made winter crossings rare [@building-orbis-historical].
 
-Prices were steep. Diocletian's price edict of 301 capped the fare for a passenger in a carriage at 2 denarii per Roman mile [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay.
+Prices were steep. Diocletian's price edict of 301 capped the fare for a passenger in a carriage at 2 denarii per Roman mile [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay. Most labourers, sensibly, stayed at home.
 
 ### Paying the way
 
 Inside the empire, a traveller from Lutetia needed only one currency. The same gold aureus, silver denarius and bronze sestertius passed from Britain to Syria, and Diocletian's edict of 301 set its maximum prices for the whole empire in denarii [@building-orbis-historical].
 
-Officials did not pay at all. A traveller on state business carried a *diploma*, a warrant bearing the emperor's seal that entitled him to the horses, vehicles and lodging of the state post, whose cost fell on the communities along the road [@cursus-publicus]. Under Trajan, each provincial governor could issue only a limited number of these warrants, and only for public business [@cursus-publicus].
+Officials did not pay at all. A traveller on state business carried a *diploma*, a warrant bearing the emperor's seal that entitled him to the horses, vehicles and lodging of the state post, whose cost fell on the communities along the road [@cursus-publicus], an arrangement more popular with the travellers than with the communities. Under Trajan, each provincial governor could issue only a limited number of these warrants, and only for public business [@cursus-publicus].
 
-Beyond the frontiers, Roman money became a commodity. Pliny the Elder complained that 50 million sesterces a year flowed to India alone [@roman-coins-abroad]. Hoards of Roman gold have been found in southern India; one discovered near Kannur in the 1840s was still circulating among local labourers, each coin traded for up to 14 rupees or bartered for a day's rice [@kottayam-coin-hoard].
+Beyond the frontiers, Roman money became a commodity. Pliny the Elder complained, in the tone every age reserves for imports, that 50 million sesterces a year flowed to India alone [@roman-coins-abroad]. Hoards of Roman gold have been found in southern India; one discovered near Kannur in the 1840s was still circulating among local labourers, each coin traded for up to 14 rupees or bartered for a day's rice [@kottayam-coin-hoard].
 
 ### Risks
 

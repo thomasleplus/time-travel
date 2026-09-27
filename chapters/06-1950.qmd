@@ -35,13 +35,13 @@ The whole inhabited world now lay within a few days. New York was less than a da
 
 ### Conditions on the road
 
-Flying was still a luxury and an adventure. Post-war airliners were pressurized, but long flights meant a string of stops, and passengers were among the first to feel what would later be called jet lag, the upset of crossing several time zones in a few hours [@evolution-commercial-flying]. Regulated fares meant airlines competed on service: meals, sleeper berths and personal attention [@evolution-commercial-flying].
+Flying was still a luxury and an adventure. Post-war airliners were pressurized, but long flights meant a string of stops, and passengers were among the first to feel what would later be called jet lag, the upset of crossing several time zones in a few hours [@evolution-commercial-flying], before there were any jets to blame. Regulated fares meant airlines competed on service: meals, sleeper berths and personal attention [@evolution-commercial-flying].
 
 At sea, the great liners reached their peak just as they became obsolete. In 1952 the SS *United States* crossed the Atlantic in three and a half days, setting the speed record for the crossing [@liner-transatlantic-crossing].
 
 ### Paying the way
 
-Leaving France with money was itself regulated. Exchange controls introduced in 1939 were tightened at the Liberation and codified in 1947, and they stayed in force through the years of reconstruction [@report-no-150]. Travellers could take only set amounts of currency across the border; a decree of 1960 still fixed these "tolerances" and required anything above them to be declared [@summary-arrete-23].
+Leaving France with money was itself regulated. Exchange controls introduced in 1939 were tightened at the Liberation and codified in 1947, and they stayed in force through the years of reconstruction [@report-no-150]. Travellers could take only set amounts of currency across the border; a decree of 1960 still fixed these "tolerances", a word that says much about the official view of holidays abroad, and required anything above them to be declared [@summary-arrete-23].
 
 In New York, a new way to pay was being born. In February 1950 Frank McNamara paid for a restaurant meal with a cardboard Diners Club card, the first charge card accepted by many different businesses [@diners-club-international]. Diners Club billed its members at the end of each month and took a 5–7% fee from the restaurant [@diners-club-credit].
 
