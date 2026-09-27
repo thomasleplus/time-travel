@@ -14,7 +14,24 @@ book:
     to today, each coloured by travel time from Paris, from weeks in the west to hours in the east.
   site-url: https://thomasleplus.github.io/time-travel/
   repo-url: https://github.com/thomasleplus/time-travel
-  downloads: [pdf]
+  # Names the PDF and EPUB files, which the download menu below links to
+  output-file: how-far-is-paris
+  # Instead of downloads, which cannot list the Kindle file. CI renders the PDF and EPUB
+  # and converts the EPUB to AZW3 (.github/workflows/ci.yml).
+  sidebar:
+    tools:
+      - icon: download
+        text: Download
+        menu:
+          - text: Download PDF
+            icon: file-pdf
+            href: /how-far-is-paris.pdf
+          - text: Download EPUB
+            icon: journal
+            href: /how-far-is-paris.epub
+          - text: Download Kindle (AZW3)
+            icon: tablet
+            href: /how-far-is-paris.azw3
   page-footer:
     left: >-
       © 2026 Thomas Leplus · ISBN 978-2-493382-01-6 ·
@@ -61,6 +78,19 @@ format:
     fig-pos: "H"
     include-in-header: styles/cover.tex
     include-before-body: styles/copyright-page.tex
+  epub:
+    # The ISBN, as a URN: Quarto rejects pandoc's scheme key and pandoc ignores Quarto's schema key
+    identifier: "urn:isbn:978-2-493382-01-6"
+    # Also shown on the title page, as the e-book's copyright notice
+    rights: >-
+      © 2026 Thomas Leplus. ISBN 978-2-493382-01-6. This book is licensed under the Creative Commons
+      Attribution-NonCommercial-ShareAlike 4.0 International License
+      (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+    toc: true
+    number-sections: true
+    filters:
+      - path: filters/epub-div-alt.lua
+        at: post-render
   docx:
     reference-doc: styles/reference.docx
     toc: true

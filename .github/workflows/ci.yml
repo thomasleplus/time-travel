@@ -45,7 +45,7 @@ jobs:
           if-no-files-found: error
 
   book:
-    name: Render HTML and PDF
+    name: Render HTML, PDF and e-books
     runs-on: ubuntu-latest
     permissions:
       # Required to read the code
@@ -61,20 +61,36 @@ jobs:
         with:
           # Required for PDF output
           tinytex: true
-      # The site is the HTML book plus the PDF behind its download button
-      # (book.downloads in _quarto.yml). Each single-format render cleans
-      # _book/, and --to accepts only one format, so the PDF is rendered
-      # first, set aside while the HTML renders, then copied back.
-      - name: Render book
+      # Provides ebook-convert, which turns the EPUB into a Kindle file (AZW3)
+      - name: Install Calibre
         shell: bash
         run: |
           set -euo pipefail
           IFS=$'\n\t'
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends calibre
+      # The site is the HTML book plus the PDF, EPUB and AZW3 files behind its
+      # download menu (book.sidebar.tools in _quarto.yml). Each single-format
+      # render cleans _book/, and --to accepts only one format, so the
+      # downloads are rendered first, set aside while the HTML renders, then
+      # copied back.
+      - name: Render book
+        shell: bash
+        env:
+          # Calibre loads Qt, and the runner has no display
+          QT_QPA_PLATFORM: offscreen
+        run: |
+          set -euo pipefail
+          IFS=$'\n\t'
+          downloads="${RUNNER_TEMP}/downloads"
+          mkdir "${downloads}"
           quarto render --to pdf
-          mkdir "${RUNNER_TEMP}/pdf"
-          mv _book/*.pdf "${RUNNER_TEMP}/pdf/"
+          mv _book/how-far-is-paris.pdf "${downloads}/"
+          quarto render --to epub
+          mv _book/how-far-is-paris.epub "${downloads}/"
+          ebook-convert "${downloads}/how-far-is-paris.epub" "${downloads}/how-far-is-paris.azw3"
           quarto render --to html
-          mv "${RUNNER_TEMP}"/pdf/*.pdf _book/
+          mv "${downloads}"/* _book/
       # Uploaded on every run so the rendered site can be downloaded from
       # any run, and deployed as-is on main.
       - name: Upload Pages artifact

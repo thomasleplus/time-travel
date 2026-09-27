@@ -8,6 +8,7 @@ A book with isochrone maps showing how long it took to travel from Paris, from R
 
 - [Quarto](https://quarto.org) 1.4 or later
 - For PDF output, a TeX distribution. The simplest is: `quarto install tinytex`
+- For the Kindle file, [Calibre](https://calibre-ebook.com) (its `ebook-convert` command)
 - Python 3.12 or later with `numpy` and `matplotlib` (only needed to regenerate the maps): `pip install -r requirements.txt`
   (versions are pinned with hashes in `requirements.txt`, which is generated with `uv pip compile`: see its header to update it)
 
@@ -17,26 +18,30 @@ A book with isochrone maps showing how long it took to travel from Paris, from R
 quarto render                 # all formats into _book/
 quarto render --to html       # website only
 quarto render --to pdf        # print version
+quarto render --to epub       # e-book
 quarto render --to docx       # Word
+ebook-convert _book/how-far-is-paris.epub _book/how-far-is-paris.azw3   # Kindle, from the EPUB
 quarto preview                # live preview while editing
 ```
 
 ## Layout
 
-| Path                    | What it is                                                                                                                          |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| `_quarto.yml`           | Book structure, chapter order and output formats                                                                                    |
-| `index.qmd`             | Introduction and conventions                                                                                                        |
-| `chapters/*.qmd`        | One file per chapter, the interlude, the comparison and the closing                                                                 |
-| `references.bib`        | Every source, once, with a citation key                                                                                             |
-| `references.qmd`        | The generated reference list                                                                                                        |
-| `styles/numeric.csl`    | Citation style: numbered `[1]` citations in order of first use                                                                      |
-| `styles/reference.docx` | Word template (edit its styles to restyle the .docx output)                                                                         |
-| `styles/cover.tex`      | Puts the cover before the title page of the PDF                                                                                     |
-| `data/travel_times.csv` | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate                                            |
-| `data/known_world.json` | Areas reachable at all in the Roman and medieval eras                                                                               |
-| `maps/`                 | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
-| `maps/output/`          | The generated maps, comparison chart and cover used by the book                                                                     |
+| Path                        | What it is                                                                                                                          |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| `_quarto.yml`               | Book structure, chapter order and output formats                                                                                    |
+| `index.qmd`                 | Introduction and conventions                                                                                                        |
+| `chapters/*.qmd`            | One file per chapter, the interlude, the comparison and the closing                                                                 |
+| `references.bib`            | Every source, once, with a citation key                                                                                             |
+| `references.qmd`            | The generated reference list                                                                                                        |
+| `styles/numeric.csl`        | Citation style: numbered `[1]` citations in order of first use                                                                      |
+| `styles/reference.docx`     | Word template (edit its styles to restyle the .docx output)                                                                         |
+| `styles/cover.tex`          | Puts the cover before the title page of the PDF                                                                                     |
+| `styles/copyright-page.tex` | The PDF's copyright page (the EPUB's is the `rights` field in `_quarto.yml`)                                                        |
+| `filters/epub-div-alt.lua`  | Fixes invalid EPUB markup that Quarto generates for figures with alt text                                                           |
+| `data/travel_times.csv`     | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate                                            |
+| `data/known_world.json`     | Areas reachable at all in the Roman and medieval eras                                                                               |
+| `maps/`                     | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
+| `maps/output/`              | The generated maps, comparison chart and cover used by the book                                                                     |
 
 ## Everyday tasks
 
