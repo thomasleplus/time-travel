@@ -2,6 +2,9 @@
 
 A book with isochrone maps showing how long it took to travel from Paris, from Roman times to today.
 
+[![CI](https://github.com/leplusorg/randalf/workflows/CI/badge.svg)](https://github.com/leplusorg/randalf/actions?query=workflow:"CI")
+[![Pages](https://github.com/leplusorg/randalf/workflows/Pages/badge.svg)](https://github.com/leplusorg/randalf/actions?query=workflow:"Pages")
+
 ## Requirements
 
 - [Quarto](https://quarto.org) 1.4 or later
@@ -21,19 +24,19 @@ quarto preview                # live preview while editing
 
 ## Layout
 
-| Path | What it is |
-| --- | --- |
-| `_quarto.yml` | Book structure, chapter order and output formats |
-| `index.qmd` | Introduction and conventions |
-| `chapters/*.qmd` | One file per chapter, the interlude, the comparison and the closing |
-| `references.bib` | Every source, once, with a citation key |
-| `references.qmd` | The generated reference list |
-| `styles/numeric.csl` | Citation style: numbered `[1]` citations in order of first use |
-| `styles/reference.docx` | Word template (edit its styles to restyle the .docx output) |
-| `data/travel_times.csv` | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate |
-| `data/known_world.json` | Areas reachable at all in the Roman and medieval eras |
-| `maps/` | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
-| `maps/output/` | The generated maps and comparison chart used by the book |
+| Path                    | What it is                                                                                                                          |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| `_quarto.yml`           | Book structure, chapter order and output formats                                                                                    |
+| `index.qmd`             | Introduction and conventions                                                                                                        |
+| `chapters/*.qmd`        | One file per chapter, the interlude, the comparison and the closing                                                                 |
+| `references.bib`        | Every source, once, with a citation key                                                                                             |
+| `references.qmd`        | The generated reference list                                                                                                        |
+| `styles/numeric.csl`    | Citation style: numbered `[1]` citations in order of first use                                                                      |
+| `styles/reference.docx` | Word template (edit its styles to restyle the .docx output)                                                                         |
+| `data/travel_times.csv` | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate                                            |
+| `data/known_world.json` | Areas reachable at all in the Roman and medieval eras                                                                               |
+| `maps/`                 | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
+| `maps/output/`          | The generated maps and comparison chart used by the book                                                                            |
 
 ## Everyday tasks
 
