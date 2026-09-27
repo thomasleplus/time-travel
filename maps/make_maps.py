@@ -1,7 +1,8 @@
 """Regenerate every map and the comparison chart from data/travel_times.csv.
 
-Usage (from the repository root):   python maps/make_maps.py            # all eras
+Usage (from the repository root):   python maps/make_maps.py            # all eras and the cover
                                      python maps/make_maps.py 1914 today # selected eras
+                                     python maps/make_maps.py cover      # the cover only
 Outputs go to maps/output/. Requires numpy and matplotlib.
 """
 
@@ -278,12 +279,18 @@ ERAS = {
 # jscpd:ignore-end
 
 
-def make_era(era, nodes):
-    """Draw the Europe and world maps for one era."""
-    et, es, wt, ws, eul, wl, opts = ERAS[era]
-    opts = dict(opts)
+def options(era):
+    """Render options for one era, with its reach resolved to a polygon."""
+    opts = dict(ERAS[era][6])
     if "reach" in opts:
         opts["reach"] = [tuple(p) for p in REACH[opts["reach"]]]
+    return opts
+
+
+def make_era(era, nodes):
+    """Draw the Europe and world maps for one era."""
+    et, es, wt, ws, eul, wl, _ = ERAS[era]
+    opts = options(era)
     render.europe(nodes, eul, et, es, os.path.join(OUT, f"europe_{era}.png"), **opts)
     render.world(nodes, wl, wt, ws, os.path.join(OUT, f"world_{era}.png"), **opts)
     print("made", era)
@@ -378,12 +385,26 @@ def make_chart(eras):
     print("made comparison chart")
 
 
+def make_cover(eras):
+    """Draw the cover: for e-books (1600 x 2560 px, as Kindle recommends) and for the A4 PDF."""
+    strips = [(label, eras[e], options(e)) for e, label in zip(ORDER, LABELS)]
+    outputs = [
+        (os.path.join(OUT, "cover.png"), (8, 12.8), 200),
+        (os.path.join(OUT, "cover.pdf"), (8.27, 11.69), 300),
+    ]
+    render.cover(strips, "How Far Is Paris?", "Two Thousand Years of Travel Time", "Thomas Leplus", outputs)
+    print("made cover")
+
+
 def main():
-    """Draw the maps for the eras given as arguments (default: all), then the chart."""
+    """Draw the maps for the eras given as arguments (default: all, and the cover), then the chart."""
     eras = load()
-    wanted = sys.argv[1:] or ORDER
+    wanted = sys.argv[1:] or ORDER + ["cover"]
     for e in wanted:
-        make_era(e, eras[e])
+        if e == "cover":
+            make_cover(eras)
+        else:
+            make_era(e, eras[e])
     make_chart(eras)
 
 

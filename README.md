@@ -35,13 +35,16 @@ quarto preview                # live preview while editing
 | `data/travel_times.csv` | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate                                            |
 | `data/known_world.json` | Areas reachable at all in the Roman and medieval eras                                                                               |
 | `maps/`                 | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
-| `maps/output/`          | The generated maps and comparison chart used by the book                                                                            |
+| `maps/output/`          | The generated maps, comparison chart and cover used by the book                                                                     |
 
 ## Everyday tasks
 
 **Change a travel time.** Edit the row in `data/travel_times.csv`, run `python maps/make_maps.py <era>`
 (for example `python maps/make_maps.py 1914`, or no argument for everything), then update the chapter's table
 text to match. The comparison chart is rebuilt every time.
+
+**Change the cover.** It is drawn from the data by `cover()` in `maps/render.py`: run `python maps/make_maps.py cover`.
+It produces `cover.png` for the website and e-books and `cover.pdf` for the PDF.
 
 **Cite a source.** Add an entry to `references.bib` and cite it in the text as `[@key]`, or `[@key1; @key2]`.
 Numbering and the reference list are generated automatically.

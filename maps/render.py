@@ -208,6 +208,65 @@ def europe(
     plt.close(fig)
 
 
+def cover(eras, title, subtitle, author, outputs):
+    """Draw the book cover: one stretch of Europe cut into a strip per era.
+
+    eras lists (label, nodes, options) from the oldest era to the newest. Each
+    output is (path, (width, height) in inches, dpi); the map widens or narrows
+    to fill the page, so every strip keeps the same geography.
+    """
+    lon = np.arange(-16, 42.01, 0.08)
+    lat = np.arange(33, 64.01, 0.08)
+    surfaces = []
+    for label, nodes, opts in eras:
+        LON, LAT, T = _surface(nodes, lon, lat, 5, 700, opts["v_max"], 4, opts["off_kmd"], opts.get("reach"))
+        surfaces.append((label, T))
+    for out, size, dpi in outputs:
+        _cover_page(LON, LAT, surfaces, title, subtitle, author, out, size, dpi)
+
+
+def _cover_page(LON, LAT, surfaces, title, subtitle, author, out, size, dpi):
+    box = [0, 0.15, 1, 0.64]
+    lat0, lat1 = 37.5, 56
+    # Same aspect as the Europe maps, centred on Paris so that every strip crosses land
+    k = 1 / np.cos(np.radians(48))
+    span = (lat1 - lat0) * k * (size[0] * box[2]) / (size[1] * box[3])
+    lon0 = 2.35 - span / 2
+    n = len(surfaces)
+    fig = plt.figure(figsize=size, dpi=dpi, facecolor=INK)
+    ax = fig.add_axes(box)
+    for p in geo.land_polygons():
+        ax.add_patch(Polygon(p, closed=True, fc=NOSERVICE, ec="none", zorder=0.5))
+    for i, (label, T) in enumerate(surfaces):
+        a, b = lon0 + i * span / n, lon0 + (i + 1) * span / n
+        strip = np.ma.masked_where((LON < a) | (LON > b), T)
+        ax.pcolormesh(LON, LAT, strip, cmap=CMAP, norm=NORM, shading="auto", rasterized=True, zorder=1)
+        if i:
+            ax.axvline(a, color=INK, lw=size[0] * 0.25, zorder=4)
+        fig.text(
+            box[0] + box[2] * (i + 0.5) / n,
+            box[1] - 0.012,
+            label,
+            ha="center",
+            va="top",
+            fontsize=size[0] * 1.4,
+            color="white",
+        )
+    # The sea is the page colour, so the land floats on the cover
+    for p in geo.water_polygons():
+        ax.add_patch(Polygon(p, closed=True, fc=INK, ec="none", zorder=2))
+    ax.plot(2.35, 48.86, "o", ms=size[0] * 1.1, mfc="white", mec=INK, mew=1.2, zorder=5)
+    ax.set_xlim(lon0, lon0 + span)
+    ax.set_ylim(lat0, lat1)
+    ax.set_aspect(k)
+    ax.axis("off")
+    fig.text(0.07, 0.93, title, fontsize=size[0] * 5, fontweight="bold", color="white", va="top")
+    fig.text(0.07, 0.855, subtitle, fontsize=size[0] * 2.6, color="#fee08b", va="top")
+    fig.text(0.07, 0.045, author, fontsize=size[0] * 2.4, color="white", va="bottom")
+    fig.savefig(out, dpi=dpi, facecolor=INK, metadata={"CreationDate": None} if out.endswith(".pdf") else None)
+    plt.close(fig)
+
+
 def world(
     nodes,
     labels,
