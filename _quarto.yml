@@ -35,7 +35,8 @@ book:
   page-footer:
     left: >-
       © 2026 Thomas Leplus · ISBN 978-2-493382-01-6 ·
-      [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+      [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ·
+      Code: [github.com/thomasleplus/time-travel](https://github.com/thomasleplus/time-travel)
   chapters:
     - index.qmd
     - chapters/01-roman.qmd
@@ -85,7 +86,9 @@ format:
     rights: >-
       © 2026 Thomas Leplus. ISBN 978-2-493382-01-6. This book is licensed under the Creative Commons
       Attribution-NonCommercial-ShareAlike 4.0 International License
-      (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+      (https://creativecommons.org/licenses/by-nc-sa/4.0/). The code that draws the maps is
+      licensed under the Apache License 2.0 and is available at
+      https://github.com/thomasleplus/time-travel.
     toc: true
     number-sections: true
     filters:
