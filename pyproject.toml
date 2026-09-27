@@ -1,0 +1,70 @@
+[project]
+name = "time-travel"
+version = "1.0.0"
+authors = [
+  { name="Thomas Leplus", email="thomas@leplus.org" },
+]
+maintainers = [
+  { name="Thomas Leplus", email="thomas@leplus.org" },
+]
+description = "A book with isochrone maps showing how long it took to travel from Paris, from Roman times to today."
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+  "Operating System :: OS Independent",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+]
+keywords = ["isochrone", "maps", "travel time", "history", "Paris"]
+dependencies = [
+  "matplotlib==3.11.2",
+  "numpy==2.5.3",
+]
+
+[project.urls]
+Documentation = "https://thomasleplus.github.io/time-travel/"
+Homepage = "https://thomasleplus.github.io/time-travel/"
+Issues = "https://github.com/thomasleplus/time-travel/issues"
+Source = "https://github.com/thomasleplus/time-travel.git"
+
+[dependency-groups]
+dev = [
+    "ruff==0.16.9",
+]
+
+[tool.ruff]
+src = ["maps"]
+line-length = 120
+
+[tool.ruff.lint]
+ignore = ["E203"]
+
+[tool.black]
+line-length = 120
+# Oldest supported Python (requires-python); otherwise Black targets future versions too
+target-version = ["py312"]
+
+[tool.isort]
+profile = "black"
+line_length = 120
+# Sibling modules in maps/, imported by name because the scripts run from there
+known_first_party = ["geo", "render", "surface"]
+
+[tool.pylint.format]
+max-line-length = 120
+
+[tool.pylint."messages control"]
+disable = [
+    # The map code uses math-style names: P and T for node positions and times,
+    # LON/LAT/LAND for grids, X/Y for projected coordinates.
+    "invalid-name",
+    # Module and entry-point docstrings are kept; small helpers are self-explanatory.
+    "missing-function-docstring",
+    # The drawing functions take many styling options by design.
+    "too-many-arguments",
+    "too-many-positional-arguments",
+    "too-many-locals",
+]

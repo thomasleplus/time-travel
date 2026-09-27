@@ -1,6 +1,12 @@
-# Schematic coastlines (lon, lat), hand-authored at roughly 0.5-2 degree detail.
-# Good enough for isochrone maps at continental/world scale; not survey-accurate.
+"""Schematic coastlines (lon, lat), hand-authored at roughly 0.5-2 degree detail.
 
+Good enough for isochrone maps at continental/world scale; not survey-accurate.
+"""
+
+# The coordinate tables are kept compact on purpose: one row per stretch of coast
+# instead of one point per line.
+# pylint: disable=line-too-long
+# fmt: off
 EURASIA = [
  (-5.6,36.0),(-6.3,36.5),(-7.0,37.2),(-7.9,37.0),(-9.0,37.0),(-8.9,37.95),(-9.4,38.7),(-9.4,39.35),(-8.7,41.15),
  (-8.8,42.2),(-9.3,42.9),(-8.4,43.4),(-7.9,43.75),(-5.7,43.55),(-3.8,43.45),(-2.9,43.35),(-2.0,43.3),(-1.55,43.5),
@@ -183,10 +189,16 @@ WATER = {
  'Lake Victoria': [(31.7,-0.3),(33.9,0.3),(34.9,-0.4),(33.3,-2.5),(31.8,-1.8)],
  'Lake Baikal': [(104.3,51.6),(106.5,52.5),(109.5,55.7),(110.0,55.5),(107.5,53.0),(105.0,51.5)],
 }
+# fmt: on
+# pylint: enable=line-too-long
+
 
 def land_polygons():
+    """Land outlines: the three continents and the islands."""
     polys = [EURASIA, AFRICA, AMERICAS] + list(ISLANDS.values())
     return polys
 
+
 def water_polygons():
+    """Inland seas and lakes, drawn over land."""
     return list(WATER.values())

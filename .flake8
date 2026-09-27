@@ -1,0 +1,8 @@
+[flake8]
+# Flake8 cannot read pyproject.toml. Match the line length there and Black
+# (https://black.readthedocs.io/en/stable/guides/using_black_with_other_tools.html)
+max-line-length = 120
+extend-ignore = E203, E701, E704
+per-file-ignores =
+    # Hand-authored coordinate tables, kept compact (see the module docstring)
+    maps/geo.py: E128, E231, E501
