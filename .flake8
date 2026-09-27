@@ -1,8 +1,7 @@
 [flake8]
-# Flake8 cannot read pyproject.toml. Match the line length there and Black
-# (https://black.readthedocs.io/en/stable/guides/using_black_with_other_tools.html)
+# Same as super-linter's default config, which this file replaces
 max-line-length = 120
-extend-ignore = E203, E701, E704
+extend-ignore = E203
 per-file-ignores =
     # Hand-authored coordinate tables, kept compact (see the module docstring)
     maps/geo.py: E128, E231, E501
