@@ -45,7 +45,7 @@ jobs:
           if-no-files-found: error
 
   book:
-    name: Render book
+    name: Render HTML and PDF
     runs-on: ubuntu-latest
     permissions:
       # Required to read the code
@@ -61,15 +61,49 @@ jobs:
         with:
           # Required for PDF output
           tinytex: true
+      # The site is the HTML book plus the PDF behind its download button
+      # (book.downloads in _quarto.yml). Each single-format render cleans
+      # _book/, and --to accepts only one format, so the PDF is rendered
+      # first, set aside while the HTML renders, then copied back.
       - name: Render book
         shell: bash
         run: |
           set -euo pipefail
           IFS=$'\n\t'
-          quarto render
-      - name: Upload book
-        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+          quarto render --to pdf
+          mkdir "${RUNNER_TEMP}/pdf"
+          mv _book/*.pdf "${RUNNER_TEMP}/pdf/"
+          quarto render --to html
+          mv "${RUNNER_TEMP}"/pdf/*.pdf _book/
+      # Uploaded on every run so the rendered site can be downloaded from
+      # any run, and deployed as-is on main.
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
-          name: book
           path: _book/
-          if-no-files-found: error
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: [maps, book]
+    if: ${{ github.event_name != 'pull_request' && github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    permissions:
+      # Required to deploy to GitHub Pages
+      pages: write
+      # Required to verify the deployment originates from this workflow
+      id-token: write
+    # Allow one deployment at a time, and let an in-progress deployment finish
+    # rather than cancelling it part way through. Set on this job only so that
+    # CI runs on other branches and pull requests are not queued behind it.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check GitHub Pages configuration
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

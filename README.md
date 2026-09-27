@@ -2,8 +2,7 @@
 
 A book with isochrone maps showing how long it took to travel from Paris, from Roman times to today.
 
-[![CI](https://github.com/leplusorg/randalf/workflows/CI/badge.svg)](https://github.com/leplusorg/randalf/actions?query=workflow:"CI")
-[![Pages](https://github.com/leplusorg/randalf/workflows/Pages/badge.svg)](https://github.com/leplusorg/randalf/actions?query=workflow:"Pages")
+[![CI](https://github.com/thomasleplus/time-travel/actions/workflows/ci.yml/badge.svg)](https://github.com/thomasleplus/time-travel/actions/workflows/ci.yml)
 
 ## Requirements
 
