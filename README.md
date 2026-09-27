@@ -67,3 +67,9 @@ Please read [SECURITY.md](SECURITY.md) for details on our security policy and ho
 ## Code of Conduct
 
 Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct.
+
+## License
+
+The book (text, maps, charts and data) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE) (CC BY-NC-SA 4.0).
+
+The code in [`maps/`](maps/) that draws the maps is licensed under the [Apache License 2.0](maps/LICENSE).

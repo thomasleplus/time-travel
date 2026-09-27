@@ -19,6 +19,9 @@ classifiers = [
   "Programming Language :: Python :: 3.14",
 ]
 keywords = ["isochrone", "maps", "travel time", "history", "Paris"]
+# The book (text, maps, data) is CC BY-NC-SA 4.0; the code in maps/ is Apache-2.0
+license = "CC-BY-NC-SA-4.0 AND Apache-2.0"
+license-files = ["LICENSE", "maps/LICENSE"]
 dependencies = [
   "matplotlib==3.11.2",
   "numpy==2.5.3",
