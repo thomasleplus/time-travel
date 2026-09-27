@@ -56,6 +56,10 @@ known_first_party = ["geo", "render", "surface"]
 [tool.pylint.format]
 max-line-length = 120
 
+[tool.pylint.typecheck]
+# Not installed in the super-linter image
+ignored-modules = ["matplotlib", "numpy"]
+
 [tool.pylint."messages control"]
 disable = [
     # The map code uses math-style names: P and T for node positions and times,
