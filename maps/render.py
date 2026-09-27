@@ -7,7 +7,6 @@ import numpy as np
 from matplotlib.colors import BoundaryNorm, ListedColormap
 from matplotlib.patches import Polygon, Rectangle
 from matplotlib.path import Path
-from matplotlib.transforms import Bbox, TransformedBbox
 
 import geo
 import surface
