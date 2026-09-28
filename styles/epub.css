@@ -5,6 +5,12 @@
  * attribute selectors, :not() or margin-inline-start).
  */
 
+/*
+ * The CSS 2.1 page-break properties, not their newer break-* replacements,
+ * because e-readers and store checkers support the older names.
+ */
+/* stylelint-disable property-no-deprecated */
+
 html {
   line-height: 1.3;
   font-family: Georgia, serif;
