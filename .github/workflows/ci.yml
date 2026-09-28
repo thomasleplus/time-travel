@@ -5,7 +5,7 @@ on:
   push:
   pull_request:
   workflow_dispatch:
-  # Attaches the book files to the release (release job)
+  # Publishes the site (deploy job) and attaches the book files to the release (release job)
   release:
     types: [published]
 
@@ -57,7 +57,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          fetch-depth: 1
+          # The full history, for the tags that filters/git-revision.lua prints in the book
+          fetch-depth: 0
           persist-credentials: false
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
@@ -107,7 +108,7 @@ jobs:
             _book/maps/output/cover.png
           if-no-files-found: error
       # Uploaded on every run so the rendered site can be downloaded from
-      # any run, and deployed as-is on main.
+      # any run, and deployed as-is on releases.
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
@@ -116,7 +117,9 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     needs: [maps, book]
-    if: ${{ github.event_name != 'pull_request' && github.ref == 'refs/heads/main' }}
+    # Only releases, so the site always matches the released book. The github-pages environment
+    # must allow deployments from release tags (Settings > Environments).
+    if: ${{ github.event_name == 'release' }}
     runs-on: ubuntu-latest
     permissions:
       # Required to deploy to GitHub Pages

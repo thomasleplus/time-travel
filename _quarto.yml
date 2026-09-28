@@ -36,7 +36,8 @@ book:
     left: >-
       © 2026 Thomas Leplus · ISBN 978-2-493382-01-6 ·
       [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ·
-      Code: [github.com/thomasleplus/time-travel](https://github.com/thomasleplus/time-travel)
+      Code: [github.com/thomasleplus/time-travel](https://github.com/thomasleplus/time-travel) ·
+      {{< meta revision >}}
   chapters:
     - index.qmd
     - chapters/01-roman.qmd
@@ -55,6 +56,9 @@ book:
 bibliography: references.bib
 csl: styles/numeric.csl
 link-citations: true
+# Adds the git revision the book was built from (see the filter)
+filters:
+  - filters/git-revision.lua
 
 fig-cap-location: bottom
 lang: en-GB

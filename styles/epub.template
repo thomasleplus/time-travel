@@ -1,6 +1,7 @@
 $-- Pandoc's EPUB 3 template (pandoc 3.10), without $header-includes$.
 $-- Quarto puts CSS for callouts and figure layouts there, which the book
 $-- does not use and which e-book stores warn about (see _quarto.yml).
+$-- The title page also shows the git revision (filters/git-revision.lua).
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
@@ -48,6 +49,9 @@ $if(date)$
 $endif$
 $if(rights)$
   <div class="rights">$rights$</div>
+$endif$
+$if(revision)$
+  <p class="revision">$revision$</p>
 $endif$
 $if(abstract)$
 <div class="abstract">
