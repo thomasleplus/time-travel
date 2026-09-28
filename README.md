@@ -37,6 +37,8 @@ quarto preview                # live preview while editing
 | `styles/reference.docx`     | Word template (edit its styles to restyle the .docx output)                                                                         |
 | `styles/cover.tex`          | Puts the cover before the title page of the PDF                                                                                     |
 | `styles/copyright-page.tex` | The PDF's copyright page (the EPUB's is the `rights` field in `_quarto.yml`)                                                        |
+| `styles/epub.css`           | The EPUB's stylesheet, in place of pandoc's default                                                                                 |
+| `styles/epub.template`      | Pandoc's EPUB template, without the CSS Quarto adds to every chapter                                                                |
 | `filters/epub-div-alt.lua`  | Fixes invalid EPUB markup that Quarto generates for figures with alt text                                                           |
 | `data/travel_times.csv`     | Every mapped travel time: era, place, coordinates, hours from Paris, sourced or estimate                                            |
 | `data/known_world.json`     | Areas reachable at all in the Roman and medieval eras                                                                               |

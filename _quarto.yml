@@ -91,6 +91,10 @@ format:
       https://github.com/thomasleplus/time-travel.
     toc: true
     number-sections: true
+    # E-book stores warn about CSS in pandoc's default stylesheet and in the styles Quarto
+    # adds to every chapter, so the book has its own stylesheet and a template without them
+    css: styles/epub.css
+    template: styles/epub.template
     filters:
       - path: filters/epub-div-alt.lua
         at: post-render
