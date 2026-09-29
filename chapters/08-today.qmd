@@ -46,6 +46,16 @@ The experience of speed has split in two. Within Europe, the high-speed train ru
 
 For most journeys from Paris, paying has become almost invisible: a card or a phone works nearly everywhere, and within the euro area there is no currency to exchange at all. Moscow is again the exception. Since March 2022, when Visa and Mastercard suspended their operations in Russia, cards issued abroad no longer work there [@visa-mastercard-suspend], so a traveller from Paris must carry cash, much as travellers did before the circular note.
 
+### Papers
+
+On 14 June 1985, five countries, Belgium, France, Luxembourg, the Netherlands and West Germany, signed an agreement on the gradual abolition of their common border controls aboard the riverboat *Princesse Marie-Astrid*, on the Moselle near Schengen, where France, Germany and Luxembourg meet [@schengen-agreement]. It came into force for some of them in 1995; the Schengen Area now covers 29 countries and over 450 million people, with no internal border controls [@schengen-agreement].
+
+Britain stayed out, and Eurostar carries the border with it. At first French police checked passengers' documents on board; from June 1998 control booths were set up at the Gare du Nord [@juxtaposed-controls], and passengers now leave the Schengen Area and enter the United Kingdom before boarding [@juxtaposed-controls], arriving in Britain, for legal purposes, while still in Paris. Since 2 April 2025, European visitors to the United Kingdom have also needed an Electronic Travel Authorisation, valid for two years [@uk-eta]. It cost £10 when announced, £16 from 9 April 2025, a week after European travellers began paying it, and £20 (about $30) since 8 April 2026 [@uk-eta; @gbp-usd-historical].
+
+The traffic runs both ways. Since 10 April 2026 the European Union's Entry/Exit System has recorded the fingerprints and faces of non-EU visitors at every Schengen border, and passport stamps have been discontinued [@entry-exit-system], taking with them the traveller's collection of souvenirs from border police. At some border points the wait has reached five hours, and some airlines and airports have called for the system's suspension [@entry-exit-system]. From 2027, visa-exempt visitors to the Schengen Area are also due to need an ETIAS authorisation [@etias].
+
+Further afield, a French visitor to New York needs no visa but an ESTA authorisation, $40.27, valid for up to two years [@visa-waiver-program]. Moscow needs a visa, now obtainable online as an e-Visa for stays of up to 30 days [@visa-policy-russia]. At the border, foreigners may have their fingerprints taken and their phones searched, contacts, correspondence and social media included, with officers looking in particular for contact with Ukrainians and opinions on the war [@visa-policy-russia]. Baedeker's advice of 1914, to avoid books of a political nature, has found its modern equivalent.
+
 ### Risks
 
 Travel has never been safer. Airline travel is now the safest form of transport: more people die in car accidents in the United States in three months than have died in the entire history of commercial flight [@evolution-commercial-flying]. The rare crashes, such as the Concorde accident of 25 July 2000, are remembered precisely because they are so rare [@evolution-commercial-flying; @air-france-commemorates].
