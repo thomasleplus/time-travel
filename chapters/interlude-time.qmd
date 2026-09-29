@@ -1,0 +1,39 @@
+# Interlude · What time is it in Paris? {.unnumbered}
+
+Every table in this book measures a journey in hours and days, as if the clocks at both ends agreed. For most of history they did not. The traveller who set out from Paris had to deal not only with the length of the road but also with the question of what time, and sometimes what date, it was at the other end.
+
+## Hours that stretched
+
+A Roman divided the daylight into twelve hours, whatever the season. At the latitude of the Mediterranean, an hour lasted about 45 minutes at the winter solstice and 75 minutes at the summer solstice [@roman-timekeeping]. A day's journey was a day of daylight, and its length changed with the season as much as the road did.
+
+The mechanical clock appeared only around 1300, the date of Chapter 2. References to clocks multiply between 1280 and 1320; Dunstable Priory had one in 1283 and Canterbury Cathedral a 'great horloge' in 1292 [@clock]. They were very inaccurate, with errors of perhaps an hour a day, and the word itself comes from the medieval Latin *clocca*, 'bell' [@clock]. For the traveller of 1300 the hour was something heard from a tower, not something carried in a pocket.
+
+## Calendars that disagreed
+
+Then the calendar split. France adopted the Gregorian calendar in 1582: Sunday 9 December was followed by Monday 20 December [@adoption-gregorian-calendar]. Britain waited until 1752, when Wednesday 2 September was followed by Thursday 14 September, a correction by then of eleven days [@adoption-gregorian-calendar]. For 170 years, a traveller crossing the Channel also crossed ten or eleven days of the calendar.
+
+The Revolution tried to go further. A decree of 5 October 1793 divided the day into ten hours of 100 minutes of 100 seconds [@decimal-time]. Decimal time was used for public records only from 22 September 1794, and its compulsory use was suspended on 7 April 1795; Toulouse kept a decimal clock on the front of its Capitole for five years regardless [@decimal-time]. Unlike the metre, decimal time never caught on [@decimal-time].
+
+## Every town its own noon
+
+Until the railway, every town kept its own time, set by the sun. Before 1891 each town in France had its own local solar time [@time-in-france]. In Britain, local times differed by up to twenty minutes from London's: Oxford ran five minutes behind Greenwich, Leeds six, and Barrow almost thirteen [@railway-time]. On a coach journey of several days this mattered little; travellers moved the hands of their watches along the way, and the coaching companies published schedules giving the corrections needed [@railway-time].
+
+A railway timetable could not work like that. The Great Western Railway imposed a single time on its whole line in November 1840, the first recorded use of a standard time; other lines followed, but the British government legislated a single national time only in 1880 [@railway-time]. The Channel still divided the clocks: the South Eastern Railway's timetable of 1890 marked each time with a symbol, '* French Time. † English Time.' [@time-tables-south].
+
+France unified its time in 1891 on the mean time of the Paris Observatory, 9 minutes 21 seconds ahead of Greenwich [@time-in-france]. The railways added a refinement. Clocks inside the stations, and the timetables, ran five minutes behind the clocks on the outside walls, to allow travellers to arrive late without missing their trains [@railway-time], or, as another account puts it, 'for the benefit of non-punctual travellers' [@time-in-france].
+
+## The meridian that France would not name
+
+At the International Meridian Conference in Washington in 1884, the delegates voted by 22 to 1 to count longitude from Greenwich; San Domingo voted against, and France and Brazil abstained [@international-meridian-conference]. France held out until 1911, and even then would not use the name: its legal time became 'Paris mean time, retarded by 9 minutes and 21 seconds' [@international-meridian-conference], which is Greenwich time by another name. The slow station clocks went at the same time [@railway-time]. The formula survived until 1978, when France replaced it with Coordinated Universal Time [@international-meridian-conference].
+
+## Thirteen days behind
+
+Further east, the gap was wider. When Gaston Stiegler left Paris in 1901, Russia still kept the Julian calendar, '13 days behind the rest of Europe', as Baedeker explained in 1914: 'thus Jan. 1st in Russia is really Jan. 14th' [@baedeker-russia-1914]. Stiegler reached St Petersburg on 31 May by the calendar of Paris, which in St Petersburg was 18 May [@stiegler-gaston]. Russia changed calendars only in 1918, when Wednesday 31 January was followed by Thursday 14 February [@adoption-gregorian-calendar].
+
+Russian railways kept one time across an empire. All timetables used St Petersburg time, '61 min. in advance of Central European, and 2 hrs. 1 min. in advance of Greenwich time', and station clocks showed it, 'and occasionally local time as well' [@baedeker-russia-1914]. When it was noon in St Petersburg, it was 12.29 p.m. in Moscow and 2.52 p.m. in Omsk [@baedeker-russia-1914]. Beyond Lake Baikal the railway clocks gave up and showed Irkutsk time, 4 hours 56 minutes ahead of St Petersburg, and from the Manchurian border Kharbin time, 6 hours 25 minutes ahead [@baedeker-russia-1914]. A traveller on the Trans-Siberian could consult three clocks and trust none of them.
+
+## The body's clock
+
+The aeroplane moved the problem from the watch to the body. The aviator Wiley Post was the first to write about the effects of flying across time zones, in *Around the World in Eight Days* in 1931, long before anyone called it jet lag [@jet-lag]. Recovery takes on average about one day for every hour of time difference [@jet-lag], so a flight from Paris to New York, six time zones to the west, takes eight hours or so to fly and most of a week to get over. The clock at the destination is right; it is the traveller who is late.
+
+Hence the rule behind every table in this book: a travel time is the time that elapsed on the way, whatever the clocks at either end may say. The clocks have agreed on a system only for the last century or so; the traveller's body has yet to sign up.

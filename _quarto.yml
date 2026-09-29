@@ -46,6 +46,7 @@ book:
     - chapters/04-1850.qmd
     - chapters/interlude-news.qmd
     - chapters/05-1914.qmd
+    - chapters/interlude-time.qmd
     - chapters/06-1950.qmd
     - chapters/07-1975.qmd
     - chapters/08-today.qmd

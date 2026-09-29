@@ -53,13 +53,21 @@ Messengers were the fastest travellers of all, because they rode at night and ch
 
 The sea was faster but far less predictable. Merchants' letters between Florence and Genoa took a steady 5 to 7 days, but letters between London and Naples, which involved a sea passage, took anywhere from 27 to 75 days [@how-far-how].
 
+## The effort of the journey
+
+A long journey had to be organized as much as ridden. Francesco Balducci Pegolotti's handbook for Florentine merchants, written about 1340, begins its advice for the road to Cathay: 'you must let your beard grow long and not shave' [@advice-merchants-bound]. At Tana, on the Sea of Azov, the merchant should hire a dragoman, or interpreter, and not a cheap one: 'the additional wages of the good one will not cost you so much as you will save by having him' [@advice-merchants-bound]. He should also take two menservants who knew the Cumanian tongue, and from Tana to Astrakhan, 'twenty-five days' provisions, that is to say, flour and salt fish, for as to meat you will find enough of it' [@advice-merchants-bound].
+
+Nearer home, the Church kept the roads habitable. Around 1050, Bernard of Menthon, archdeacon of Aosta, 'regularly saw travellers arriving terrorised and distressed', and founded the hospice on the pass that later took his name, the Great St Bernard [@great-st-bernard]. The brandy kegs of its famous dogs appear to be largely a nineteenth-century myth [@great-st-bernard].
+
+Pilgrims even had a guidebook. Book V of the twelfth-century *Codex Calixtinus* told pilgrims to Santiago de Compostela where to stop and which relics to venerate, and warned them of bad food and commercial scams, among which the author counted other churches claiming relics of St James; it has been called the first tourist's guidebook [@codex-calixtinus].
+
 ## Paying the way
 
 In 1300 no single money served a traveller from Paris. Every kingdom and city minted its own coins, and a long journey meant repeated visits to money-changers. Two Italian gold coins became the nearest thing to an international currency: the Florentine florin, first struck in 1252, and the Venetian ducat of 1284 [@money-coinage-late]. The florin dominated trade in western Europe as far as the North Sea, the ducat in the Mediterranean [@trade-methods-exchange].
 
 Carrying coin was dangerous, so merchants avoided it. Italian banking firms issued bills of exchange: money paid to a bank in one city was paid out by its partner in another, so no coins had to travel [@tuscan-banking-middle]. When that system could not cope, the alternative was stark: in 1327, 100,000 florins were sent from Avignon to Bologna on fifteen pack animals, guarded by an armed escort of forty-six [@avignon-exchange]. The case for the bill of exchange rather makes itself.
 
-At the far end of the road to Asia, the rules changed again. A Florentine merchant's handbook of about 1340 advised travellers to China to bring silver: the Mongol ruler took it into his treasury and gave them in exchange yellow paper money bearing his seal, which everyone in the country was obliged to accept [@advice-merchants-bound]. It reckoned that a merchant with an interpreter, two servants, and goods worth 25,000 gold florins would spend 60 to 80 *sommi* of silver on the way [@advice-merchants-bound]. No passenger fare from this period could be found, and no price index reaches back far enough to convert the *sommi*, so this chapter gives no modern equivalents.
+At the far end of the road to Asia, the rules changed again. Pegolotti's handbook advised travellers to China to bring silver: the Mongol ruler took it into his treasury and gave them in exchange yellow paper money bearing his seal, which everyone in the country was obliged to accept [@advice-merchants-bound]. It reckoned that a merchant with an interpreter, two servants, and goods worth 25,000 gold florins would spend 60 to 80 *sommi* of silver on the way [@advice-merchants-bound]. No passenger fare from this period could be found, and no price index reaches back far enough to convert the *sommi*, so this chapter gives no modern equivalents.
 
 ## Papers
 
@@ -74,6 +82,10 @@ The Mongols, whose envoy Bar Sauma was, had a true official pass. The *paiza* wa
 War could stop a journey outright, as Bar Sauma and Markos had found on the road to Jerusalem [@rabban-bar-sauma]. In June 1287, off Naples, Bar Sauma watched a naval battle in the war between Anjou and Aragon over Sicily, in which, by his account, 12,000 men were killed [@rabban-bar-sauma].
 
 Crowds carried their own dangers. At the Jubilee of 1300 in Rome, contemporaries reported pilgrims trampled or crushed to death in the throng [@first-jubilee].
+
+Pegolotti judged the road from Tana to Cathay 'perfectly safe, whether by day or by night', according to the merchants who had used it; but if a merchant died on the way, everything he carried went to the lord of the country [@advice-merchants-bound]. On the worst stretch, from Tana to Sara, 'if you are some sixty men in the company you will go as safely as if you were in your own house' [@advice-merchants-bound].
+
+Within half a century of this chapter's date, disease had added a new delay. After the Black Death of 1348, Ragusa (Dubrovnik) imposed in 1377 a *trentino*, a thirty-day isolation for newcomers before they could enter the city; in 1448 Venice lengthened the wait to forty days, the *quarantena* that gave quarantine its name [@quarantine].
 
 ## Who travelled, and how many
 

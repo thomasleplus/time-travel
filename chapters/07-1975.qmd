@@ -42,6 +42,12 @@ Jets had made the long crossings short: the first passenger jets of 1958 cut the
 
 For a few years, jetting across the Atlantic was fashionable and prestigious enough to give its name to a social class, the 'jet set'; falling fares in the 1970s then opened flying to far more people and undermined that exclusivity [@evolution-commercial-flying].
 
+## The effort of the journey
+
+Booking was moving onto computers. American Airlines had developed its Sabre system with IBM from 1960; launched in 1964, it was the world's first fully operational computer reservation system, and travel agents could use it from 1976 [@sabre].
+
+Luggage still had to be carried. Bernard Sadow's wheeled suitcase went on sale at Macy's in 1970 and was patented in 1972 [@suitcase]. Until then the travel industry had shunned rolling luggage, regarding it as much less masculine than the traditional kind [@suitcase], a view that rarely survives a long airport corridor.
+
 ## Paying the way
 
 The payment card reached France. In 1967 a group of leading French banks launched the Carte Bleue, modelled on the American credit cards of the late 1950s, and the first French cash machine followed in 1968 [@18-dates-that]. From 1973 a Carte Bleue Internationale, linked to the American BankAmericard, worked abroad; it became Carte Bleue Visa in 1976 [@carte-bleue]. Acceptance was slow, though: the card only became the French people's first means of payment in 2003 [@18-dates-that]. For a trip abroad in 1975, most travellers still carried cash and traveller's cheques.
@@ -53,6 +59,8 @@ Within western Europe, papers were getting lighter. From the early days of the E
 Britain offered its own shortcut. From 1961 the British Visitor's Passport, a single sheet of card folded in three and valid for one year, could be had from an Employment Exchange and later from a Post Office, and was accepted by most west European countries, though not for surface travel to West Berlin [@british-passport]. It was dropped in 1995 for failing to meet new security standards [@british-passport].
 
 Across the Atlantic, the old rules held. However cheap the ticket, a British or French tourist bound for New York still needed a visa: the United Kingdom joined the US Visa Waiver Program only in July 1988, a year before France [@visa-waiver-program]. The passport itself was about to be written for machines: the International Civil Aviation Organization standardized passports in 1980 [@passport], and Britain issued its first machine-readable passports in 1988 [@british-passport].
+
+The medical certificate did its most useful work in these years. Making the smallpox certificate mandatory got far more travellers vaccinated, just as the rapid growth of air travel in the 1960s and 1970s cut the journey from countries where the disease was endemic to a few hours; smallpox was eradicated in 1980, and its certificate cancelled in 1981 [@icvp].
 
 ## Risks
 

@@ -53,6 +53,18 @@ Price separated the traveller's experience sharply. In 1890 a first-class single
 
 At sea the gulf was wider still. Emigrants crossed in steerage, in low decks with little light or space, where contagious disease spread easily [@belfort-pennsylvanie]. By the 1900s conditions below deck had improved, and even the emigrants' crossing had fallen to under ten days [@belfort-pennsylvanie].
 
+## The effort of the journey
+
+Much of the planning had moved into print. Thomas Cook had published *Cook's Continental Time Tables* since March 1873, monthly since 1883 [@thomas-cook-european]. The South Eastern Railway's express to London in 1890 allowed '20 minutes for Luncheon at Amiens', and its timetable advertised 'a good and well-served Buffet at Paris Nord Station, with Dressing Rooms and Lavatory adjoining' [@time-tables-south]. On the night mail, 56 lbs (about 25 kg) of luggage went free, to be examined at Paris; for the Indian mail, 'Baggage must be registered through to Brindisi from London' [@time-tables-south].
+
+Russia still demanded effort. Baedeker warned that the ordinary traveller would find it difficult to keep the cost of hotels, cabs, and commissionaires 'down to less than 12–15 rb. per day' (about $250–$310 today) [@baedeker-russia-1914; @1-1914-2026; @gbp-usd-historical]. The traveller should bring 'a pillow or an air-cushion, linen sheets ..., towels, a coverlet or rug, a small india-rubber bath, and some insect-powder', and remember that 'Unboiled Water should be avoided. Tea is a good substitute' [@baedeker-russia-1914]. On the train, the *provodnik* 'gives out the bedding, makes the beds ... and makes himself generally useful', and expected a tip for it [@baedeker-russia-1914].
+
+Language was the other barrier. 'All who visit the country should at least learn the Russian alphabet, in order to be able to read street-names', Baedeker advised; 'In the upper classes French is almost universally understood; the middle classes are more familiar with German. Outside the capital, Moscow, and the seaports, English is little spoken' [@baedeker-russia-1914]. The managers and porters of the big-city hotels spoke German and French, many of them English, but in the provincial hotels, where 'Every candle used appears in the bill', 'The traveller is thrown back upon Russian, as no other language is understood' [@baedeker-russia-1914].
+
+Staying in touch had become easier. Stiegler cabled *Le Matin* from the road, from Chelyabinsk on 5 June and from Minneapolis on 21 July, 'un laconique télégramme' ('a laconic telegram') [@1901-matin-organise]. Travellers of more modest means sent postcards: Austria-Hungary accepted them in October 1869 and mailed 3 million in the first three months, and they began to cross borders after the first congress of the General Postal Union, at Bern in October 1874 [@postcard].
+
+What powered the journey still mattered. On the Trans-Siberian, Stiegler's train ran at 25 km/h behind a wood-burning locomotive, soon replaced by one burning oil [@1901-matin-organise]. And even a record-breaker could miss a connection: on the way home he reached London from Liverpool at 3.45 p.m., an hour after the 2.45 p.m. express for Paris had left Victoria, and *Le Matin*, unwilling to make its friends rise at dawn to welcome him, told him to spend the night in London [@1901-matin-organise].
+
 ## Paying the way
 
 On the eve of war, paying abroad had never been simpler. Thomas Cook had been issuing circular notes since 1874, and in 1891 American Express launched a large-scale traveller's cheque to replace the old letters of credit [@traveller-s-cheque].
@@ -74,6 +86,8 @@ The war brought controls back everywhere. In 1915 Britain introduced a mass-prod
 Speed had a price. On 15 November 1900, the Sud Express derailed in the Landes while most passengers sat at lunch in the dining car; fourteen of its thirty-four passengers died [@1900-landes-sud]. The engine had torn down the telegraph wire, so news took hours to reach the nearest town, and local farmers pulled out the first survivors [@1900-landes-sud].
 
 Shipwrecks still happened regularly, the *Titanic* in 1912 being only the most famous [@belfort-pennsylvanie]. Then came war. In 1914 the P&O mail route through Marseille was interrupted [@p-o-indian], and *La Provence*, the liner that had crossed to New York in just over six days, was torpedoed in 1916 as a troopship with nearly 1,000 lives lost [@ss-provence].
+
+Emigrants also risked being turned back for their health. From the 1890s, the steamship companies inspected them at the European ports of embarkation [@ellis-island]. At Ellis Island, inspectors used a buttonhook to examine their eyes for trachoma and chalked symbols on those suspected of illness; some immigrants, it is said, wiped off the marks or turned their clothes inside out [@ellis-island].
 
 ## Who travelled, and how many
 

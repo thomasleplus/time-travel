@@ -54,6 +54,14 @@ Rivers and the sea were cheaper than roads, but less predictable. Boats drifted 
 
 Prices were steep. Diocletian's price edict of 301 capped the fare for a passenger in a carriage at 2 denarii per Roman mile (about 1.5 km) [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay. Most labourers, sensibly, stayed at home.
 
+## The effort of the journey
+
+The days in the table leave out most of the work. A Roman traveller did not use a map: illustrated maps existed, but they were hard to copy and not in general use [@itinerarium]. Instead the traveller followed an *itinerarium*, a list of stops and the distances between them, and checked it against the milestones along the road [@itinerarium]. The Bordeaux Pilgrim's road book is one; the four silver Vicarello Cups of the first century AD are another. Believed to be a votive offering by merchants travelling from Gades (Cádiz) to Rome, they are engraved with the 104 stations of that road, 1,840 Roman miles (about 2,720 km) in all [@itinerarium].
+
+Finding a bed depended on who you were. The state's *mansiones*, about 25 to 30 km apart, expected their guests to show a passport [@mansio]. Private travellers could try the *cauponae* nearby, which 'were somewhat disreputable, as they were frequented by thieves and prostitutes'; genteel travellers 'needed something better' and looked for a *taberna* [@mansio]. One of the best, the Tabernae Caediciae at Sinuessa on the Via Appia, had a large storage room of wine, cheese, and ham [@mansio].
+
+Heading east also meant changing language. Greek was the common language of the eastern provinces, Latin of the western, and Roman emperors who spoke Latin tended to learn Greek, but not the other way round [@greek-east-latin]. Every kilometre on land, meanwhile, was paid for in muscle: the traveller's own legs, or those of an animal changed at the next *mutatio*.
+
 ## Paying the way
 
 Inside the empire, a traveller from Lutetia needed only one currency. The same gold aureus, silver denarius, and bronze sestertius passed from Britain to Syria, and Diocletian's edict set its maximum prices for the whole empire in denarii [@building-orbis-historical].
