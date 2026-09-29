@@ -2,18 +2,18 @@
 
 Around 1850 the old world and the new ran side by side. From Paris, the first railway lines reached the Channel and Brussels in hours, but most of France still travelled by coach. At sea, steamships had cut the Atlantic to under two weeks, and a new route across Egypt brought India within a month.
 
-### A traveller: Gustave Flaubert, 1849–51
+## A traveller: Gustave Flaubert, 1849–51
 
-In the autumn of 1849, the 28-year-old Gustave Flaubert left for the East with his friend Maxime Du Camp [@voyage-orient-gustave]. Both had official missions: Du Camp's from the Ministry of Public Instruction, Flaubert's from the Ministry of Agriculture and Commerce, which asked him to gather commercial information for the chambers of commerce, a task Du Camp later found hard to take seriously [@voyage-orient-gustave]. Du Camp packed a camera; his photographs were among the first ever taken of the region [@voyage-orient-gustave].
+In the autumn of 1849, Gustave Flaubert left for the East with his friend Maxime Du Camp [@voyage-orient-gustave]. Both had official missions: Du Camp's from the Ministry of Public Instruction, Flaubert's from the Ministry of Agriculture and Commerce, which asked him to gather commercial information for the chambers of commerce, a task Du Camp later found hard to take seriously [@voyage-orient-gustave]. Du Camp packed a camera; his photographs were among the first ever taken of the region [@voyage-orient-gustave].
 
-They sailed from Marseille on 4 November and landed at Alexandria on the 15th [@voyage-orient-gustave]. Flaubert had drawn up a vast itinerary through Egypt, Palestine, Syria, Persia, Asia Minor, Greece and Italy, of which they completed barely a quarter [@voyage-orient-gustave]. They sailed up the Nile as far as Wadi Halfa, reached on 22 March 1850, then went on to Beirut, Jerusalem, Rhodes, Smyrna, Constantinople, Greece and Rome, returning to France in May 1851 [@voyage-orient-gustave]. That September, Flaubert began writing *Madame Bovary* [@voyage-orient-gustave]. It is set in Normandy.
+They sailed from Marseille on 4 November and landed at Alexandria on the 15th [@voyage-orient-gustave]. Flaubert had drawn up a vast itinerary through Egypt, Palestine, Syria, Persia, Asia Minor, Greece, and Italy, of which they completed barely a quarter [@voyage-orient-gustave]. They sailed up the Nile as far as Wadi Halfa, reached on 22 March 1850, then went on to Beirut, Jerusalem, Rhodes, Smyrna, Constantinople, Greece, and Rome, returning to France in May 1851 [@voyage-orient-gustave]. That September, Flaubert began writing *Madame Bovary* [@voyage-orient-gustave]. It is set in Normandy.
 
-### The maps
+## The maps
 
 ![Europe from Paris, c. 1850](/maps/output/europe_1850.png){#fig-europe-1850 fig-alt="Map of Europe with railways as fast red corridors from Paris: London within a day, most of France two to five days, Russia two weeks or more" aria-describedby="desc-europe-1850"}
 
 ::: {#desc-europe-1850}
-The new railways show up as sharp red corridors: north to Lille, Brussels and the Channel ports, west to Rouen and Le Havre, south to Orléans and Tours. London and Brussels now lay within a day, Lyon within a day and a half by the fastest mail coach. Most of the rest of France lay two to five days away; Italy, Spain and Central Europe about a week; Russia and the Balkans two weeks or more.
+The new railways show up as sharp red corridors: north to Lille, Brussels, and the Channel ports, west to Rouen and Le Havre, south to Orléans and Tours. London and Brussels now lay within a day, Lyon within a day and a half by the fastest mail coach. Most of the rest of France lay two to five days away; Italy, Spain, and central Europe about a week; Russia and the Balkans two weeks or more.
 :::
 
 ![The world from Paris, c. 1850](/maps/output/world_1850.png){#fig-world-1850 fig-alt="World map faster along steamship routes from Paris: New York about twelve days, India four weeks, China six, Australia nearly three months" aria-describedby="desc-world-1850"}
@@ -22,7 +22,7 @@ The new railways show up as sharp red corridors: north to Lille, Brussels and th
 Steam has pulled the world closer along a few lines. New York lay about twelve days away, Alexandria two weeks, and India, by the overland route through Egypt, about four weeks, against four months in 1800. China took about six weeks. Australia, still served by sailing ships, lay nearly three months away.
 :::
 
-### Travel times from Paris, c. 1850
+## Travel times from Paris, c. 1850
 
 | Destination | Fastest journey | Basis |
 | --- | --- | --- |
@@ -39,39 +39,39 @@ Steam has pulled the world closer along a few lines. New York lay about twelve d
 | Constantinople | about 10 days | Estimate |
 | New York | about 12 days | Estimate, including a 10-day-15-hour steamer crossing from Liverpool in 1850 [@atlantic-1849-ship] |
 | Alexandria | about 13 days | Estimate; Flaubert's steamer took 11 days from Marseille in 1849 [@voyage-orient-gustave] |
-| Bombay | about 4 weeks | India mail via Egypt, Marseille and Paris, 1845: Bombay to London in 29 days [@reproduced-by-victorian] |
+| Bombay | about 4 weeks | India mail via Egypt, Marseille, and Paris, 1845: Bombay to London in 29 days [@reproduced-by-victorian] |
 | Sydney | about 11 weeks | Estimate, by sail |
 
-### Conditions on the road
+## Conditions on the road
 
-The coach itself had become much faster. Counting stops, the Paris–Lyon diligence averaged 11 km/h in 1850, against 4.3 km/h in 1800; it took 2.3 days instead of 4½, and the mail coach just 1.3 days [@temps-couts-transport]. Five years later, a train covered the same distance in 10 hours 30 minutes [@temps-couts-transport].
+The coach itself had become much faster. The Paris–Lyon diligence took 2.3 days in 1850 instead of 4½ in 1800, and the mail coach just 1.3 days [@temps-couts-transport]. Five years later, a train covered the same distance in 10 hours 30 minutes [@temps-couts-transport].
 
-The two worlds literally rode on top of each other. Early trains on the Paris–Lille line carried stagecoaches, post-chaises and private carriages strapped to flat wagons, so that travellers could continue by road from the railhead [@fampoux-rail-accident]. Passengers rode in first, second or third class [@fampoux-rail-accident]. The regulations capped speed at 24 km/h for trains pulled by two engines, but the company's operating engineer admitted telling drivers to run at 39 to 50 km/h [@fampoux-rail-accident]. The regulations were, it seems, regarded as an opening position.
+The two worlds literally rode on top of each other. Early trains on the Paris–Lille line carried stagecoaches, post-chaises, and private carriages strapped to flat wagons, so that travellers could continue by road from the railhead [@fampoux-rail-accident]. Passengers rode in first, second, or third class [@fampoux-rail-accident]. The regulations capped speed at 24 km/h for trains pulled by two engines, but the company's operating engineer admitted telling drivers to run at 39 to 50 km/h [@fampoux-rail-accident]. The regulations were, it seems, regarded as an opening position.
 
-On the Atlantic, the American Collins Line steamers of 1850 made nearly 300 miles a day and offered panelled saloons, marble-topped tables and a separate ladies' drawing room [@atlantic-1849-ship]. They had no steerage at all: 200 first-class and 80 second-class berths [@atlantic-1849-ship]. By 1866, as the ships aged and turned to carrying emigrants, a first-class passage on the same ship cost $105 (about $2,200 today), second class $62 (about $1,300) and a steerage berth $37.50 (about $790) [@atlantic-1849-ship; @1-1866-is].
+On the Atlantic, the American Collins Line steamers of 1850 made nearly 300 miles (480 km) a day and offered panelled saloons, marble-topped tables, and a separate ladies' drawing room [@atlantic-1849-ship]. They had no steerage at all: 200 first-class and 80 second-class berths [@atlantic-1849-ship]. By 1866, as the ships aged and turned to carrying emigrants, a first-class passage on the same ship cost $105 (about $2,200 today), second class $62 (about $1,300) and a steerage berth $37.50 (about $790) [@atlantic-1849-ship; @1-1866-is].
 
-### Paying the way
+## Paying the way
 
 Money was one of the few things that did not change. A Parisian of 1850 still carried the franc fixed in 1803 at 5 grams of silver [@france-inflation-revolution]. Foreign visitors, above all the British, paid their way with circular notes, bought before departure and cashed across the Continent; each came with a *lettre d'indication* identifying its holder, and they remained the standard instrument for British tourists abroad for over a century [@lettre-d-indication]. The system suited the issuing banks too: they held the traveller's money until the used notes came back to London [@lettre-d-indication].
 
-### Papers
+## Papers
 
-Murray's *Handbook for Travellers in France* of 1854 put it plainly: "A passport is indispensable to enable a stranger to travel in France" [@murray-france-1854]. A British subject recommended by a letter from a banker could obtain one at the Foreign Office for 7s. 6d. (about $70 today), then have it *visé* by the French consul for another 4s. 3d. (about $40) [@murray-france-1854; @1-1854-2026; @gbp-usd-historical]. For those travelling for pleasure, Murray recommended the occupation "rentier, or independent man" [@murray-france-1854].
+Murray's *Handbook for Travellers in France* of 1854 put it plainly: 'A passport is indispensable to enable a stranger to travel in France' [@murray-france-1854]. A British subject recommended by a letter from a banker could obtain one at the Foreign Office for 7s. 6d. (about $70 today), then have it *visé* by the French consul for another 4s. 3d. (about $40) [@murray-france-1854; @1-1854-2026; @gbp-usd-historical]. For those travelling for pleasure, Murray recommended the occupation 'rentier, or independent man' [@murray-france-1854].
 
-The holder's physical description, the *signalement*, "should not be omitted", Murray warned, for without it the bearer might be detained or arrested in remote parts of the country, and the Foreign Office was "apt to slur it over to save trouble" [@murray-france-1854]. Gendarmes could demand the passport on the highway, as the traveller stepped down from the diligence, in the dining room or in the bedroom; a traveller without one could be marched off to the *juge de paix* and "may at last be deposited in prison" [@murray-france-1854]. Murray's advice was resignation: "it is the custom of the country, and the stranger must conform, or has no business to set his foot in it" [@murray-france-1854].
+The holder's physical description, the *signalement*, 'should not be omitted', Murray warned, for without it the bearer might be detained or arrested in remote parts of the country, and the Foreign Office was 'apt to slur it over to save trouble' [@murray-france-1854]. Gendarmes could demand the passport on the highway, as the traveller stepped down from the diligence, in the dining room or in the bedroom; a traveller without one could be marched off to the *juge de paix* and 'may at last be deposited in prison' [@murray-france-1854]. Murray's advice was resignation: 'it is the custom of the country, and the stranger must conform, or has no business to set his foot in it' [@murray-france-1854].
 
-Going further multiplied the paperwork. Collecting visas for Austria or Italy took two days of "very disagreeable and tiresome business", which the larger Paris hotels would hand to a commissionaire, and the signature of the Papal nuncio, essential for Rome, could be obtained only in Paris [@murray-france-1854]. The passport had to be *visé* by the police even to leave France [@murray-france-1854]. Only the medieval exemption for seaports survived: an Englishman who landed at a French port and went no further inland needed no passport [@murray-france-1854].
+Going further multiplied the paperwork. Collecting visas for Austria or Italy took two days of 'very disagreeable and tiresome business', which the larger Paris hotels would hand to a commissionaire, and the signature of the Papal nuncio, essential for Rome, could be obtained only in Paris [@murray-france-1854]. The passport had to be *visé* by the police even to leave France [@murray-france-1854]. Only the medieval exemption for seaports survived: an Englishman who landed at a French port and went no further inland needed no passport [@murray-france-1854].
 
-The railway was already loosening the system. Since the railways arrived in 1846, Murray noted, "the passport system in France seems to have been relaxed", though the traveller was "never safe without it" [@murray-france-1854]. The German states agreed a common pass card in October 1850 [@passport], and in 1855 the British passport became a standardised document issued solely to British nationals [@british-passport].
+The railway was already loosening the system. Since the railways arrived in 1846, Murray noted, 'the passport system in France seems to have been relaxed', though the traveller was 'never safe without it' [@murray-france-1854]. The German states agreed a common pass card in October 1850 [@passport], and in 1855 the British passport became a standardized document issued solely to British nationals [@british-passport].
 
-### Risks
+## Risks
 
-The railway brought its own kind of disaster. On 8 July 1846, less than three weeks after the Paris–Lille line opened, a heavy train derailed near Fampoux, south of Arras, and several carriages fell into a flooded peat bog; the official toll was 14 dead and about 40 injured [@fampoux-rail-accident]. The electric telegraph between Paris and Lille was still only a project, so news of the accident spread late and garbled, though it reached the Paris stock exchange well before the public [@fampoux-rail-accident].
+The railway brought its own kind of disaster. On 8 July 1846, less than three weeks after the Paris–Lille line opened, a heavy train derailed near Fampoux, south of Arras, and several carriages fell into a flooded peat bog; the official toll was fourteen dead and about forty injured [@fampoux-rail-accident]. The electric telegraph between Paris and Lille was still only a project, so news of the accident spread late and garbled, though it reached the Paris stock exchange well before the public [@fampoux-rail-accident].
 
-Steam at sea was still fragile. In January 1851 the *Atlantic*'s paddle-wheel shaft broke in mid-ocean; unable to make headway under sail against the wind, she drifted back to Ireland and took six months to repair [@atlantic-1849-ship]. In winter, understandably, fewer than fifty passengers might brave the crossing, against over two hundred in summer [@atlantic-1849-ship].
+Steam at sea was still fragile. In January 1851 the *Atlantic*'s paddle-wheel shaft broke in mid-ocean; unable to make headway under sail against the wind, she drifted back to Ireland and took six months to repair [@atlantic-1849-ship]. In winter, fewer than fifty passengers might brave the crossing, against over two hundred in summer [@atlantic-1849-ship].
 
-### Who travelled, and how many
+## Who travelled, and how many
 
-Railways drew crowds from the start: in its first weeks the Paris–Lille company had to run long, heavy trains with two engines to meet demand [@fampoux-rail-accident]. The fast steamers served a wealthy few; the *Atlantic* carried a singer, presidents, ambassadors and a papal nuncio [@atlantic-1849-ship]. Writers such as Flaubert travelled with government missions and letters of introduction [@voyage-orient-gustave].
+Railways drew crowds from the start: in its first weeks the Paris–Lille company had to run long, heavy trains with two engines to meet demand [@fampoux-rail-accident]. The fast steamers served a wealthy few; the *Atlantic* carried a singer, presidents, ambassadors, and a papal nuncio [@atlantic-1849-ship]. Writers such as Flaubert travelled with government missions and letters of introduction [@voyage-orient-gustave].
 
 Speed also became a matter of national prestige. When the India mail reached London from Bombay in 29 days in December 1845, a contemporary dictionary of dates credited the French government's efforts to prove that the route through France was the shortest [@reproduced-by-victorian]. Geography had rarely been so patriotic.

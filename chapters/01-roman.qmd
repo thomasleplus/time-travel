@@ -1,30 +1,30 @@
-# c. AD 200: roads, rivers and the summer sea
+# c. AD 200: roads, rivers, and the summer sea
 
 From Roman Lutetia, the fastest a private traveller could reach Rome was about three weeks, and only in the sailing season. Londinium lay about a week away, Byzantium about six weeks, and India, reached on the monsoon ships from Egypt, three to four months. Lutetia was a modest provincial town; the empire's centre of gravity was the Mediterranean.
 
-### A traveller: the Bordeaux Pilgrim, 333
+## A traveller: the Bordeaux Pilgrim, 333
 
 The clearest record of a long Roman road journey from Gaul was left by an anonymous traveller from Burdigala (Bordeaux) in 333, more than a century after this chapter's date [@bordeaux-pilgrim-c]. It is less a diary than a road book: a list of places to change animals (*mutationes*) and places to spend the night (*mansiones*), with the distance between each [@bordeaux-pilgrim-c].
 
-The route ran from Bordeaux to Arles, over the Cottian Alps to Milan, then along the Danube valley to Constantinople. The traveller totted it up as 2,221 Roman miles, 230 changes and 112 overnight stops [@bordeaux-pilgrim-c]. From there the road led on through Asia Minor and Syria to Jerusalem, and home by Macedonia, a sea crossing to Otranto, Rome and Milan [@bordeaux-pilgrim-c].
+The route ran from Bordeaux to Arles, over the Cottian Alps to Milan, then along the Danube valley to Constantinople. The traveller totted it up as 2,221 Roman miles (about 3,300 km), 230 changes, and 112 overnight stops [@bordeaux-pilgrim-c]. From there the road led on through Asia Minor and Syria to Jerusalem, and home by Macedonia, a sea crossing to Otranto, Rome, and Milan [@bordeaux-pilgrim-c].
 
-A Roman mile was about 1,480 metres [@building-orbis-historical], so the road to Constantinople alone ran to some 3,300 km. At the brisk 50 km a day that historians assign to accelerated private travel by carriage [@building-orbis-historical], that is more than two months of steady movement, before any rest days.
+A Roman mile was about 1,480 metres [@building-orbis-historical]. At the brisk 50 km a day that historians assign to accelerated private travel by carriage [@building-orbis-historical], the road to Constantinople alone meant more than two months of steady movement, before any rest days.
 
-### The maps
+## The maps
 
 ![Europe from Lutetia, c. AD 200](/maps/output/europe_roman.png){#fig-europe-roman fig-alt="Map of Europe shaded by travel time from Lutetia: Gaul within 20 days, Rome about three weeks, Byzantium six; Ireland and Scandinavia unreached" aria-describedby="desc-europe-roman"}
 
 ::: {#desc-europe-roman}
-Most of Gaul, southern Britain and the Rhine frontier lay within 5 to 20 days of Lutetia. Rome, Spain and North Africa lay about three weeks out, Greece and Egypt about a month, and Byzantium and the Levant about six weeks. Beyond the frontiers, in Ireland and Scandinavia, there was no regular travel at all.
+Most of Gaul, southern Britain, and the Rhine frontier lay within 5 to 20 days of Lutetia. Rome, Spain, and North Africa lay about three weeks out, Greece and Egypt about a month, and Byzantium and the Levant about six weeks. Beyond the frontiers, in Ireland and Scandinavia, there was no regular travel at all.
 :::
 
-![The world from Lutetia, c. AD 200](/maps/output/world_roman.png){#fig-world-roman fig-alt="World map with only Europe, North Africa, the Near East, India and the East African coast reachable from Lutetia, in weeks to months; the rest is grey" aria-describedby="desc-world-roman"}
+![The world from Lutetia, c. AD 200](/maps/output/world_roman.png){#fig-world-roman fig-alt="World map with only Europe, North Africa, the Near East, India, and the East African coast reachable from Lutetia, in weeks to months; the rest is grey" aria-describedby="desc-world-roman"}
 
 ::: {#desc-world-roman}
-The known world ends abruptly. The Americas, most of Africa, East Asia and Australia lay beyond any route a traveller from Gaul could follow. Mesopotamia lay about two months away; Persia, Central Asia, India and the East African coast lay beyond 80 days.
+The known world ends abruptly. The Americas, most of Africa, East Asia, and Australia lay beyond any route a traveller from Gaul could follow. Mesopotamia lay about two months away; Persia, Central Asia, India, and the East African coast lay beyond 80 days.
 :::
 
-### Travel times from Lutetia, c. AD 200
+## Travel times from Lutetia, c. AD 200
 
 Every figure here is an estimate for summer travel, built from the speeds used by the ORBIS model of the Roman world [@building-orbis-historical]: 50 km a day by road, 65 km a day downstream on rivers, and sailing ships at sea. They are checked against ORBIS's own fastest summer journey from Rome to Londinium, 27 days [@new-interactive-map].
 
@@ -40,42 +40,42 @@ Every figure here is an estimate for summer travel, built from the speeds used b
 | Alexandria | about 33 days | Rhône, then ship | Estimate |
 | Hierosolyma (Jerusalem) | about 5½ weeks | Ship to Caesarea, then road | Estimate |
 | Byzantium | about 6 weeks | Ship, slowed by the Dardanelles current | Estimate |
-| Muziris (southern India) | about 3½ months | Egypt, the Red Sea and the monsoon crossing | Estimate |
+| Muziris (southern India) | about 3½ months | Egypt, the Red Sea, and the monsoon crossing | Estimate |
 
 The route matters as much as the distance. Going to Rome over the Alps by road would take about a month; going round by river and sea cut that to three weeks, but only while the sailing season lasted.
 
-### Conditions on the road
+## Conditions on the road
 
-The empire's principal roads ran to 80,000 to 100,000 km [@building-orbis-historical]. How fast you moved depended almost entirely on what you could afford. Historians modelling Roman travel set daily distances at about 12 km for ox carts, 30 km on foot, 50 km for private carriages travelling fast, 56 km on horseback and 67 km for the fast carriages of the state post [@building-orbis-historical]. Relays of horses carrying urgent messages could reach 250 km a day, but that was for dispatches, not passengers [@building-orbis-historical].
+The empire's principal roads ran to 80,000 to 100,000 km [@building-orbis-historical]. How fast you moved depended almost entirely on what you could afford. Historians modelling Roman travel set daily distances at about 12 km for ox carts, 30 km on foot, 50 km for private carriages travelling fast, 56 km on horseback, and 67 km for the fast carriages of the state post [@building-orbis-historical]. Relays of horses carrying urgent messages could reach 250 km a day, but that was for dispatches, not passengers [@building-orbis-historical].
 
-The network was built to be used in stages. The Bordeaux Pilgrim's 230 changes over 2,221 miles mean a fresh animal roughly every ten Roman miles [@bordeaux-pilgrim-c].
+The network was built to be used in stages. The Bordeaux Pilgrim's 230 changes over 2,221 Roman miles mean a fresh animal roughly every 10 Roman miles (about 15 km) [@bordeaux-pilgrim-c].
 
 Rivers and the sea were cheaper than roads, but less predictable. Boats drifted downstream at around 65 km a day, but were hauled upstream at 10 to 30 [@building-orbis-historical]. Sea travel was possible all year in principle, but ancient writers stress the dangers of winter, and Atlantic storms made winter crossings rare [@building-orbis-historical].
 
-Prices were steep. Diocletian's price edict of 301 capped the fare for a passenger in a carriage at 2 denarii per Roman mile [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay. Most labourers, sensibly, stayed at home.
+Prices were steep. Diocletian's price edict of 301 capped the fare for a passenger in a carriage at 2 denarii per Roman mile (about 1.5 km) [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay. Most labourers, sensibly, stayed at home.
 
-### Paying the way
+## Paying the way
 
-Inside the empire, a traveller from Lutetia needed only one currency. The same gold aureus, silver denarius and bronze sestertius passed from Britain to Syria, and Diocletian's edict of 301 set its maximum prices for the whole empire in denarii [@building-orbis-historical].
+Inside the empire, a traveller from Lutetia needed only one currency. The same gold aureus, silver denarius, and bronze sestertius passed from Britain to Syria, and Diocletian's edict set its maximum prices for the whole empire in denarii [@building-orbis-historical].
 
-Officials did not pay at all. A traveller on state business carried a *diploma*, a warrant bearing the emperor's seal that entitled him to the horses, vehicles and lodging of the state post, whose cost fell on the communities along the road [@cursus-publicus], an arrangement more popular with the travellers than with the communities. Under Trajan, each provincial governor could issue only a limited number of these warrants, and only for public business [@cursus-publicus].
+Officials did not pay at all. A traveller on state business carried a *diploma*, a warrant bearing the emperor's seal that entitled him to the horses, vehicles, and lodging of the state post, whose cost fell on the communities along the road [@cursus-publicus]. Under Trajan, each provincial governor could issue only a limited number of these warrants, and only for public business [@cursus-publicus].
 
 Beyond the frontiers, Roman money became a commodity. Pliny the Elder complained, in the tone every age reserves for imports, that 50 million sesterces a year flowed to India alone [@roman-coins-abroad]. Hoards of Roman gold have been found in southern India; one discovered near Kannur in the 1840s was still circulating among local labourers, each coin traded for up to 14 rupees or bartered for a day's rice [@kottayam-coin-hoard].
 
-### Papers
+## Papers
 
-Rome's most useful travel document was a status rather than a piece of paper: citizenship. When the apostle Paul was about to be flogged in Jerusalem, the Acts of the Apostles has him ask the centurion, "Is it lawful for you to scourge a man who is a Roman, and not found guilty?" [@acts-22]. The commanding officer, who had bought his own citizenship "for a great price", was told "But I was born a Roman", and became afraid, since he had had a citizen bound [@acts-22]. Rarely has one-upmanship paid so well.
+Rome's most useful travel document was a status rather than a piece of paper: citizenship. When the apostle Paul was about to be flogged in Jerusalem, the Acts of the Apostles has him ask the centurion, 'Is it lawful for you to scourge a man who is a Roman, and not found guilty?' [@acts-22]. The commanding officer, who had bought his own citizenship 'for a great price', was told 'But I was born a Roman', and became afraid, since he had had a citizen bound [@acts-22]. Rarely has one-upmanship paid so well.
 
 Claiming the status falsely was dangerous: according to Suetonius, Claudius had those who usurped the privileges of Roman citizenship executed in the Esquiline field [@suetonius-claudius]. The same emperor ruled that travellers should pass through the towns of Italy only on foot, or in a chair or litter [@suetonius-claudius], an early essay in traffic calming.
 
-Some provincials carried their citizenship in bronze. From the reign of Claudius, auxiliary soldiers were granted citizenship after 25 years' service, 26 in the navy, and could hold a military diploma, a notarised bronze copy of the emperor's decree [@roman-military-diploma]. It shared its name with the warrant of the state post, but took rather longer to obtain.
+Some provincials carried their citizenship in bronze. From the reign of Claudius, auxiliary soldiers were granted citizenship after twenty-five years' service, twenty-six in the navy, and could hold a military diploma, a notarized bronze copy of the emperor's decree [@roman-military-diploma]. It shared its name with the warrant of the state post, but took rather longer to obtain.
 
-### Risks
+## Risks
 
 The sea was the great hazard. Storms closed much of the Atlantic in winter and made the north-western Mediterranean off southern France dangerous in that season [@building-orbis-historical]. Mountain passes added their own delays: the Bordeaux Pilgrim's road climbed the Cottian Alps, and ORBIS adds up to a day and a half for mountain stretches and bars heavy carts and fast carriages from some Alpine and Pyrenean passes in winter [@bordeaux-pilgrim-c; @building-orbis-historical].
 
 Roman rule did make travel more predictable than in many later centuries. Historians argue that the empire created a relatively safe environment for shipping, less exposed to tolls and piracy than other periods [@building-orbis-historical].
 
-### Who travelled, and how many
+## Who travelled, and how many
 
-No count of travellers survives, so volumes can only be inferred. The road system was designed above all for the state: officials, couriers of the state post and soldiers, who marched at around 30 km a day [@building-orbis-historical]. Merchants moved goods mainly by water, because it was so much cheaper [@building-orbis-historical]. By the 4th century, Christian pilgrims such as the Bordeaux traveller joined them on the long roads east [@bordeaux-pilgrim-c].
+No count of travellers survives, so volumes can only be inferred. The road system was designed above all for the state: officials, couriers of the state post, and soldiers, who marched at around 30 km a day [@building-orbis-historical]. Merchants moved goods mainly by water, because it was so much cheaper [@building-orbis-historical]. By the fourth century, Christian pilgrims such as the Bordeaux traveller joined them on the long roads east [@bordeaux-pilgrim-c].

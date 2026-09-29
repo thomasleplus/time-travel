@@ -1,16 +1,16 @@
 # Introduction {.unnumbered}
 
-Distance is fixed; time is not. Paris and Rome have stood about 1,100 km apart for two thousand years, yet the journey between them has shrunk from about three weeks for a Roman traveller in summer to about a day on the eve of the First World War. This document follows that shrinking, era by era, as seen from Paris, a city that has never seriously doubted it was the natural place to measure from.
+Distance is fixed; time is not. Paris and Rome have stood about 1,100 km apart for two thousand years, yet the journey between them has shrunk from about three weeks for a Roman traveller in summer to about a day on the eve of the First World War. This book follows that shrinking, era by era, as seen from Paris, a city that has never seriously doubted it was the natural place to measure from.
 
-Mapping time instead of distance is itself an idea of the railway age. Francis Galton published isochronic charts in 1881, Albrecht Penck mapped travel times across Austria-Hungary from 1887, and John Bartholomew's atlases carried world isochrone maps from 1889 [@isochrone-map]. Bartholomew's 1914 map, centred on London, shaded the world by days of travel and showed how railways such as the Trans-Siberian pushed fast travel deep into continents [@travel-time-between]. This document borrows that method, but centres every map on Paris.
+Mapping time instead of distance is itself an idea of the railway age. Francis Galton published isochronic charts in 1881, Albrecht Penck mapped travel times across Austria-Hungary from 1887, and John Bartholomew's atlases carried world isochrone maps from 1889 [@isochrone-map]. Bartholomew's 1914 map, centred on London, shaded the world by days of travel and showed how railways such as the Trans-Siberian pushed fast travel deep into continents [@travel-time-between]. This book borrows that method, but centres every map on Paris.
 
 Before Rome, there are no itineraries or timetables to build maps from. The settlement on the Seine that became Lutetia was linked to the wider world by rivers and tracks, at the pace of a walker or a boat. As a guide, historians modelling Roman travel assume about 30 km a day on foot, and about 65 km a day downstream on major rivers but only 10 to 30 km a day upstream [@building-orbis-historical]; against the current, a determined walker could overtake the boat. Those rhythms governed every journey until the railway, and they are the baseline for every chapter that follows.
 
-### How to read this document
+## How to read this book
 
-Each chapter covers one era: a traveller's portrait, the conditions of travel, how travellers paid their way, the papers they carried, the risks, who travelled, two maps and a table of travel times. The conventions below apply to every chapter unless it says otherwise.
+Each chapter covers one era: a traveller's portrait, two maps, and a table of travel times; then the conditions of travel, how travellers paid their way, the papers they carried, the risks, and who travelled. The conventions below apply to every chapter unless it says otherwise.
 
-*Travel times.* A travel time is the fastest journey an ordinary paying traveller could make from Paris at the time, including connections and sea crossings. Figures are rounded and marked "about"; where sources disagree, the text gives a range.
+*Travel times.* A travel time is the fastest journey an ordinary paying traveller could make from Paris at the time, including connections and sea crossings. Figures are rounded and marked 'about'; where sources disagree, the text gives a range.
 
 *Sourced and estimated figures.* Each chapter's table says what every time is based on. Times taken from a cited source carry its reference number; the rest are estimates, labelled as such, interpolated from sourced journeys and route lengths. On the maps, estimated times carry an asterisk. From 1950 onwards, most times are estimates from typical schedules, including the time needed to reach and pass through airports.
 
@@ -18,8 +18,10 @@ Each chapter covers one era: a traveller's portrait, the conditions of travel, h
 
 *How the maps are drawn.* Travel times are known for a set of towns and ports, and the maps fill the land between them along the transport network. Beyond the network, travel is assumed at the local pace of the time, from about 30 km a day in Roman times to several hundred kilometres a day in the modern chapters, reflecting local roads and railways; each map's footnote gives its figure. Coastlines are simplified by hand, so the maps are schematic rather than survey-accurate; sailors should not navigate by them.
 
+*Units.* Distances, speeds, and heights are metric. Where a source gives an old unit, such as the Roman or the English mile, the metric equivalent follows it.
+
 *Prices.* Each price is given in its original currency, then in today's US dollars. It is first adjusted to 2026 with that country's historical consumer price index, for British prices the [ONS composite price index](https://www.in2013dollars.com/uk/inflation/1890?amount=1), then converted at the exchange rate of late September 2026, about [$1.33 to the pound](https://finance.yahoo.com/quote/GBPUSD=X/history/). American prices are adjusted with the US consumer price index and need no exchange rate. Results are rounded to the nearest $10. They reflect today's consumer prices, not how a fare compared with wages at the time; where no price index reaches back far enough, as with the Roman denarius, a price is expressed instead in days of an unskilled labourer's wage at the time.
 
-*Place names.* Places carry the names used at the time, such as Constantinople, Bombay and Peking.
+*Place names.* Places carry the names used at the time, such as Constantinople, Bombay, and Canton.
 
 *References.* Sources are numbered in order of first citation and listed in full at the end of the book. Only sources that were opened and checked are cited, a rule that ought to go without saying and is therefore said.
