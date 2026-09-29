@@ -33,3 +33,11 @@ updates:
       default-days: 7
     commit-message:
       prefix: build(deps)
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: build(deps)

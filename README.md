@@ -11,6 +11,8 @@ A book with isochrone maps showing how long it took to travel from Paris, from R
 - For the Kindle file, [Calibre](https://calibre-ebook.com) (its `ebook-convert` command)
 - Python 3.12 or later with `numpy` and `matplotlib` (only needed to regenerate the maps): `pip install -r requirements.txt`
   (versions are pinned with hashes in `requirements.txt`, which is generated with `uv pip compile`: see its header to update it)
+- Node.js 22.18 or later with npm (only needed to run the spell check locally): `npm ci --ignore-scripts`
+  (cspell is pinned with hashes in `package-lock.json`, which Dependabot keeps up to date)
 
 ## Build
 
@@ -45,6 +47,8 @@ quarto preview                # live preview while editing
 | `data/known_world.json`     | Areas reachable at all in the Roman and medieval eras                                                                               |
 | `maps/`                     | Map code: `geo.py` (schematic coastlines), `surface.py` and `render.py` (isochrone model and drawing), `make_maps.py` (entry point) |
 | `maps/output/`              | The generated maps, comparison chart and cover used by the book                                                                     |
+| `.cspell.json`              | Spell check settings: British English, and the files it skips                                                                       |
+| `.cspell-words.txt`         | Words the spell check accepts that are not in its dictionary                                                                        |
 
 ## Everyday tasks
 
@@ -55,6 +59,10 @@ text to match. The comparison chart is rebuilt every time.
 **Change the cover.** It is drawn from the data by `cover()` in `maps/render.py`: run `python maps/make_maps.py cover`.
 It produces `cover.png` for the site and e-books and `cover.pdf` for the PDF.
 CI also converts `cover.png` to a JPEG, which e-book stores ask for, and attaches both to releases.
+
+**Fix a spelling error in CI.** The Spell check workflow checks every file against a British English dictionary
+with [cspell](https://cspell.org): run `npm run spellcheck` to check locally. Correct the word, or, if it is right
+(a place, a person, a French term, a tool), add it to `.cspell-words.txt`.
 
 **Cite a source.** Add an entry to `references.bib` and cite it in the text as `[@key]`, or `[@key1; @key2]`.
 Numbering and the reference list are generated automatically.
