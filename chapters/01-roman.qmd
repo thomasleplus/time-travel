@@ -62,6 +62,14 @@ Officials did not pay at all. A traveller on state business carried a *diploma*,
 
 Beyond the frontiers, Roman money became a commodity. Pliny the Elder complained, in the tone every age reserves for imports, that 50 million sesterces a year flowed to India alone [@roman-coins-abroad]. Hoards of Roman gold have been found in southern India; one discovered near Kannur in the 1840s was still circulating among local labourers, each coin traded for up to 14 rupees or bartered for a day's rice [@kottayam-coin-hoard].
 
+### Papers
+
+Rome's most useful travel document was a status rather than a piece of paper: citizenship. When the apostle Paul was about to be flogged in Jerusalem, the Acts of the Apostles has him ask the centurion, "Is it lawful for you to scourge a man who is a Roman, and not found guilty?" [@acts-22]. The commanding officer, who had bought his own citizenship "for a great price", was told "But I was born a Roman", and became afraid, since he had had a citizen bound [@acts-22]. Rarely has one-upmanship paid so well.
+
+Claiming the status falsely was dangerous: according to Suetonius, Claudius had those who usurped the privileges of Roman citizenship executed in the Esquiline field [@suetonius-claudius]. The same emperor ruled that travellers should pass through the towns of Italy only on foot, or in a chair or litter [@suetonius-claudius], an early essay in traffic calming.
+
+Some provincials carried their citizenship in bronze. From the reign of Claudius, auxiliary soldiers were granted citizenship after 25 years' service, 26 in the navy, and could hold a military diploma, a notarised bronze copy of the emperor's decree [@roman-military-diploma]. It shared its name with the warrant of the state post, but took rather longer to obtain.
+
 ### Risks
 
 The sea was the great hazard. Storms closed much of the Atlantic in winter and made the north-western Mediterranean off southern France dangerous in that season [@building-orbis-historical]. Mountain passes added their own delays: the Bordeaux Pilgrim's road climbed the Cottian Alps, and ORBIS adds up to a day and a half for mountain stretches and bars heavy carts and fast carriages from some Alpine and Pyrenean passes in winter [@bordeaux-pilgrim-c; @building-orbis-historical].

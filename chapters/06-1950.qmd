@@ -49,6 +49,14 @@ Leaving France with money was itself regulated. Exchange controls introduced in 
 
 In New York, a new way to pay was being born. In February 1950 Frank McNamara paid for a restaurant meal with a cardboard Diners Club card, the first charge card accepted by many different businesses [@diners-club-international]. Diners Club billed its members at the end of each month and took a 5–7% fee from the restaurant [@diners-club-credit].
 
+### Papers
+
+A ticket to New York was not enough: until France joined the US Visa Waiver Program in July 1989, a French visitor to the United States needed a visa [@visa-waiver-program].
+
+Passports were still filled in by hand. A British passport of 1955 recorded the holder's height, eye and hair colour and "special peculiarities", and could add "accompanied by his wife" and the children [@british-passport]; the wording left no doubt about who was accompanying whom. It also listed the countries for which it was valid: the Commonwealth, the USA and all of Europe "including the USSR" [@british-passport].
+
+Currency controls followed the traveller into the passport itself. A page at the back recorded the foreign exchange taken out of the country, a limited sum of sterling, typically £50 (about $2,270 today) [@british-passport; @1-1955-2026; @gbp-usd-historical].
+
 ### Risks
 
 Flight 009 was not an isolated case: at the time it was the deadliest accident involving the Constellation [@air-france-flight]. Navigating over open ocean to a small island airfield, largely by the crew's own reckoning, left little margin for error [@air-france-flight].
