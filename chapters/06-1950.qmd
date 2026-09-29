@@ -4,9 +4,9 @@ By 1950 the unit of long-distance travel had changed from days to hours. Four-en
 
 ## A traveller: Marcel Cerdan, 1949
 
-At 8.05 pm on 27 October 1949, Air France Flight 009 left Orly for New York, a Lockheed Constellation carrying 37 passengers and 11 crew [@air-france-flight]. Like every transatlantic airliner of the day it could not cross in one hop; it was due to refuel at Santa Maria in the Azores [@air-france-flight]. Among the passengers were the former world middleweight boxing champion Marcel Cerdan, on his way to join the singer Édith Piaf in New York, and the violinist Ginette Neveu, travelling with her Stradivarius [@air-france-flight].
+At 8.05 p.m. on 27 October 1949, Air France Flight 009 left Orly for New York, a Lockheed Constellation carrying thirty-seven passengers and eleven crew [@air-france-flight]. Like every transatlantic airliner of the day it could not cross in one hop; it was due to refuel at Santa Maria in the Azores [@air-france-flight]. Among the passengers were the former world middleweight boxing champion Marcel Cerdan, on his way to join the singer Édith Piaf in New York, and the violinist Ginette Neveu, travelling with her Stradivarius [@air-france-flight].
 
-They never arrived. Shortly before 3 am the pilot reported the airport in sight; the aircraft then flew into a ridge on São Miguel island, 97 km away, killing all 48 people on board [@air-france-flight]. Investigators blamed inaccurate navigation and a failure to identify the airport [@air-france-flight]. The crash shows both sides of the new age: Paris and New York had become an overnight journey, but that journey still depended on stopovers, dead reckoning and luck.
+They never arrived. Shortly before 3 a.m. the pilot reported the airport in sight; the aircraft then flew into a ridge on São Miguel island, 97 km away, killing all forty-eight people on board [@air-france-flight]. Investigators blamed inaccurate navigation and a failure to identify the airport [@air-france-flight]. The crash shows both sides of the new age: Paris and New York had become an overnight journey, but that journey still depended on stopovers, dead reckoning, and luck.
 
 ## The maps
 
@@ -16,10 +16,10 @@ They never arrived. Shortly before 3 am the pilot reported the airport in sight;
 Air routes turn Europe into a network of fast islands. Most capitals of western Europe lay within about six hours of Paris, and much of the continent within half a day. The Iron Curtain shows as a sharp slowdown: Moscow, reachable in about five and a half hours two decades later, took more than a day.
 :::
 
-![The world from Paris, c. 1950](/maps/output/world_1950.png){#fig-world-1950 fig-alt="World map by air from Paris: New York under a day, Rio, Bombay and Johannesburg about a day and a half, Tokyo and Sydney three to four days" aria-describedby="desc-world-1950"}
+![The world from Paris, c. 1950](/maps/output/world_1950.png){#fig-world-1950 fig-alt="World map by air from Paris: New York under a day, Rio, Bombay, and Johannesburg about a day and a half, Tokyo and Sydney three to four days" aria-describedby="desc-world-1950"}
 
 ::: {#desc-world-1950}
-The whole inhabited world now lay within a few days. New York was less than a day away, Rio, Bombay and Johannesburg about a day and a half, Tokyo and Sydney three to four days, with several refuelling stops on the way.
+The whole inhabited world now lay within a few days. New York was less than a day away, Rio, Bombay, and Johannesburg about a day and a half, Tokyo and Sydney three to four days, with several refuelling stops on the way.
 :::
 
 ## Travel times from Paris, c. 1950
@@ -39,21 +39,21 @@ The whole inhabited world now lay within a few days. New York was less than a da
 
 ## Conditions on the road
 
-Flying was still a luxury and an adventure. Post-war airliners were pressurised, but long flights meant a string of stops, and passengers were among the first to feel what would later be called jet lag, the upset of crossing several time zones in a few hours [@evolution-commercial-flying], before there were any jets to blame. Regulated fares meant airlines competed on service: meals, sleeper berths and personal attention [@evolution-commercial-flying].
+Flying was still a luxury and an adventure. Post-war airliners were pressurized, but long flights meant a string of stops, and passengers were among the first to feel what would later be called jet lag, the upset of crossing several time zones in a few hours [@evolution-commercial-flying], before there were any jets to blame. Regulated fares meant airlines competed on service: meals, sleeper berths, and personal attention [@evolution-commercial-flying].
 
 At sea, the great liners reached their peak just as they became obsolete. In 1952 the SS *United States* crossed the Atlantic in three and a half days, setting the speed record for the crossing [@liner-transatlantic-crossing].
 
 ## Paying the way
 
-Leaving France with money was itself regulated. Exchange controls introduced in 1939 were tightened at the Liberation and codified in 1947, and they stayed in force through the years of reconstruction [@report-no-150]. Travellers could take only set amounts of currency across the border; a decree of 1960 still fixed these "tolerances", a word that says much about the official view of holidays abroad, and required anything above them to be declared [@summary-arrete-23].
+Leaving France with money was itself regulated. Exchange controls introduced in 1939 were tightened at the Liberation and codified in 1947, and they stayed in force through the years of reconstruction [@report-no-150]. Travellers could take only set amounts of currency across the border; a decree of 1960 still fixed these 'tolerances', a word that says much about the official view of holidays abroad, and required anything above them to be declared [@summary-arrete-23].
 
-In New York, a new way to pay was being born. In February 1950 Frank McNamara paid for a restaurant meal with a cardboard Diners Club card, the first charge card accepted by many different businesses [@diners-club-international]. Diners Club billed its members at the end of each month and took a 5–7% fee from the restaurant [@diners-club-credit].
+In New York, a new way to pay was being born. In February 1950 Frank McNamara paid for a restaurant meal with a cardboard Diners Club card, the first charge card accepted by many different businesses [@diners-club-international]. Diners Club billed its members at the end of each month and took a 5–7 per cent fee from the restaurant [@diners-club-credit].
 
 ## Papers
 
 A ticket to New York was not enough: until France joined the US Visa Waiver Program in July 1989, a French visitor to the United States needed a visa [@visa-waiver-program].
 
-Passports were still filled in by hand. A British passport of 1955 recorded the holder's height, eye and hair colour and "special peculiarities", and could add "accompanied by his wife" and the children [@british-passport]; the wording left no doubt about who was accompanying whom. It also listed the countries for which it was valid: the Commonwealth, the USA and all of Europe "including the USSR" [@british-passport].
+Passports were still filled in by hand. A British passport of 1955 recorded the holder's height, eye and hair colour and 'special peculiarities', and could add 'accompanied by his wife' and the children [@british-passport]; the wording left no doubt about who was accompanying whom. It also listed the countries for which it was valid: the Commonwealth, the USA, and all of Europe 'including the USSR' [@british-passport].
 
 Currency controls followed the traveller into the passport itself. A page at the back recorded the foreign exchange taken out of the country, a limited sum of sterling, typically £50 (about $2,270 today) [@british-passport; @1-1955-2026; @gbp-usd-historical].
 

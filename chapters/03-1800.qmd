@@ -2,9 +2,9 @@
 
 Around 1800, France began to shrink for the first time since Roman times. Faster coaches on new straight roads cut many journeys from Paris by half in a single generation: Lyon came within four and a half days, Bordeaux five and a half, Lille two. Beyond Europe, though, everything still moved at the pace of the wind, and India lay four months away.
 
-## A traveller: Arthur Young, 1787–89
+## A traveller: Arthur Young, 1787–9
 
-The English farmer and agricultural writer Arthur Young made three journeys through France in 1787, 1788 and 1789, and published his journal [@reseau-routier-france]. He first reached Paris on 25 May 1787, by the road from Calais, and what struck him most was the emptiness: after the crowded roads outside London, he found the approaches to the French capital almost deserted [@reseau-routier-france].
+The English farmer and agricultural writer Arthur Young made three journeys through France in 1787, 1788, and 1789, and published his journal [@reseau-routier-france]. He first reached Paris on 25 May 1787, by the road from Calais, and what struck him most was the emptiness: after the crowded roads outside London, he found the approaches to the French capital almost deserted [@reseau-routier-france].
 
 On the road to Orléans, over 10 miles (16 km), he met no coach or diligence at all, only two carriers' wagons and a handful of post-chaises, not a tenth of what he would have met leaving London at the same hour [@reseau-routier-france]. In 1789, riding out of Paris in the middle of the Revolution, he was exasperated to see not a single diligence between Meaux and Château-Thierry, on one of the great roads 30 miles (48 km) from the capital, and complained that news barely circulated in the provinces [@reseau-routier-france]. Young travelled on his own mare and admitted he was a poor horseman, a verdict the mare would probably have endorsed; like most riders of the time, he went little faster than a good walker [@temps-couts-transport].
 
@@ -13,7 +13,7 @@ On the road to Orléans, over 10 miles (16 km), he met no coach or diligence at 
 ![Europe from Paris, c. 1800](/maps/output/europe_1800.png){#fig-europe-1800 fig-alt="Map of Europe with fast zones stretching along the roads from Paris: Lyon within a week, Madrid and Vienna two weeks, Constantinople a month" aria-describedby="desc-europe-1800"}
 
 ::: {#desc-europe-1800}
-For the first time, the fast zone around Paris stretches out along the roads. Northern France, Lille and Champagne lay within two days, and Lyon and Bordeaux within a week. London, Amsterdam and Brussels were four or five days away. Madrid, Rome, Vienna and Berlin lay about two weeks out, St Petersburg and Constantinople a month or more.
+For the first time, the fast zone around Paris stretches out along the roads. Northern France, Lille, and Champagne lay within two days, and Lyon and Bordeaux within a week. London, Amsterdam, and Brussels were four or five days away. Madrid, Rome, Vienna, and Berlin lay about two weeks out, St Petersburg and Constantinople a month or more.
 :::
 
 ![The world from Paris, c. 1800](/maps/output/world_1800.png){#fig-world-1800 fig-alt="World map shaded by travel time from Paris: North America six weeks or more, India four months, China six, Australia over half a year" aria-describedby="desc-world-1800"}
@@ -27,7 +27,7 @@ The whole world is now on the map, but most of it is very far away. North Americ
 | Destination | Fastest journey | Basis |
 | --- | --- | --- |
 | Reims, Amiens | 1 day | Diligence timetables of the late 1770s [@reseau-routier-france] |
-| Lille | 2 days | Diligence, late 18th century [@temps-couts-transport] |
+| Lille | 2 days | Diligence, late eighteenth century [@temps-couts-transport] |
 | Caen | 2 days | Diligence, 1780 [@temps-couts-transport] |
 | Dijon | 3 days | Diligence, 1780 [@temps-couts-transport] |
 | Rennes | 3 days | Diligence, 1780 [@temps-couts-transport] |
@@ -51,15 +51,15 @@ Even so, averages stayed low. Counting stops, the Paris–Lyon diligence of 1800
 
 ## Paying the way
 
-A traveller in France in the 1790s could not trust French paper money. The *assignats*, issued from 1789, collapsed: by 1796 prices had often risen 500-fold compared with 1790 [@france-inflation-revolution], and the notes ended worth a quarter of 1% of their face value; their printing plates were publicly burnt in the Place Vendôme in February 1796 [@tales-from-vault]. Coin returned, and in 1803 the new franc was fixed at 5 grams of silver, 90% pure [@france-inflation-revolution].
+A traveller in France in the 1790s could not trust French paper money. The *assignats*, issued from 1789, collapsed: by 1796 prices had often risen 500-fold compared with 1790 [@france-inflation-revolution], and the notes ended worth a quarter of 1 per cent of their face value; their printing plates were publicly burnt in the Place Vendôme in February 1796 [@tales-from-vault]. Coin returned, and in 1803 the new franc was fixed at 5 grams of silver, 90 per cent pure [@france-inflation-revolution].
 
 Wealthy foreign travellers relied instead on paper from a trusted London house. Until the 1760s they could draw cash abroad only with bills of exchange or letters of credit, which were costly and tied them to a fixed itinerary [@lettre-d-indication]. The Scottish banker Robert Herries then devised the *circular note*: fixed sums bought before departure and cashed without charge, at the London exchange rate, through a network of correspondents across Europe [@lettre-d-indication]. Lord Byron kept enough circular notes for a year's living, and Percy Bysshe Shelley carried them when he eloped to the Continent in 1814 [@herries-co-circular]: romance, but with sound banking arrangements. No coach or passage fare from these years could be verified, so this chapter gives no prices.
 
 ## Papers
 
-Arthur Young learned about passports the hard way. At Besançon in July 1789, he heard at the *table d'hôte* of a traveller stopped at Salins for want of one, and went to ask for his own [@young-travels-1915]. The attorney in charge refused: nobody in Besançon knew him, and his letters of introduction counted for nothing: "Il me faut des gens, et non pas des lettres pour m'expliquer qui vous êtes" ("I need people, not letters, to explain to me who you are") [@young-travels-1915]. "These passports are new things from new men, in new power," Young concluded, "and show that they do not bear their new honours too meekly"; he would sooner "see Besançon swallowed up by an earthquake" than live in it [@young-travels-1915].
+Arthur Young learned about passports the hard way. At Besançon in July 1789, he heard at the *table d'hôte* of a traveller stopped at Salins for want of one, and went to ask for his own [@young-travels-1915]. The attorney in charge refused: nobody in Besançon knew him, and his letters of introduction counted for nothing: 'Il me faut des gens, et non pas des lettres pour m'expliquer qui vous êtes' ('I need people, not letters, to explain to me who you are') [@young-travels-1915]. 'These passports are new things from new men, in new power,' Young concluded, 'and show that they do not bear their new honours too meekly'; he would sooner 'see Besançon swallowed up by an earthquake' than live in it [@young-travels-1915].
 
-Without the paper, every town was a checkpoint. At Dijon, two bourgeois musketeers took him from the gate to the town hall [@young-travels-1915]. At Thueyts, at eleven at night on 19 August, 20 militiamen armed with "muskets, or swords, or sabres, or pikes" surrounded his bed and demanded his passport, suspecting him of conspiring with the Queen to measure their fields and double their taxes [@young-travels-1915]. "My papers being in English saved me," he wrote, and they left him "to the bugs which swarmed in the bed like flies in a honey-pot" [@young-travels-1915]. The next day at Villeneuve-de-Berg the objection was that his passport did not describe his features, and no one had "heard of any person travelling for agriculture"; Young told them to do as they pleased, "provided they did not prohibit my dinner, as I was hungry", and the council duly signed his passport [@young-travels-1915].
+Without the paper, every town was a checkpoint. At Dijon, two bourgeois musketeers took him from the gate to the town hall [@young-travels-1915]. At Thueyts, at eleven at night on 19 August, twenty militiamen armed with 'muskets, or swords, or sabres, or pikes' surrounded his bed and demanded his passport, suspecting him of conspiring with the Queen to measure their fields and double their taxes [@young-travels-1915]. 'My papers being in English saved me,' he wrote, and they left him 'to the bugs which swarmed in the bed like flies in a honey-pot' [@young-travels-1915]. The next day at Villeneuve-de-Berg the objection was that his passport did not describe his features, and no one had 'heard of any person travelling for agriculture'; Young told them to do as they pleased, 'provided they did not prohibit my dinner, as I was hungry', and the council duly signed his passport [@young-travels-1915].
 
 The missing descriptions cut both ways. Passports for the nobility typically listed servants by function alone, so in June 1791 Louis XVI could flee Paris as a valet, with the royal children's governess playing a Russian baroness and the Queen playing the children's governess [@passport; @flight-to-varennes]. The disguise got the royal family as far as Varennes [@flight-to-varennes].
 
@@ -67,10 +67,10 @@ A British traveller's passport was a single hand-drafted sheet, signed from 1794
 
 ## Risks
 
-The sea remained the great killer. The East Indiaman *Hindostan*, which had made three round trips to Asia, was wrecked in a gale off Margate in January 1803, just days after setting out, and 24 people died [@hindostan-1796-indiaman]. In wartime such ships sailed as armed privateers, licensed to capture enemy vessels and liable to be captured themselves [@hindostan-1796-indiaman]. On land, the mounted escorts in the forests show that highway robbery was still a real fear [@reseau-routier-france].
+The sea remained the great killer. The East Indiaman *Hindostan*, which had made three round trips to Asia, was wrecked in a gale off Margate in January 1803, just days after setting out, and twenty-four people died [@hindostan-1796-indiaman]. In wartime such ships sailed as armed privateers, licensed to capture enemy vessels and liable to be captured themselves [@hindostan-1796-indiaman]. On land, the mounted escorts in the forests show that highway robbery was still a real fear [@reseau-routier-france].
 
 ## Who travelled, and how many
 
-Very few. The only traffic counts from the period, taken in spring 1788 on two brand-new roads just outside Paris, found about 140 vehicles a day, fewer than ten an hour in daylight [@reseau-routier-france]. Crossing the road called for no particular care. Coaches carried nobles, officials and merchants; the rest of the road belonged to walkers and riders, at much the same pace [@temps-couts-transport].
+Very few. The only traffic counts from the period, taken in spring 1788 on two brand-new roads just outside Paris, found about 140 vehicles a day, fewer than ten an hour in daylight [@reseau-routier-france]. Crossing the road called for no particular care. Coaches carried nobles, officials, and merchants; the rest of the road belonged to walkers and riders, at much the same pace [@temps-couts-transport].
 
 News travelled with them, and just as slowly, which is exactly what Young complained of in 1789. Within a few years France would build the first network in which messages moved faster than people: the Chappe telegraph, described in the interlude that follows Chapter 4.

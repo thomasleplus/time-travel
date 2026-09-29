@@ -1,6 +1,6 @@
 # Today: the high-speed train and the ordinary flight
 
-Today London is two and a quarter hours from Paris by train, closer in time than Lille was in 1850. Almost every city on Earth lies within a day. Yet for the longest journeys, the clock has barely moved since the 1970s: what has changed is not speed but price, frequency and the sheer number of people travelling.
+Today London is two and a quarter hours from Paris by train, closer in time than Lille was in 1850. Almost every city on Earth lies within a day. Yet for the longest journeys, the clock has barely moved since the 1970s: what has changed is not speed but price, frequency, and the sheer number of people travelling.
 
 ## A traveller: the first Eurostar passengers, 1994
 
@@ -48,15 +48,15 @@ For most journeys from Paris, paying has become almost invisible: a card or a ph
 
 ## Papers
 
-On 14 June 1985, five countries (Belgium, France, Luxembourg, the Netherlands and West Germany) signed an agreement on the gradual abolition of their common border controls aboard the riverboat *Princesse Marie-Astrid*, on the Moselle near Schengen, where France, Germany and Luxembourg meet [@schengen-agreement]. It came into force for some of them in 1995, and the Schengen Area, with no internal border controls, has since grown well beyond the original five [@schengen-agreement].
+On 14 June 1985, five countries (Belgium, France, Luxembourg, the Netherlands, and West Germany) signed an agreement on the gradual abolition of their common border controls aboard the riverboat *Princesse Marie-Astrid*, on the Moselle near Schengen, where France, Germany, and Luxembourg meet [@schengen-agreement]. It came into force for some of them in 1995, and the Schengen Area, with no internal border controls, has since grown well beyond the original five [@schengen-agreement].
 
 Britain stayed out, and Eurostar carries the border with it. At first French police checked passengers' documents on board; from June 1998 control booths were set up at the Gare du Nord [@juxtaposed-controls], and passengers now leave the Schengen Area and enter the United Kingdom before boarding [@juxtaposed-controls], arriving in Britain, for legal purposes, while still in Paris.
 
-Further afield, a French visitor to New York needs no visa, but an online ESTA authorisation, valid for up to two years [@visa-waiver-program].
+Further afield, a French visitor to New York needs no visa, but an online ESTA authorization, valid for up to two years [@visa-waiver-program].
 
 ## Risks
 
-Travel has never been safer. Airline travel is now the safest form of transport; in the words of the National Air and Space Museum, "it is far safer to fly than it is to get to the airport" [@evolution-commercial-flying]. The rare crashes, such as the Concorde accident of 25 July 2000, are remembered precisely because they are so rare [@evolution-commercial-flying; @air-france-commemorates].
+Travel has never been safer. Airline travel is now the safest form of transport; in the words of the National Air and Space Museum, 'it is far safer to fly than it is to get to the airport' [@evolution-commercial-flying]. The rare crashes, such as the Concorde accident of 25 July 2000, are remembered precisely because they are so rare [@evolution-commercial-flying; @air-france-commemorates].
 
 ## Who travels, and how many
 

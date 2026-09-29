@@ -1,29 +1,29 @@
 # c. 1914: sleeping cars and ocean liners
 
-On the eve of the First World War, a Parisian could reach London in under eight hours, Constantinople in under three days and Tokyo in 17 days. Rail had knitted Europe into a single overnight network, and steamships had made the oceans run to timetable. For those who could pay, the world had never been so small.
+On the eve of the First World War, a Parisian could reach London in under eight hours, Constantinople in under three days, and Tokyo in 17 days. Rail had knitted Europe into a single overnight network, and steamships had made the oceans run to timetable. For those who could pay, the world had never been so small.
 
 ## A traveller: Gaston Stiegler, 1901
 
-At 1.50 in the afternoon on 29 May 1901, Gaston Stiegler, a journalist for *Le Matin*, boarded the train for Russia at the Gare du Nord [@stiegler-gaston]. He was in Berlin the next morning, St Petersburg on the 31st and Moscow on 1 June. From there the new Trans-Siberian carried him to Irkutsk by 10 June and on to Vladivostok by 30 June [@stiegler-gaston].
+At 1.50 in the afternoon on 29 May 1901, Gaston Stiegler, a journalist for *Le Matin*, boarded the train for Russia at the Gare du Nord [@stiegler-gaston]. He was in Berlin the next morning, St Petersburg on the 31st, and Moscow on 1 June. From there the new Trans-Siberian carried him to Irkutsk by 10 June and on to Vladivostok by 30 June [@stiegler-gaston].
 
 A steamer took him to Yokohama by 5 July, a second across the Pacific, and trains across North America to New York [@stiegler-gaston]. On 1 August he landed at Boulogne to a waiting crowd. At Amiens an elderly Jules Verne embraced him on the platform, and that evening a packed Gare du Nord greeted a man who had covered 34,448 km in 63 days and 16 hours [@stiegler-gaston].
 
-Verne had good reason to be on that platform. In *Around the World in Eighty Days*, serialised in *Le Temps* from November 1872, Phileas Fogg wagers half his fortune that the world can now be circled in 80 days, thanks to the American transcontinental railroad and the Suez Canal, both opened in 1869, and the railway across India, completed in 1870 [@around-world-eighty]. Seventeen years later, fiction became fact. Nellie Bly of the *New York World* left Hoboken on 14 November 1889, called on Verne at Amiens on her way, and was back on 25 January 1890, 72 days and 6 hours later [@around-world-seventy]. Stiegler, going east across Siberia rather than through Suez, beat her by more than eight days.
+Verne had good reason to be on that platform. In *Around the World in Eighty Days*, serialized in *Le Temps* from November 1872, Phileas Fogg wagers half his fortune that the world can now be circled in 80 days, thanks to the American transcontinental railroad and the Suez Canal, both opened in 1869, and the railway across India, completed in 1870 [@around-world-eighty]. Seventeen years later, fiction became fact. Nellie Bly of the *New York World* left Hoboken on 14 November 1889, called on Verne at Amiens on her way, and was back on 25 January 1890, 72 days and 6 hours later [@around-world-seventy]. Stiegler, going east across Siberia rather than through Suez, beat her by more than eight days.
 
 Stiegler's record did not last. By 1913 the fastest trip around the world took under 36 days [@circumnavigation-world-record], and a new rail-and-ferry link through the Japanese port of Tsuruga, opened in 1912, cut Tokyo to Paris to 17 days [@former-tsuruga-port].
 
 ## The maps
 
-![Europe from Paris, c. 1914](/maps/output/europe_1914.png){#fig-europe-1914 fig-alt="Map of Europe with rail corridors radiating from Paris: most of France, London and Berlin within a day, the Balkans and Russia two to five days" aria-describedby="desc-europe-1914"}
+![Europe from Paris, c. 1914](/maps/output/europe_1914.png){#fig-europe-1914 fig-alt="Map of Europe with rail corridors radiating from Paris: most of France, London, and Berlin within a day, the Balkans and Russia two to five days" aria-describedby="desc-europe-1914"}
 
 ::: {#desc-europe-1914}
-Rail corridors radiate from Paris like spokes. Within a day a traveller could reach London, Brussels, Amsterdam, Berlin and almost all of France. Rome, Madrid and Vienna lay a little over a day out and St Petersburg about two, while the Balkans and the Russian interior took two to five days.
+Rail corridors radiate from Paris like spokes. Within a day a traveller could reach London, Brussels, Amsterdam, Berlin, and almost all of France. Rome, Madrid, and Vienna lay a little over a day out and St Petersburg about two, while the Balkans and the Russian interior took two to five days.
 :::
 
 ![The world from Paris, c. 1914](/maps/output/world_1914.png){#fig-world-1914 fig-alt="World map fastest near ports and railheads: New York about a week from Paris, India and Japan two to three weeks, Australia a month or more" aria-describedby="desc-world-1914"}
 
 ::: {#desc-world-1914}
-At world scale the pattern follows ports and railheads. New York was about a week away; India, Japan and the east coast of South America took two to three weeks. Australia and the interiors of Africa and South America lay a month or more away, and the Arctic had no regular service at all.
+At world scale the pattern follows ports and railheads. New York was about a week away; India, Japan, and the east coast of South America took two to three weeks. Australia and the interiors of Africa and South America lay a month or more away, and the Arctic had no regular service at all.
 :::
 
 ## Travel times from Paris, c. 1914
@@ -31,11 +31,11 @@ At world scale the pattern follows ports and railheads. New York was about a wee
 | Destination | Fastest journey | Basis |
 | --- | --- | --- |
 | London | about 7½ hours | South Eastern Railway timetable, 1890 [@time-tables-south]; probably a little faster by 1914 |
-| Berlin | overnight, about 18 hours | Stiegler, 1901: left Paris at 1.50 pm, in Berlin next morning [@stiegler-gaston; @1901-matin-organise] |
+| Berlin | overnight, about 18 hours | Stiegler, 1901: left Paris at 1.50 p.m., in Berlin next morning [@stiegler-gaston; @1901-matin-organise] |
 | Rome | about 26 hours | Estimate |
 | Madrid | about 26½ hours | Sud Express timetable, 1900 [@1900-landes-sud] |
-| St Petersburg | about 2 days | Stiegler, 1901: in St Petersburg at 3 pm two days later [@1901-matin-organise] |
-| Moscow | about 2½–3 days | Stiegler, 1901: in Moscow at 10 am on 1 June, about 68 hours after leaving [@1901-matin-organise] |
+| St Petersburg | about 2 days | Stiegler, 1901: in St Petersburg at 3 p.m. two days later [@1901-matin-organise] |
+| Moscow | about 2½–3 days | Stiegler, 1901: in Moscow at 10 a.m. on 1 June, about 68 hours after leaving [@1901-matin-organise] |
 | Constantinople | 67 hours 35 minutes | Orient Express [@orient-express] |
 | Cairo | about 4½ days | Estimate, from the 1889 mail route via Brindisi [@around-world-seventy] |
 | New York | about 6½ days | Liner crossing of 6 days 4 hours [@ss-provence], plus the train to Le Havre |
@@ -45,9 +45,9 @@ At world scale the pattern follows ports and railheads. New York was about a wee
 
 ## Conditions on the road
 
-The great expresses sold comfort as much as speed. The Orient Express ran bogie carriages that shook far less than older stock, with dining cars, sleeping cars and uniformed staff led by a *chef de train* [@orient-express]. The Sud Express was billed as the fastest train in the world on its French section, averaging 87 km/h between Paris and Bayonne [@1900-landes-sud].
+The great expresses sold comfort as much as speed. The Orient Express ran bogie carriages that shook far less than older stock, with dining cars, sleeping cars, and uniformed staff led by a *chef de train* [@orient-express]. The Sud Express was billed as the fastest train in the world on its French section, averaging 87 km/h between Paris and Bayonne [@1900-landes-sud].
 
-Borders still slowed things down. Sud Express passengers changed trains at Hendaye because Spain used a wider track gauge [@1900-landes-sud]. Crossing the Channel meant a boat between two trains, though the railway promised no small boats, an interpreting conductor, stewardesses and private cabins for those who booked early [@time-tables-south]. The Channel itself made no promises.
+Borders still slowed things down. Sud Express passengers changed trains at Hendaye because Spain used a wider track gauge [@1900-landes-sud]. Crossing the Channel meant a boat between two trains, though the railway promised no small boats, an interpreting conductor, stewardesses, and private cabins for those who booked early [@time-tables-south]. The Channel itself made no promises.
 
 Price separated the traveller's experience sharply. In 1890 a first-class single from London to Paris cost £2 17s. 6d. (about $640 today), while the cheap night service in third class cost £1 2s. 6d. (about $250) [@time-tables-south; @1-1890-2026; @gbp-usd-historical]. Passengers bound for India could add a sleeping car from Calais to Bologna for another £3 14s. (about $820) [@time-tables-south; @1-1890-2026; @gbp-usd-historical].
 
@@ -57,28 +57,28 @@ At sea the gulf was wider still. Emigrants crossed in steerage, in low decks wit
 
 On the eve of war, paying abroad had never been simpler. Thomas Cook had been issuing circular notes since 1874, and in 1891 American Express launched a large-scale traveller's cheque to replace the old letters of credit [@traveller-s-cheque].
 
-It all stopped in August 1914. As the armies mobilised, banks across Europe refused to cash foreign paper; a contemporary account described Americans holding letters of credit for $5,000 without enough money to buy a meal [@nations-europe-great], an abrupt lesson in the difference between being rich and having cash. The United States sent the cruiser *Tennessee* across the Atlantic with $2.5 million in gold, and more than 100,000 Americans were eventually brought home [@american-relief-expedition].
+It all stopped in August 1914. As the armies mobilized, banks across Europe refused to cash foreign paper; a contemporary account described Americans holding letters of credit for $5,000 without enough money to buy a meal [@nations-europe-great], an abrupt lesson in the difference between being rich and having cash. The United States sent the cruiser *Tennessee* across the Atlantic with $2.5 million in gold, and more than 100,000 Americans were eventually brought home [@american-relief-expedition].
 
 ## Papers
 
 For some thirty years before the war, trains crossed borders too quickly and in too great numbers for passport laws to be enforced, and the general response was to relax them: within Europe passports were, on the whole, not required, and comparatively few people held one [@passport].
 
-Russia was the great exception, and Gaston Stiegler crossed its frontier at Wirballen [@1901-matin-organise]. Baedeker's guide of 1914 called a passport "*indispensable* for all foreigners visiting Russia"; it needed the visa of a Russian consul before the frontier was crossed, at 2¼ roubles or 4s. 9d. (about $50 today), on top of the 2s. (about $20) the Foreign Office charged for the passport itself [@baedeker-russia-1914; @1-1914-2026; @gbp-usd-historical]. Gendarmes usually collected the passports before passengers left the train, and if one was not in order, "its unhappy owner has to recross the frontier, the train by which he came waiting for this purpose" [@baedeker-russia-1914].
+Russia was the great exception, and Gaston Stiegler crossed its frontier at Wirballen [@1901-matin-organise]. Baedeker's guide of 1914 called a passport '*indispensable* for all foreigners visiting Russia'; it needed the visa of a Russian consul before the frontier was crossed, at 2¼ roubles or 4s. 9d. (about $50 today), on top of the 2s. (about $20) the Foreign Office charged for the passport itself [@baedeker-russia-1914; @1-1914-2026; @gbp-usd-historical]. Gendarmes usually collected the passports before passengers left the train, and if one was not in order, 'its unhappy owner has to recross the frontier, the train by which he came waiting for this purpose' [@baedeker-russia-1914].
 
-Inside Russia, the passport had to be shown to the police wherever the traveller stayed, a duty generally left to the hotel-keeper, and leaving required a certificate from the district police "that nothing stands in the way of his departure" [@baedeker-russia-1914]; hence the guide's reminder to reclaim the passport when paying the hotel bill [@baedeker-russia-1914]. Luggage was searched with the same care. Baedeker advised packing with unprinted paper only, "to avoid any cause of suspicion", and avoiding books "of a political, social, or historical nature" [@baedeker-russia-1914], a category that arguably included Baedeker.
+Inside Russia, the passport had to be shown to the police wherever the traveller stayed, a duty generally left to the hotel-keeper, and leaving required a certificate from the district police 'that nothing stands in the way of his departure' [@baedeker-russia-1914]; hence the guide's reminder to reclaim the passport when paying the hotel bill [@baedeker-russia-1914]. Luggage was searched with the same care. Baedeker advised packing with unprinted paper only, 'to avoid any cause of suspicion', and avoiding books 'of a political, social, or historical nature' [@baedeker-russia-1914], a category that arguably included Baedeker.
 
-The war brought controls back everywhere. In 1915 Britain introduced a mass-produced passport, a printed sheet folded into ten in a cardboard cover, with a description of the holder and a photograph, to be renewed after two years [@british-passport]. The controls outlived the war: a League of Nations conference in Paris in 1920 drew up a model passport, a 32-page booklet whose first four pages described the bearer [@british-passport], and British tourists of the 1920s complained that the photographs and descriptions amounted to a "nasty dehumanisation" [@passport].
+The war brought controls back everywhere. In 1915 Britain introduced a mass-produced passport, a printed sheet folded into ten in a cardboard cover, with a description of the holder and a photograph, to be renewed after two years [@british-passport]. The controls outlived the war: a League of Nations conference in Paris in 1920 drew up a model passport, a thirty-two-page booklet whose first four pages described the bearer [@british-passport], and British tourists of the 1920s complained that the photographs and descriptions amounted to a 'nasty dehumanisation' [@passport].
 
 ## Risks
 
-Speed had a price. On 15 November 1900, the Sud Express derailed in the Landes while most passengers sat at lunch in the dining car; 14 of its 34 passengers died [@1900-landes-sud]. The engine had torn down the telegraph wire, so news took hours to reach the nearest town, and local farmers pulled out the first survivors [@1900-landes-sud].
+Speed had a price. On 15 November 1900, the Sud Express derailed in the Landes while most passengers sat at lunch in the dining car; fourteen of its thirty-four passengers died [@1900-landes-sud]. The engine had torn down the telegraph wire, so news took hours to reach the nearest town, and local farmers pulled out the first survivors [@1900-landes-sud].
 
 Shipwrecks still happened regularly, the *Titanic* in 1912 being only the most famous [@belfort-pennsylvanie]. Then came war. In 1914 the P&O mail route through Marseille was interrupted [@p-o-indian], and *La Provence*, the liner that had crossed to New York in just over six days, was torpedoed in 1916 as a troopship with nearly 1,000 lives lost [@ss-provence].
 
 ## Who travelled, and how many
 
-The luxury expresses carried a thin elite. The Orient Express was first class only [@orient-express], and the Sud Express, with room for 80 passengers, carried diplomats, merchants, industrialists and people living on private incomes, with their families and servants [@1900-landes-sud]. Its passenger numbers fell as soon as the 1900 World's Fair closed [@1900-landes-sud].
+The luxury expresses carried a thin elite. The Orient Express was first class only [@orient-express], and the Sud Express, with room for eighty passengers, carried diplomats, merchants, industrialists, and people living on private incomes, with their families and servants [@1900-landes-sud]. Its passenger numbers fell as soon as the 1900 World's Fair closed [@1900-landes-sud].
 
-The largest flows ran the other way, in steerage. Between 1890 and 1914 about 14 million immigrants reached the United States [@belfort-pennsylvanie]. Le Havre was France's main emigrant port: in 1908 the French Line alone embarked 60,000 emigrants there, half of them Italians, many helped by discounted rail fares from southern Germany, the Rhineland and Italy [@belfort-pennsylvanie]. *La Provence* itself had berths for 900 third-class passengers against 397 in first [@ss-provence].
+The largest flows ran the other way, in steerage. Between 1890 and 1914 about 14 million immigrants reached the United States [@belfort-pennsylvanie]. Le Havre was France's main emigrant port: in 1908 the French Line alone embarked 60,000 emigrants there, half of them Italians, many helped by discounted rail fares from southern Germany, the Rhineland, and Italy [@belfort-pennsylvanie]. *La Provence* itself had berths for 900 third-class passengers against 397 in first [@ss-provence].
 
 The long-haul routes to the East served an empire as much as tourists. P&O's weekly mail steamers carried officials bound for British India, where boat trains at Bombay's Ballard Pier took them on to Delhi and Calcutta [@p-o-indian].
