@@ -61,6 +61,14 @@ Carrying coin was dangerous, so merchants avoided it. Italian banking firms issu
 
 At the far end of the road to Asia, the rules changed again. A Florentine merchant's handbook of about 1340 advised travellers to China to bring silver: the Mongol ruler took it into his treasury and gave them in exchange yellow paper money bearing his seal, which everyone in the country was obliged to accept [@advice-merchants-bound]. It reckoned that a merchant with an interpreter, two servants and goods worth 25,000 gold florins would spend 60 to 80 *sommi* of silver on the way [@advice-merchants-bound].
 
+### Papers
+
+The word "passport" probably comes from medieval Italy, where some states required a document to pass the harbour (*passa porto*) or the gates (*passa porte*) of a walled city [@passport]. Local authorities issued these to foreign travellers, listing the towns they could enter or pass through; seaports, as open trading points, generally required none, but going inland from them did [@passport]. In the 12th century Genoa issued a document called the *Bulletta* to its nationals bound for its overseas ports and colonies, and to foreigners entering them [@passport].
+
+For most long journeys, the paper that mattered was a letter from someone powerful. In some periods of Muslim rule over the Holy Land, Christian pilgrims could ask for letters of safe conduct to reach Jerusalem [@safe-conduct]. Bar Sauma carried letters from the Ilkhan Arghun to the Byzantine emperor, the Pope and the kings of Europe [@rabban-bar-sauma]. Such letters protected only as far as their reader chose: when William Wallace was captured in 1305, he had letters of safe conduct from Haakon V of Norway, John Balliol and Philip IV of France, the Philip the Fair who received Bar Sauma in Paris, and they were delivered to Edward along with him [@william-wallace].
+
+The Mongols, whose envoy Bar Sauma was, had a true official pass. The *paiza* was a tablet carried by Mongol officials and envoys, entitling them to mounts and rations at the relay stations of the *yam* [@paiza]. Nobles issued so many unofficially, and used them to abuse civilians, that Ögedei Khan (r. 1229–1241) forbade them to issue any [@paiza]. The Ilkhan Ghazan (r. 1295–1304) later had the bearers' names put on the tablets to stop them being passed on [@paiza], an innovation the airlines would adopt with enthusiasm.
+
 ### Risks
 
 War could stop a journey outright. Bar Sauma and Markos abandoned their pilgrimage to Jerusalem on warnings of danger along the road [@rabban-bar-sauma]. In June 1287, off Naples, Bar Sauma watched a naval battle in the war between Anjou and Aragon over Sicily, in which, by his account, 12,000 men were killed [@rabban-bar-sauma].

@@ -46,6 +46,14 @@ For a few years, jetting across the Atlantic was fashionable and prestigious eno
 
 The payment card reached France. In 1967 a group of leading French banks launched the Carte Bleue, modelled on the American credit cards of the late 1950s, and the first French cash machine followed in 1968 [@18-dates-that]. From 1973 a Carte Bleue Internationale, linked to the American BankAmericard, worked abroad; it became Carte Bleue Visa in 1976 [@carte-bleue]. Acceptance was slow, though: the card only became the French people's first means of payment in 2003 [@18-dates-that]. For a trip abroad in 1975, most travellers still carried cash and traveller's cheques.
 
+### Papers
+
+Within western Europe, papers were getting lighter. From the early days of the European Economic Community, its nationals could travel between member states on a passport or a national identity card, though systematic identity checks remained at most borders; Belgium, Luxembourg and the Netherlands had abolished controls on their common borders in 1970 [@schengen-agreement].
+
+Britain offered its own shortcut. From 1961 the British Visitor's Passport, a single sheet of card folded in three and valid for one year, could be had from an Employment Exchange and later from a Post Office, and was accepted by most west European countries, though not for surface travel to West Berlin [@british-passport]. It was dropped in 1995 for failing to meet new security standards [@british-passport], which, for a passport bought over a Post Office counter, can hardly have come as a shock.
+
+Across the Atlantic, the old rules held. Laker's Skytrain passengers saved on the fare but not on the visa: the United Kingdom joined the US Visa Waiver Program only in July 1988, and France in July 1989 [@visa-waiver-program]. The passport itself was about to be written for machines: the International Civil Aviation Organization standardised passports in 1980 [@passport], and Britain issued its first machine-readable passports in 1988 [@british-passport].
+
 ### Risks
 
 Bigger aircraft meant bigger disasters. On 3 March 1974, a Turkish Airlines DC-10 bound from Paris Orly to London crashed into the Ermenonville forest north of Paris shortly after take-off, killing all 346 people on board, after a badly designed cargo door blew open [@turkish-airlines-flight]. It was the deadliest air crash in history until 1977 [@turkish-airlines-flight].

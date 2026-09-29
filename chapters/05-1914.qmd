@@ -59,6 +59,16 @@ On the eve of war, paying abroad had never been simpler. Thomas Cook had been is
 
 It all stopped in August 1914. As the armies mobilised, banks across Europe refused to cash foreign paper; a contemporary account described Americans holding letters of credit for $5,000 without enough money to buy a meal [@nations-europe-great], an abrupt lesson in the difference between being rich and having cash. The United States sent the cruiser *Tennessee* across the Atlantic with $2.5 million in gold, and more than 100,000 Americans were eventually brought home [@american-relief-expedition].
 
+### Papers
+
+For some thirty years before the war, trains crossed borders too quickly and in too great numbers for passport laws to be enforced, and the general response was to relax them: within Europe passports were, on the whole, not required, and comparatively few people held one [@passport].
+
+Russia was the great exception, and Gaston Stiegler crossed its frontier at Wirballen [@1901-matin-organise]. Baedeker's guide of 1914 called a passport "*indispensable* for all foreigners visiting Russia"; it needed the visa of a Russian consul before the frontier was crossed, at 2¼ roubles or 4s. 9d. (about $50 today), on top of the 2s. (about $20) the Foreign Office charged for the passport itself [@baedeker-russia-1914; @1-1914-2026; @gbp-usd-historical]. Gendarmes usually collected the passports before passengers left the train, and if one was not in order, "its unhappy owner has to recross the frontier, the train by which he came waiting for this purpose" [@baedeker-russia-1914].
+
+Inside Russia, the passport had to be shown to the police wherever the traveller stayed, a duty generally left to the hotel-keeper, and leaving required a certificate from the district police "that nothing stands in the way of his departure" [@baedeker-russia-1914]; hence the guide's reminder to reclaim the passport when paying the hotel bill [@baedeker-russia-1914]. Luggage was searched with the same care. Baedeker advised packing with unprinted paper only, "to avoid any cause of suspicion", and avoiding books "of a political, social, or historical nature" [@baedeker-russia-1914], a category that arguably included Baedeker.
+
+The war brought controls back everywhere. In 1915 Britain introduced a mass-produced passport, a printed sheet folded into ten in a cardboard cover, with a description of the holder and a photograph, to be renewed after two years [@british-passport]. The controls outlived the war: a League of Nations conference in Paris in 1920 drew up a model passport, a 32-page booklet whose first four pages described the bearer [@british-passport], and British tourists of the 1920s complained that the photographs and descriptions amounted to a "nasty dehumanisation" [@passport]. Travellers have disliked their passport photographs ever since.
+
 ### Risks
 
 Speed had a price. On 15 November 1900, the Sud Express derailed in the Landes while most passengers sat at lunch in the dining car; 14 of its 34 passengers died [@1900-landes-sud]. The engine had torn down the telegraph wire, so news took hours to reach the nearest town, and local farmers pulled out the first survivors [@1900-landes-sud].
