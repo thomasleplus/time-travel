@@ -54,6 +54,7 @@ text to match. The comparison chart is rebuilt every time.
 
 **Change the cover.** It is drawn from the data by `cover()` in `maps/render.py`: run `python maps/make_maps.py cover`.
 It produces `cover.png` for the site and e-books and `cover.pdf` for the PDF.
+CI also converts `cover.png` to a JPEG, which e-book stores ask for, and attaches both to releases.
 
 **Cite a source.** Add an entry to `references.bib` and cite it in the text as `[@key]`, or `[@key1; @key2]`.
 Numbering and the reference list are generated automatically.
