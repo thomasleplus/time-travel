@@ -65,14 +65,15 @@ jobs:
         with:
           # Required for PDF output
           tinytex: true
-      # Provides ebook-convert, which turns the EPUB into a Kindle file (AZW3)
-      - name: Install Calibre
+      # Calibre provides ebook-convert, which turns the EPUB into a Kindle file
+      # (AZW3), and ImageMagick provides convert, which makes the JPEG cover
+      - name: Install Calibre and ImageMagick
         shell: bash
         run: |
           set -euo pipefail
           IFS=$'\n\t'
           sudo apt-get update
-          sudo apt-get install --yes --no-install-recommends calibre
+          sudo apt-get install --yes --no-install-recommends calibre imagemagick
       # The site is the HTML book plus the PDF, EPUB and AZW3 files behind its
       # download menu (book.sidebar.tools in _quarto.yml). Each single-format
       # render cleans _book/, and --to accepts only one format, so the
@@ -95,6 +96,16 @@ jobs:
           ebook-convert "${downloads}/how-far-is-paris.epub" "${downloads}/how-far-is-paris.azw3"
           quarto render --to html
           mv "${downloads}"/* _book/
+      # E-book stores such as Kindle Direct Publishing take the cover as a JPEG,
+      # not a PNG. The PNG is opaque, so dropping its alpha channel changes
+      # nothing. convert, not magick, because Ubuntu packages ImageMagick 6.
+      - name: Convert cover to JPEG
+        shell: bash
+        run: |
+          set -euo pipefail
+          IFS=$'\n\t'
+          convert _book/maps/output/cover.png -background white -alpha remove -alpha off \
+            -quality 95 _book/maps/output/cover.jpg
       # The book files on their own, for the release job and so they can be
       # downloaded from any run without unpacking the site.
       - name: Upload book files
@@ -106,6 +117,7 @@ jobs:
             _book/how-far-is-paris.epub
             _book/how-far-is-paris.azw3
             _book/maps/output/cover.png
+            _book/maps/output/cover.jpg
           if-no-files-found: error
       # Uploaded on every run so the rendered site can be downloaded from
       # any run, and deployed as-is on releases.
@@ -168,9 +180,11 @@ jobs:
           set -euo pipefail
           IFS=$'\n\t'
           cp book/maps/output/cover.png how-far-is-paris-cover.png
+          cp book/maps/output/cover.jpg how-far-is-paris-cover.jpg
           gh release upload "${TAG}" \
             book/how-far-is-paris.pdf \
             book/how-far-is-paris.epub \
             book/how-far-is-paris.azw3 \
             how-far-is-paris-cover.png \
+            how-far-is-paris-cover.jpg \
             --clobber --repo "${REPO}"
