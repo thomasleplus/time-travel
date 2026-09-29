@@ -42,6 +42,12 @@ The world map is almost uniformly warm. New York lies about ten hours away, Toky
 
 The experience of speed has split in two. Within Europe, the high-speed train runs from city centre to city centre. Between continents, travel is by jet at speeds little changed since the 1970s; supersonic travel ended with Concorde's retirement in 2003 [@air-france-commemorates].
 
+## The effort of the journey
+
+Most of the old effort now fits in a pocket. Airline e-tickets were devised in about 1994, and have been mandatory for members of the International Air Transport Association since 1 June 2008 [@electronic-ticket]. The suitcase stood up: Robert Plath's upright Rollaboard of 1987 superseded Sadow's flat wheeled case [@suitcase]. Within the European Economic Area, mobile roaming charges were abolished on 15 June 2017 [@european-union-roaming], so a traveller from Paris can call home from Lisbon or Helsinki at French prices.
+
+What no ticket can shorten is jet lag, the one effort of the journey that speed has made worse (see the interlude on time).
+
 ## Paying the way
 
 For most journeys from Paris, paying has become almost invisible: a card or a phone works nearly everywhere, and within the euro area there is no currency to exchange at all.
@@ -53,6 +59,8 @@ On 14 June 1985, five countries (Belgium, France, Luxembourg, the Netherlands, a
 Britain stayed out, and Eurostar carries the border with it. At first French police checked passengers' documents on board; from June 1998 control booths were set up at the Gare du Nord [@juxtaposed-controls], and passengers now leave the Schengen Area and enter the United Kingdom before boarding [@juxtaposed-controls], arriving in Britain, for legal purposes, while still in Paris.
 
 Further afield, a French visitor to New York needs no visa, but an online ESTA authorization, valid for up to two years [@visa-waiver-program].
+
+One medical paper survives from the old sanitary conventions: the International Certificate of Vaccination or Prophylaxis, known as the yellow card or *carte jaune* [@icvp]. The International Health Regulations of 1969 required it to be printed in English and French, and its association with the colour yellow owes much to yellow fever, a vaccination commonly required for travel [@icvp].
 
 ## Risks
 

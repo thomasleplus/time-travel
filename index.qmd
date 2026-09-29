@@ -2,15 +2,19 @@
 
 Distance is fixed; time is not. Paris and Rome have stood about 1,100 km apart for two thousand years, yet the journey between them has shrunk from about three weeks for a Roman traveller in summer to about a day on the eve of the First World War. This book follows that shrinking, era by era, as seen from Paris, a city that has never seriously doubted it was the natural place to measure from.
 
+Time was only part of what a journey cost. Travellers also paid in effort: finding the way, a bed, and a meal; carrying their luggage; making themselves understood; keeping in touch with home. This book measures in time, but it counts the effort too, because the two did not shrink together.
+
 Mapping time instead of distance is itself an idea of the railway age. Francis Galton published isochronic charts in 1881, Albrecht Penck mapped travel times across Austria-Hungary from 1887, and John Bartholomew's atlases carried world isochrone maps from 1889 [@isochrone-map]. Bartholomew's 1914 map, centred on London, shaded the world by days of travel and showed how railways such as the Trans-Siberian pushed fast travel deep into continents [@travel-time-between]. This book borrows that method, but centres every map on Paris.
 
 Before Rome, there are no itineraries or timetables to build maps from. The settlement on the Seine that became Lutetia was linked to the wider world by rivers and tracks, at the pace of a walker or a boat. As a guide, historians modelling Roman travel assume about 30 km a day on foot, and about 65 km a day downstream on major rivers but only 10 to 30 km a day upstream [@building-orbis-historical]; against the current, a determined walker could overtake the boat. Those rhythms governed every journey until the railway, and they are the baseline for every chapter that follows.
 
 ## How to read this book
 
-Each chapter covers one era: a traveller's portrait, two maps, and a table of travel times; then the conditions of travel, how travellers paid their way, the papers they carried, the risks, and who travelled. The conventions below apply to every chapter unless it says otherwise.
+Each chapter covers one era: a traveller's portrait, two maps, and a table of travel times; then the conditions of travel, the effort of the journey, how travellers paid their way, the papers they carried, the risks, and who travelled. Two interludes follow threads that run across the eras: how news came to outrun the traveller, and how the clocks at either end of a journey came to agree. The conventions below apply to every chapter unless it says otherwise.
 
-*Travel times.* A travel time is the fastest journey an ordinary paying traveller could make from Paris at the time, including connections and sea crossings. Figures are rounded and marked 'about'; where sources disagree, the text gives a range.
+*Travel times.* A travel time is the fastest journey an ordinary paying traveller could make from Paris at the time, including connections and sea crossings. It is the time that elapsed on the way, not the difference between the clocks at each end. Figures are rounded and marked 'about'; where sources disagree, the text gives a range.
+
+*Who counts as a traveller.* The book follows people who travelled by choice and paid their way, or had it paid for them: officials, merchants, pilgrims, tourists, and emigrants. It leaves out those who were forced to travel, such as the enslaved, convicts, deportees, and refugees, whose journeys call for a different kind of book.
 
 *Sourced and estimated figures.* Each chapter's table says what every time is based on. Times taken from a cited source carry its reference number; the rest are estimates, labelled as such, interpolated from sourced journeys and route lengths. On the maps, estimated times carry an asterisk. From 1950 onwards, most times are estimates from typical schedules, including the time needed to reach and pass through airports.
 

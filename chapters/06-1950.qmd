@@ -43,6 +43,12 @@ Flying was still a luxury and an adventure. Post-war airliners were pressurized,
 
 At sea, the great liners reached their peak just as they became obsolete. In 1952 the SS *United States* crossed the Atlantic in three and a half days, setting the speed record for the crossing [@liner-transatlantic-crossing].
 
+## The effort of the journey
+
+The aeroplane did away with many of the old labours, from finding an inn to changing horses. It needed a common language instead, at least in the cockpit. In 1951 the International Civil Aviation Organization recommended that English be used universally for international radiotelephone communication in the air [@aviation-english].
+
+Keeping in touch still took patience. A telephone call across the Atlantic went by radio, on a service opened in 1927 that handled around 300,000 calls a year [@tat-1]. The first transatlantic telephone cable, TAT-1, was inaugurated only on 25 September 1956; it could carry 35 calls at once, and in its first 24 hours of public service it carried 588 calls between London and the United States [@tat-1].
+
 ## Paying the way
 
 Leaving France with money was itself regulated. Exchange controls introduced in 1939 were tightened at the Liberation and codified in 1947, and they stayed in force through the years of reconstruction [@report-no-150]. Travellers could take only set amounts of currency across the border; a decree of 1960 still fixed these 'tolerances', a word that says much about the official view of holidays abroad, and required anything above them to be declared [@summary-arrete-23].
@@ -52,6 +58,8 @@ In New York, a new way to pay was being born. In February 1950 Frank McNamara pa
 ## Papers
 
 A ticket to New York was not enough: until France joined the US Visa Waiver Program in July 1989, a French visitor to the United States needed a visa [@visa-waiver-program].
+
+Some journeys also called for a medical paper. The International Certificate of Inoculation and Vaccination, created by the Hague convention on air travel of 1933 and amended in 1944, was confirmed by the World Health Organization's International Sanitary Regulations of 25 May 1951, as proof of vaccination against diseases such as cholera, yellow fever, and smallpox [@icvp].
 
 Passports were still filled in by hand. A British passport of 1955 recorded the holder's height, eye and hair colour and 'special peculiarities', and could add 'accompanied by his wife' and the children [@british-passport]; the wording left no doubt about who was accompanying whom. It also listed the countries for which it was valid: the Commonwealth, the USA, and all of Europe 'including the USSR' [@british-passport].
 
