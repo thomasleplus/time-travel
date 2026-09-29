@@ -10,13 +10,17 @@ In 1287 the Mongol ruler of Persia, Arghun, sent the elderly monk to Europe to s
 
 ### The maps
 
-![Europe from Paris, c. 1300](/maps/output/europe_medieval.png){#fig-europe-medieval fig-alt="Europe from Paris, c. 1300: isochrone map of fastest travel times"}
+![Europe from Paris, c. 1300](/maps/output/europe_medieval.png){#fig-europe-medieval fig-alt="Map of Europe shaded by travel time from Paris: northern France within a week, London one to two weeks, Rome three to four, the Levant two months" aria-describedby="desc-europe-medieval"}
 
+::: {#desc-europe-medieval}
 The Paris basin, the Champagne fairs, Flanders and Normandy lay within a week. London, Lyon, Avignon, Bordeaux and the Rhineland lay one to two weeks away. Barcelona, Venice, Rome and Santiago de Compostela took three to four weeks, and the Byzantine and Muslim eastern Mediterranean about two months.
+:::
 
-![The world from Paris, c. 1300](/maps/output/world_medieval.png){#fig-world-medieval fig-alt="The world from Paris, c. 1300: isochrone map of fastest travel times"}
+![The world from Paris, c. 1300](/maps/output/world_medieval.png){#fig-world-medieval fig-alt="World map reaching from Paris across Europe, northern Africa and Asia, in weeks to nearly a year; the Americas, southern Africa and Australia are grey" aria-describedby="desc-world-medieval"}
 
+::: {#desc-world-medieval}
 The known world stretched much further than in Roman times, but slowly. Persia lay about three months away, Central Asia four, and the Mongol capital Khanbaliq (Beijing) the better part of a year. India could be reached through the ports of the Persian Gulf or the Red Sea in about five months, and Timbuktu by the Saharan caravans in about four. The Americas, southern Africa and Australia remained beyond any route.
+:::
 
 ### Travel times from Paris, c. 1300
 

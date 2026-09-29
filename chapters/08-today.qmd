@@ -10,13 +10,17 @@ The 50 km tunnel had taken six years and £10 billion to build [@first-passenger
 
 ### The maps
 
-![Europe from Paris today](/maps/output/europe_today.png){#fig-europe-today fig-alt="Europe from Paris today: isochrone map of fastest travel times"}
+![Europe from Paris today](/maps/output/europe_today.png){#fig-europe-today fig-alt="Map of Europe with France and its neighbours almost all within six hours of Paris; Moscow, with no direct flights since 2022, stands out as slower" aria-describedby="desc-europe-today"}
 
+::: {#desc-europe-today}
 France and its neighbours now fall almost entirely within six hours, much of it within three by high-speed train. The slowest parts of the European map are no longer the far edges of the continent, but places cut off by borders and politics: Moscow, a single flight of about five and a half hours in 1975, has had no direct flights from France since March 2022 and now takes 10 to 13 hours door to door via a connection [@aller-russie-depuis].
+:::
 
-![The world from Paris today](/maps/output/world_today.png){#fig-world-today fig-alt="The world from Paris today: isochrone map of fastest travel times"}
+![The world from Paris today](/maps/output/world_today.png){#fig-world-today fig-alt="World map with major cities within a day of Paris: New York ten hours, Tokyo sixteen, Sydney about a day; remote interiors take two to five days" aria-describedby="desc-world-today"}
 
+::: {#desc-world-today}
 The world map is almost uniformly warm. New York lies about ten hours away, Tokyo and Hong Kong about fifteen or sixteen, Sydney about a day. Compared with 1975, the colours have barely shifted: long-haul jets fly at much the same speed as fifty years ago.
+:::
 
 ### Travel times from Paris today
 

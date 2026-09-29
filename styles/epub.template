@@ -1,7 +1,9 @@
 $-- Pandoc's EPUB 3 template (pandoc 3.10), without $header-includes$.
 $-- Quarto puts CSS for callouts and figure layouts there, which the book
 $-- does not use and which e-book stores warn about (see _quarto.yml).
-$-- The title page also shows the git revision (filters/git-revision.lua).
+$-- The title page also shows the git revision (filters/git-revision.lua),
+$-- and the cover has book.cover-image-alt from _quarto.yml as its text
+$-- alternative, which pandoc's template leaves out.
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
@@ -63,7 +65,10 @@ $endif$
 $else$
 $if(coverpage)$
 <div id="cover-image">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 $cover-image-width$ $cover-image-height$" preserveAspectRatio="xMidYMid">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 $cover-image-width$ $cover-image-height$" preserveAspectRatio="xMidYMid"$if(book.cover-image-alt)$ role="img" aria-label="$book.cover-image-alt$"$endif$>
+$if(book.cover-image-alt)$
+<title>$book.cover-image-alt$</title>
+$endif$
 <image width="$cover-image-width$" height="$cover-image-height$" xlink:href="../media/$cover-image$" />
 </svg>
 </div>

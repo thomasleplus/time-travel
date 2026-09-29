@@ -10,13 +10,17 @@ They never arrived. Shortly before 3 a.m. the pilot reported the airport in sigh
 
 ### The maps
 
-![Europe from Paris, c. 1950](/maps/output/europe_1950.png){#fig-europe-1950 fig-alt="Europe from Paris, c. 1950: isochrone map of fastest travel times"}
+![Europe from Paris, c. 1950](/maps/output/europe_1950.png){#fig-europe-1950 fig-alt="Map of Europe with fast patches around airports: Western capitals within about six hours of Paris, Moscow more than a day behind the Iron Curtain" aria-describedby="desc-europe-1950"}
 
+::: {#desc-europe-1950}
 Air routes turn Europe into a network of fast islands. Most capitals of Western Europe lay within about six hours of Paris, and much of the continent within half a day. The Iron Curtain shows as a sharp slowdown: Moscow, reachable in about five hours two decades later, took more than a day.
+:::
 
-![The world from Paris, c. 1950](/maps/output/world_1950.png){#fig-world-1950 fig-alt="The world from Paris, c. 1950: isochrone map of fastest travel times"}
+![The world from Paris, c. 1950](/maps/output/world_1950.png){#fig-world-1950 fig-alt="World map by air from Paris: New York under a day, Rio, Bombay and Johannesburg about a day and a half, Tokyo and Sydney three to four days" aria-describedby="desc-world-1950"}
 
+::: {#desc-world-1950}
 The whole inhabited world now lay within a few days. New York was less than a day away, Rio, Bombay and Johannesburg about a day and a half, Tokyo and Sydney three to four days, with several refuelling stops on the way.
+:::
 
 ### Travel times from Paris, c. 1950
 
