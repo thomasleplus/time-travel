@@ -65,7 +65,7 @@ ignored-modules = ["matplotlib", "numpy"]
 
 [tool.pylint."messages control"]
 disable = [
-    # The map code uses math-style names: P and T for node positions and times,
+    # The map code uses maths-style names: P and T for node positions and times,
     # LON/LAT/LAND for grids, X/Y for projected coordinates.
     "invalid-name",
     # Module and entry-point docstrings are kept; small helpers are self-explanatory.

@@ -1,0 +1,12 @@
+{
+  "name": "time-travel",
+  "private": true,
+  "description": "Tools to check the book, installed with npm ci: cspell, for the spellcheck",
+  "scripts": {
+    "spellcheck": "cspell --dot --no-progress \"**\""
+  },
+  "devDependencies": {
+    "@cspell/dict-en-gb": "5.0.34",
+    "cspell": "10.3.6"
+  }
+}

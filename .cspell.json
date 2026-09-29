@@ -1,0 +1,42 @@
+{
+  "version": "0.2",
+  "language": "en-GB",
+  "import": ["@cspell/dict-en-gb/cspell-ext.json"],
+  "useGitignore": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "project-words",
+      "path": "./.cspell-words.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": ["project-words", "!html", "!npm"],
+  "ignorePaths": [
+    ".codespellrc",
+    ".cspell-words.txt",
+    ".git/**",
+    ".gitignore",
+    "data/**",
+    "LICENSE",
+    "maps/LICENSE",
+    "maps/output/**",
+    "package-lock.json",
+    "references.bib",
+    "requirements.txt",
+    "styles/numeric.csl",
+    "styles/reference.docx"
+  ],
+  "ignoreRegExpList": ["citation-key"],
+  "patterns": [
+    {
+      "name": "citation-key",
+      "pattern": "/@[\\w:.-]+/g"
+    }
+  ],
+  "overrides": [
+    {
+      "filename": ["CODE_OF_CONDUCT.md", ".github/**"],
+      "language": "en-GB,en-US"
+    }
+  ]
+}

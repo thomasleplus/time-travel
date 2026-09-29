@@ -2,6 +2,10 @@
 # Project
 # =========================
 
+# Node.js (npm ci, for the spellcheck)
+# =========================
+/node_modules/
+
 # Python
 # =========================
 __pycache__/
