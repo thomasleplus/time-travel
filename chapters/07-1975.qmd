@@ -10,13 +10,17 @@ The experience was designed as a statement. Air France served champagne and truf
 
 ### The maps
 
-![Europe from Paris, c. 1975](/maps/output/europe_1975.png){#fig-europe-1975 fig-alt="Europe from Paris, c. 1975: isochrone map of fastest travel times"}
+![Europe from Paris, c. 1975](/maps/output/europe_1975.png){#fig-europe-1975 fig-alt="Map of Europe with most of the west and centre within six hours of Paris, Moscow five and a half; places far from airports take half a day to two days" aria-describedby="desc-europe-1975"}
 
+::: {#desc-europe-1975}
 Nearly all of Western and Central Europe now lay within six hours of Paris, and most of the rest within half a day. Even Moscow, behind the Iron Curtain, was a single flight of about five and a half hours away. The remaining slow zones are the places far from airports: northern Scandinavia, the Russian interior, the Balkan mountains.
+:::
 
-![The world from Paris, c. 1975](/maps/output/world_1975.png){#fig-world-1975 fig-alt="The world from Paris, c. 1975: isochrone map of fastest travel times"}
+![The world from Paris, c. 1975](/maps/output/world_1975.png){#fig-world-1975 fig-alt="World map by jet from Paris: the Americas' east coast within half a day, most of the world within about a day, only continental interiors slower" aria-describedby="desc-world-1975"}
 
+::: {#desc-world-1975}
 At world scale the contrast is now between places near airports and places far from them. The Americas' east coast lay within half a day, most of Africa, the Middle East and India within a day, East Asia and Australia within about a day. Only the deep interiors of continents still took several days.
+:::
 
 ### Travel times from Paris, c. 1975
 

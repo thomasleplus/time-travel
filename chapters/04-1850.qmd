@@ -10,13 +10,17 @@ They sailed from Marseille on 4 November and landed at Alexandria on the 15th [@
 
 ### The maps
 
-![Europe from Paris, c. 1850](/maps/output/europe_1850.png){#fig-europe-1850 fig-alt="Europe from Paris, c. 1850: isochrone map of fastest travel times"}
+![Europe from Paris, c. 1850](/maps/output/europe_1850.png){#fig-europe-1850 fig-alt="Map of Europe with railways as fast red corridors from Paris: London within a day, most of France two to five days, Russia two weeks or more" aria-describedby="desc-europe-1850"}
 
+::: {#desc-europe-1850}
 The new railways show up as sharp red corridors: north to Lille, Brussels and the Channel ports, west to Rouen and Le Havre, south to Orléans and Tours. London and Brussels now lay within a day, Lyon within a day and a half by the fastest mail coach. Most of the rest of France lay two to five days away; Italy, Spain and Central Europe about a week; Russia and the Balkans two weeks or more.
+:::
 
-![The world from Paris, c. 1850](/maps/output/world_1850.png){#fig-world-1850 fig-alt="The world from Paris, c. 1850: isochrone map of fastest travel times"}
+![The world from Paris, c. 1850](/maps/output/world_1850.png){#fig-world-1850 fig-alt="World map faster along steamship routes from Paris: New York about twelve days, India four weeks, China six, Australia nearly three months" aria-describedby="desc-world-1850"}
 
+::: {#desc-world-1850}
 Steam has pulled the world closer along a few lines. New York lay about twelve days away, Alexandria two weeks, and India, by the overland route through Egypt, about four weeks, against four months in 1800. China took about six weeks. Australia, still served by sailing ships, lay nearly three months away.
+:::
 
 ### Travel times from Paris, c. 1850
 

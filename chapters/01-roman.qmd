@@ -12,13 +12,17 @@ A Roman mile was about 1,480 metres [@building-orbis-historical], so the road to
 
 ### The maps
 
-![Europe from Lutetia, c. AD 200](/maps/output/europe_roman.png){#fig-europe-roman fig-alt="Europe from Lutetia, c. AD 200: isochrone map of fastest travel times"}
+![Europe from Lutetia, c. AD 200](/maps/output/europe_roman.png){#fig-europe-roman fig-alt="Map of Europe shaded by travel time from Lutetia: Gaul within 20 days, Rome about three weeks, Byzantium six; Ireland and Scandinavia unreached" aria-describedby="desc-europe-roman"}
 
+::: {#desc-europe-roman}
 Most of Gaul, southern Britain and the Rhine frontier lay within 5 to 20 days of Lutetia. Rome, Spain and North Africa lay about three weeks out, Greece and Egypt about a month, and Byzantium and the Levant about six weeks. Beyond the frontiers, in Ireland and Scandinavia, there was no regular travel at all.
+:::
 
-![The world from Lutetia, c. AD 200](/maps/output/world_roman.png){#fig-world-roman fig-alt="The world from Lutetia, c. AD 200: isochrone map of fastest travel times"}
+![The world from Lutetia, c. AD 200](/maps/output/world_roman.png){#fig-world-roman fig-alt="World map with only Europe, North Africa, the Near East, India and the East African coast reachable from Lutetia, in weeks to months; the rest is grey" aria-describedby="desc-world-roman"}
 
+::: {#desc-world-roman}
 The known world ends abruptly. The Americas, most of Africa, East Asia and Australia lay beyond any route a traveller from Gaul could follow. Mesopotamia lay about two months away; Persia, Central Asia, India and the East African coast lay beyond 80 days.
+:::
 
 ### Travel times from Lutetia, c. AD 200
 

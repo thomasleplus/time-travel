@@ -14,13 +14,17 @@ Stiegler's record did not last. By 1913 the fastest trip around the world took u
 
 ### The maps
 
-![Europe from Paris, c. 1914](/maps/output/europe_1914.png){#fig-europe-1914 fig-alt="Europe from Paris, c. 1914: isochrone map of fastest travel times"}
+![Europe from Paris, c. 1914](/maps/output/europe_1914.png){#fig-europe-1914 fig-alt="Map of Europe with rail corridors radiating from Paris: most of France, London and Berlin within a day, the Balkans and Russia two to five days" aria-describedby="desc-europe-1914"}
 
+::: {#desc-europe-1914}
 Rail corridors radiate from Paris like spokes. Within a day a traveller could reach London, Brussels, Amsterdam, Berlin and almost all of France. Rome, Madrid and Vienna lay a little over a day out and St Petersburg about two, while the Balkans and the Russian interior took two to five days.
+:::
 
-![The world from Paris, c. 1914](/maps/output/world_1914.png){#fig-world-1914 fig-alt="The world from Paris, c. 1914: isochrone map of fastest travel times"}
+![The world from Paris, c. 1914](/maps/output/world_1914.png){#fig-world-1914 fig-alt="World map fastest near ports and railheads: New York about a week from Paris, India and Japan two to three weeks, Australia a month or more" aria-describedby="desc-world-1914"}
 
+::: {#desc-world-1914}
 At world scale the pattern follows ports and railheads. New York was about a week away; India, Japan and the east coast of South America took two to three weeks. Australia and the interiors of Africa and South America lay a month or more away, and the Arctic had no regular service at all.
+:::
 
 ### Travel times from Paris, c. 1914
 

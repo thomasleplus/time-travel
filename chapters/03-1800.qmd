@@ -10,13 +10,17 @@ On the road to Orléans, over ten miles, he met no coach or diligence at all, on
 
 ### The maps
 
-![Europe from Paris, c. 1800](/maps/output/europe_1800.png){#fig-europe-1800 fig-alt="Europe from Paris, c. 1800: isochrone map of fastest travel times"}
+![Europe from Paris, c. 1800](/maps/output/europe_1800.png){#fig-europe-1800 fig-alt="Map of Europe with fast zones stretching along the roads from Paris: Lyon within a week, Madrid and Vienna two weeks, Constantinople a month" aria-describedby="desc-europe-1800"}
 
+::: {#desc-europe-1800}
 For the first time, the fast zone around Paris stretches out along the roads. Northern France, Lille and Champagne lay within two days, and Lyon and Bordeaux within a week. London, Amsterdam and Brussels were four or five days away. Madrid, Rome, Vienna and Berlin lay about two weeks out, St Petersburg and Constantinople a month or more.
+:::
 
-![The world from Paris, c. 1800](/maps/output/world_1800.png){#fig-world-1800 fig-alt="The world from Paris, c. 1800: isochrone map of fastest travel times"}
+![The world from Paris, c. 1800](/maps/output/world_1800.png){#fig-world-1800 fig-alt="World map shaded by travel time from Paris: North America six weeks or more, India four months, China six, Australia over half a year" aria-describedby="desc-world-1800"}
 
+::: {#desc-world-1800}
 The whole world is now on the map, but most of it is very far away. North America's east coast and the Caribbean lay six weeks or more away, depending on the winds. India took about four months by the long route round the Cape of Good Hope, China six, and Australia more than half a year.
+:::
 
 ### Travel times from Paris, c. 1800
 
