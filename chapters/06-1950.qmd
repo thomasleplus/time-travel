@@ -2,18 +2,18 @@
 
 By 1950 the unit of long-distance travel had changed from days to hours. Four-engined piston airliners crossed the Atlantic in less than a day, and most European capitals lay a few hours from Paris by air. The liners still sailed, but within a decade they would lose the Atlantic to the aeroplane.
 
-### A traveller: Marcel Cerdan, 1949
+## A traveller: Marcel Cerdan, 1949
 
-On the evening of 27 October 1949, at 20:05, Air France Flight 009 left Orly for New York, a Lockheed Constellation carrying 37 passengers and 11 crew [@air-france-flight]. Like every transatlantic airliner of the day it could not cross in one hop; it was due to refuel at Santa Maria in the Azores [@air-france-flight]. Among the passengers were the former world middleweight boxing champion Marcel Cerdan, on his way to join the singer Édith Piaf in New York, and the violinist Ginette Neveu, travelling with her Stradivarius [@air-france-flight].
+At 8.05 pm on 27 October 1949, Air France Flight 009 left Orly for New York, a Lockheed Constellation carrying 37 passengers and 11 crew [@air-france-flight]. Like every transatlantic airliner of the day it could not cross in one hop; it was due to refuel at Santa Maria in the Azores [@air-france-flight]. Among the passengers were the former world middleweight boxing champion Marcel Cerdan, on his way to join the singer Édith Piaf in New York, and the violinist Ginette Neveu, travelling with her Stradivarius [@air-france-flight].
 
-They never arrived. Shortly before 3 a.m. the pilot reported the airport in sight; the aircraft then flew into a ridge on São Miguel island, 97 km away, killing all 48 people on board [@air-france-flight]. Investigators blamed inaccurate navigation and a failure to identify the airport [@air-france-flight]. The crash shows both sides of the new age: Paris and New York had become an overnight journey, but that journey still depended on stopovers, dead reckoning and luck.
+They never arrived. Shortly before 3 am the pilot reported the airport in sight; the aircraft then flew into a ridge on São Miguel island, 97 km away, killing all 48 people on board [@air-france-flight]. Investigators blamed inaccurate navigation and a failure to identify the airport [@air-france-flight]. The crash shows both sides of the new age: Paris and New York had become an overnight journey, but that journey still depended on stopovers, dead reckoning and luck.
 
-### The maps
+## The maps
 
-![Europe from Paris, c. 1950](/maps/output/europe_1950.png){#fig-europe-1950 fig-alt="Map of Europe with fast patches around airports: Western capitals within about six hours of Paris, Moscow more than a day behind the Iron Curtain" aria-describedby="desc-europe-1950"}
+![Europe from Paris, c. 1950](/maps/output/europe_1950.png){#fig-europe-1950 fig-alt="Map of Europe with fast patches around airports: western capitals within about six hours of Paris, Moscow more than a day behind the Iron Curtain" aria-describedby="desc-europe-1950"}
 
 ::: {#desc-europe-1950}
-Air routes turn Europe into a network of fast islands. Most capitals of Western Europe lay within about six hours of Paris, and much of the continent within half a day. The Iron Curtain shows as a sharp slowdown: Moscow, reachable in about five hours two decades later, took more than a day.
+Air routes turn Europe into a network of fast islands. Most capitals of western Europe lay within about six hours of Paris, and much of the continent within half a day. The Iron Curtain shows as a sharp slowdown: Moscow, reachable in about five and a half hours two decades later, took more than a day.
 :::
 
 ![The world from Paris, c. 1950](/maps/output/world_1950.png){#fig-world-1950 fig-alt="World map by air from Paris: New York under a day, Rio, Bombay and Johannesburg about a day and a half, Tokyo and Sydney three to four days" aria-describedby="desc-world-1950"}
@@ -22,11 +22,11 @@ Air routes turn Europe into a network of fast islands. Most capitals of Western 
 The whole inhabited world now lay within a few days. New York was less than a day away, Rio, Bombay and Johannesburg about a day and a half, Tokyo and Sydney three to four days, with several refuelling stops on the way.
 :::
 
-### Travel times from Paris, c. 1950
+## Travel times from Paris, c. 1950
 
 | Destination | Fastest journey | Basis |
 | --- | --- | --- |
-| London, Brussels | about 3 hours | Estimate, by air including airport transfers |
+| London, Brussels | about 3 hours | Estimate, by air |
 | Lyon | about 3½ hours | Estimate, by air |
 | Rome, Madrid | about 5 hours | Estimates |
 | Istanbul | about 12 hours | Estimate |
@@ -37,19 +37,19 @@ The whole inhabited world now lay within a few days. New York was less than a da
 | Tokyo | about 3 days | Estimate; by 1959 the fastest scheduled flight took about 31 hours via Anchorage, or 42 via India [@lockheed-l-1649] |
 | Sydney | about 4 days | Estimate |
 
-### Conditions on the road
+## Conditions on the road
 
-Flying was still a luxury and an adventure. Post-war airliners were pressurized, but long flights meant a string of stops, and passengers were among the first to feel what would later be called jet lag, the upset of crossing several time zones in a few hours [@evolution-commercial-flying], before there were any jets to blame. Regulated fares meant airlines competed on service: meals, sleeper berths and personal attention [@evolution-commercial-flying].
+Flying was still a luxury and an adventure. Post-war airliners were pressurised, but long flights meant a string of stops, and passengers were among the first to feel what would later be called jet lag, the upset of crossing several time zones in a few hours [@evolution-commercial-flying], before there were any jets to blame. Regulated fares meant airlines competed on service: meals, sleeper berths and personal attention [@evolution-commercial-flying].
 
 At sea, the great liners reached their peak just as they became obsolete. In 1952 the SS *United States* crossed the Atlantic in three and a half days, setting the speed record for the crossing [@liner-transatlantic-crossing].
 
-### Paying the way
+## Paying the way
 
 Leaving France with money was itself regulated. Exchange controls introduced in 1939 were tightened at the Liberation and codified in 1947, and they stayed in force through the years of reconstruction [@report-no-150]. Travellers could take only set amounts of currency across the border; a decree of 1960 still fixed these "tolerances", a word that says much about the official view of holidays abroad, and required anything above them to be declared [@summary-arrete-23].
 
 In New York, a new way to pay was being born. In February 1950 Frank McNamara paid for a restaurant meal with a cardboard Diners Club card, the first charge card accepted by many different businesses [@diners-club-international]. Diners Club billed its members at the end of each month and took a 5–7% fee from the restaurant [@diners-club-credit].
 
-### Papers
+## Papers
 
 A ticket to New York was not enough: until France joined the US Visa Waiver Program in July 1989, a French visitor to the United States needed a visa [@visa-waiver-program].
 
@@ -57,10 +57,10 @@ Passports were still filled in by hand. A British passport of 1955 recorded the 
 
 Currency controls followed the traveller into the passport itself. A page at the back recorded the foreign exchange taken out of the country, a limited sum of sterling, typically £50 (about $2,270 today) [@british-passport; @1-1955-2026; @gbp-usd-historical].
 
-### Risks
+## Risks
 
-Flight 009 was not an isolated case: at the time it was the deadliest accident involving the Constellation [@air-france-flight]. Navigating over open ocean to a small island airfield, largely by the crew's own reckoning, left little margin for error [@air-france-flight].
+At the time, Flight 009 was the deadliest accident involving the Constellation [@air-france-flight]. Navigating over open ocean to a small island airfield, largely by the crew's own reckoning, left little margin for error [@air-france-flight].
 
-### Who travelled, and how many
+## Who travelled, and how many
 
 After the war, passenger demand surged and airlines were overwhelmed [@evolution-commercial-flying]. In the United States, more people travelled by air than by train for the first time in 1955, and by 1957 airliners had replaced ocean liners as the usual way to cross the Atlantic [@evolution-commercial-flying]. Flying remained mostly for business travellers and the well-off, and in the United States segregated airports kept many Black Americans from flying at all [@evolution-commercial-flying]. For years the standard round-trip fare between New York and Europe stayed at $711 (about $8,960 today), when $5,000 was a decent annual salary; on 1 May 1952 the airlines introduced a tourist class at $486 round trip (about $6,120), and the first flights were booked solid [@shape-things-come; @100-1952-is].

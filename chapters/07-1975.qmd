@@ -2,18 +2,18 @@
 
 By the mid-1970s jets had made the world a place of hours. New York lay a working day away, Tokyo less than a day, Sydney barely more. In January 1976 Air France began flying passengers at twice the speed of sound. For the first time, the fastest journey from Paris to much of the planet was measured in the time of a single flight.
 
-### A traveller: Concorde's first passengers, 1976
+## A traveller: Concorde's first passengers, 1976
 
-At 12:40 on Wednesday 21 January 1976, the Air France Concorde F-BVFA left Paris on the world's first scheduled supersonic passenger service, bound for Rio de Janeiro with a stop in Dakar [@air-france-commemorates]. It reached Rio after 7 hours 26 minutes of flying [@air-france-commemorates]. The aircraft carried 100 passengers at up to Mach 2.02, about 2,170 km/h, and cruised at around 18,000 metres, twice as high as other airliners, high enough for passengers to see the curve of the Earth [@air-france-commemorates].
+At 12.40 pm on Wednesday 21 January 1976, the Air France Concorde F-BVFA left Paris on the world's first scheduled supersonic passenger service, bound for Rio de Janeiro with a stop in Dakar [@air-france-commemorates]. It reached Rio after 7 hours 26 minutes of flying [@air-france-commemorates]. The aircraft flew at up to Mach 2.02, about 2,170 km/h, and cruised at around 18,000 metres, twice as high as other airliners, high enough for passengers to see the curve of the Earth [@air-france-commemorates].
 
 The experience was designed as a statement. Air France served champagne and truffle pastries by Lenôtre; the industrial designer Raymond Loewy fitted out the cabin and a lounge at Charles de Gaulle with Le Corbusier furniture, and Jean Patou designed the cabin crew's uniforms [@air-france-commemorates]. Nobody could accuse it of understatement. Concorde flew for Air France for 27 years, until 2003 [@air-france-commemorates].
 
-### The maps
+## The maps
 
 ![Europe from Paris, c. 1975](/maps/output/europe_1975.png){#fig-europe-1975 fig-alt="Map of Europe with most of the west and centre within six hours of Paris, Moscow five and a half; places far from airports take half a day to two days" aria-describedby="desc-europe-1975"}
 
 ::: {#desc-europe-1975}
-Nearly all of Western and Central Europe now lay within six hours of Paris, and most of the rest within half a day. Even Moscow, behind the Iron Curtain, was a single flight of about five and a half hours away. The remaining slow zones are the places far from airports: northern Scandinavia, the Russian interior, the Balkan mountains.
+Nearly all of western and central Europe now lay within six hours of Paris, and most of the rest within half a day. Even Moscow, behind the Iron Curtain, was a single flight of about five and a half hours away. The remaining slow zones are the places far from airports: northern Scandinavia, the Russian interior, the Balkan mountains.
 :::
 
 ![The world from Paris, c. 1975](/maps/output/world_1975.png){#fig-world-1975 fig-alt="World map by jet from Paris: the Americas' east coast within half a day, most of the world within about a day, only continental interiors slower" aria-describedby="desc-world-1975"}
@@ -22,7 +22,7 @@ Nearly all of Western and Central Europe now lay within six hours of Paris, and 
 At world scale the contrast is now between places near airports and places far from them. The Americas' east coast lay within half a day, most of Africa, the Middle East and India within a day, East Asia and Australia within about a day. Only the deep interiors of continents still took several days.
 :::
 
-### Travel times from Paris, c. 1975
+## Travel times from Paris, c. 1975
 
 | Destination | Fastest journey | Basis |
 | --- | --- | --- |
@@ -36,28 +36,28 @@ At world scale the contrast is now between places near airports and places far f
 | Tokyo | about 18 hours | Estimate |
 | Sydney | about 26 hours | Estimate |
 
-### Conditions on the road
+## Conditions on the road
 
-Jets had made the long crossings short: the first passenger jets of 1958 cut the Atlantic crossing to about seven hours, and by the 1960s air transport had overtaken the liners entirely [@liner-transatlantic-crossing]. The last great liners, including the *United States* and the *Queen Mary*, were withdrawn in 1969 [@liner-transatlantic-crossing].
+Jets had made the long crossings short: the first passenger jets of 1958 cut the Atlantic crossing to about seven hours, and by the 1960s air transport had overtaken the liners entirely [@liner-transatlantic-crossing]. The last great liners, including the *United States* and the *Queen Mary*, were withdrawn in the late 1960s [@liner-transatlantic-crossing].
 
 For a few years, jetting across the Atlantic was fashionable and prestigious enough to give its name to a social class, the "jet set"; falling fares in the 1970s then opened flying to far more people and undermined that exclusivity [@evolution-commercial-flying].
 
-### Paying the way
+## Paying the way
 
 The payment card reached France. In 1967 a group of leading French banks launched the Carte Bleue, modelled on the American credit cards of the late 1950s, and the first French cash machine followed in 1968 [@18-dates-that]. From 1973 a Carte Bleue Internationale, linked to the American BankAmericard, worked abroad; it became Carte Bleue Visa in 1976 [@carte-bleue]. Acceptance was slow, though: the card only became the French people's first means of payment in 2003 [@18-dates-that]. For a trip abroad in 1975, most travellers still carried cash and traveller's cheques.
 
-### Papers
+## Papers
 
 Within western Europe, papers were getting lighter. From the early days of the European Economic Community, its nationals could travel between member states on a passport or a national identity card, though systematic identity checks remained at most borders; Belgium, Luxembourg and the Netherlands had abolished controls on their common borders in 1970 [@schengen-agreement].
 
-Britain offered its own shortcut. From 1961 the British Visitor's Passport, a single sheet of card folded in three and valid for one year, could be had from an Employment Exchange and later from a Post Office, and was accepted by most west European countries, though not for surface travel to West Berlin [@british-passport]. It was dropped in 1995 for failing to meet new security standards [@british-passport], which, for a passport bought over a Post Office counter, can hardly have come as a shock.
+Britain offered its own shortcut. From 1961 the British Visitor's Passport, a single sheet of card folded in three and valid for one year, could be had from an Employment Exchange and later from a Post Office, and was accepted by most west European countries, though not for surface travel to West Berlin [@british-passport]. It was dropped in 1995 for failing to meet new security standards [@british-passport].
 
-Across the Atlantic, the old rules held. Laker's Skytrain passengers saved on the fare but not on the visa: the United Kingdom joined the US Visa Waiver Program only in July 1988, and France in July 1989 [@visa-waiver-program]. The passport itself was about to be written for machines: the International Civil Aviation Organization standardised passports in 1980 [@passport], and Britain issued its first machine-readable passports in 1988 [@british-passport].
+Across the Atlantic, the old rules held. However cheap the ticket, a British or French tourist bound for New York still needed a visa: the United Kingdom joined the US Visa Waiver Program only in July 1988, a year before France [@visa-waiver-program]. The passport itself was about to be written for machines: the International Civil Aviation Organization standardised passports in 1980 [@passport], and Britain issued its first machine-readable passports in 1988 [@british-passport].
 
-### Risks
+## Risks
 
 Bigger aircraft meant bigger disasters. On 3 March 1974, a Turkish Airlines DC-10 bound from Paris Orly to London crashed into the Ermenonville forest north of Paris shortly after take-off, killing all 346 people on board, after a badly designed cargo door blew open [@turkish-airlines-flight]. It was the deadliest air crash in history until 1977 [@turkish-airlines-flight].
 
-### Who travelled, and how many
+## Who travelled, and how many
 
 Flying was becoming ordinary. In the United States, passenger numbers more than quadrupled between 1955 and 1972, and by 1972 almost half of all Americans had flown, although business travellers still made up most passengers [@evolution-commercial-flying]. Concorde remained the privilege of a few: its cabin held just 100 people [@air-france-commemorates]. For everyone else, fares began to fall. When Freddie Laker's "no-frills" Skytrain, a phrase then still a novelty rather than a warning, began flying between London and New York in September 1977, a one-way ticket cost $138 (about $760 today), against $385 (about $2,120) for the cheapest seat on a scheduled airline [@sir-freddie-laker; @100-1977-is].

@@ -1,14 +1,14 @@
 # c. 1300: the horse, the river and the long way round
 
-A thousand years after Rome, travel from Paris had in some ways gone backwards. Rome now lay about four weeks away rather than three, Constantinople about two months rather than six weeks. Yet the known world had grown: under Mongol rule, a determined traveller could cross the whole of Asia, if he had most of a year to spare.
+A thousand years after Rome, travel from Paris had in some ways gone backwards. Rome now lay about four weeks away rather than three, Constantinople about two months rather than six weeks. Yet the known world had grown: under Mongol rule, a determined traveller could cross the whole of Asia, given most of a year to spare.
 
-### A traveller: Rabban Bar Sauma, 1287–88
+## A traveller: Rabban Bar Sauma, 1287–88
 
 In the winter of 1287–88, Paris received a visitor from the far side of the world. Rabban Bar Sauma was a monk of the Church of the East, born around 1220 near modern Beijing [@rabban-bar-sauma]. In 1275 he had set out with a younger student, Markos, on a pilgrimage to Jerusalem; warnings of danger on the roads stopped them short, and they settled in Mongol-ruled Baghdad [@rabban-bar-sauma].
 
-In 1287 the Mongol ruler of Persia, Arghun, sent the elderly monk to Europe to seek an alliance against the Mamluk sultans of Egypt [@rabban-bar-sauma]. Bar Sauma travelled with a large retinue and 30 riding animals [@rabban-bar-sauma]. He sailed from the Black Sea to Constantinople, then on to Italy, watching Etna erupt as he passed Sicily on 18 June 1287 [@rabban-bar-sauma]. He wintered in Genoa, then spent a month in Paris with King Philip the Fair, who loaded him with gifts and sent a Norman nobleman, Gobert de Helleville, back east with him [@rabban-bar-sauma]. Bar Sauma went on to meet Edward I of England in Gascony, took communion from the new pope in Rome on Palm Sunday 1288, and was back in Baghdad that same year [@rabban-bar-sauma].
+In 1287 the Mongol ruler of Persia, Arghun, sent the elderly monk to Europe to seek an alliance against the Mamluk sultans of Egypt [@rabban-bar-sauma]. Bar Sauma travelled with a large retinue and 30 riding animals [@rabban-bar-sauma]. He sailed from the Black Sea to Constantinople, then on to Italy, watching Etna erupt as he passed Sicily on 18 June 1287 [@rabban-bar-sauma]. He wintered in Genoa, then spent a month in Paris with King Philip the Fair, who loaded him with gifts and sent a Norman nobleman, Gobert de Helleville, back east with him [@rabban-bar-sauma]. Bar Sauma went on to meet Edward I of England in Gascony, took communion from the new Pope in Rome on Palm Sunday 1288, and was back in Baghdad that same year [@rabban-bar-sauma].
 
-### The maps
+## The maps
 
 ![Europe from Paris, c. 1300](/maps/output/europe_medieval.png){#fig-europe-medieval fig-alt="Map of Europe shaded by travel time from Paris: northern France within a week, London one to two weeks, Rome three to four, the Levant two months" aria-describedby="desc-europe-medieval"}
 
@@ -22,7 +22,7 @@ The Paris basin, the Champagne fairs, Flanders and Normandy lay within a week. L
 The known world stretched much further than in Roman times, but slowly. Persia lay about three months away, Central Asia four, and the Mongol capital Khanbaliq (Beijing) the better part of a year. India could be reached through the ports of the Persian Gulf or the Red Sea in about five months, and Timbuktu by the Saharan caravans in about four. The Americas, southern Africa and Australia remained beyond any route.
 :::
 
-### Travel times from Paris, c. 1300
+## Travel times from Paris, c. 1300
 
 No medieval timetable exists. Every figure below is an estimate for a traveller on horseback in good season, built from the daily distances historians have measured from medieval accounts [@how-far-how].
 
@@ -41,42 +41,42 @@ No medieval timetable exists. Every figure below is an estimate for a traveller 
 | Tabriz (Persia) | about 3 months | Estimate |
 | Khanbaliq (Beijing) | about 9 months | Estimate |
 
-### Why travel went backwards
+## Why travel went backwards
 
 Compared with Chapter 1, almost every destination is slower. Progress, it turns out, is not compulsory. Historians of Roman transport note that after the empire the road network decayed, and much of medieval land transport shifted to rivers [@building-orbis-historical]. Travellers no longer had a single state maintaining roads, relay stations and sea lanes across the whole Mediterranean, and the fast Roman route to Rome, down the Rhône and by ship to Ostia, gave way to the long road over the Alps.
 
-### Conditions on the road
+## Conditions on the road
 
-The pace of medieval travel was remarkably uniform. Historians working from merchants' and households' accounts find that most carriers covered 30 to 40 km a day, and heavy carts between Salins and Paris did the same [@how-far-how]. A merchant riding light could manage 35 to 40 miles (55 to 65 km) a day, travelling only in daylight [@how-far-how]. A great household moved much more slowly: an English countess's household covered about 15 miles a day in winter, and 30 when it had to hurry [@how-far-how].
+The pace of medieval travel was remarkably uniform. Historians working from merchants' and households' accounts find that most carriers covered 30 to 40 km a day, and heavy carts between Salins and Paris did the same [@how-far-how]. A merchant riding light could manage 35 to 40 miles (55 to 65 km) a day, travelling only in daylight [@how-far-how]. A great household moved much more slowly: an English countess's household covered about 15 miles (24 km) a day in winter, and 30 (48 km) when it had to hurry [@how-far-how].
 
 Messengers were the fastest travellers of all, because they rode at night and changed horses along the way, covering up to 55 or 60 miles (about 90 km) a day [@how-far-how]. The Archbishop of Rouen, Eudes Rigaud, by contrast, averaged just 33 km a day from Paris to Dijon in 1254, stopping to visit friends along the way [@how-far-how], a pace that suggests the friends were good company.
 
-The sea was faster but far less predictable. Merchants' letters between Florence and Genoa took a steady 5 to 7 days, but letters between London and Naples, which involved a sea passage, took anywhere from 27 to 75 days [@how-far-how], a range to try the patience of any correspondent. No reliable passenger fare from this period could be found, so this chapter gives no prices.
+The sea was faster but far less predictable. Merchants' letters between Florence and Genoa took a steady 5 to 7 days, but letters between London and Naples, which involved a sea passage, took anywhere from 27 to 75 days [@how-far-how].
 
-### Paying the way
+## Paying the way
 
 In 1300 no single money served a traveller from Paris. Every kingdom and city minted its own coins, and a long journey meant repeated visits to money-changers. Two Italian gold coins became the nearest thing to an international currency: the Florentine florin, first struck in 1252, and the Venetian ducat of 1284 [@money-coinage-late]. The florin dominated trade in western Europe as far as the North Sea, the ducat in the Mediterranean [@trade-methods-exchange].
 
-Carrying coin was dangerous, so merchants avoided it. Italian banking firms issued bills of exchange: money paid to a bank in one city was paid out by its partner in another, so no coins had to travel [@tuscan-banking-middle]. When that system could not cope, the alternative was stark: in 1327, 100,000 florins were sent from Avignon to Bologna on fifteen pack animals, guarded by an armed escort of forty-six [@avignon-exchange]. The case for the bill of exchange rather makes itself.
+Carrying coin was dangerous, so merchants avoided it. Italian banking firms issued bills of exchange: money paid to a bank in one city was paid out by its partner in another, so no coins had to travel [@tuscan-banking-middle]. When that system could not cope, the alternative was stark: in 1327, 100,000 florins were sent from Avignon to Bologna on 15 pack animals, guarded by an armed escort of 46 [@avignon-exchange]. The case for the bill of exchange rather makes itself.
 
-At the far end of the road to Asia, the rules changed again. A Florentine merchant's handbook of about 1340 advised travellers to China to bring silver: the Mongol ruler took it into his treasury and gave them in exchange yellow paper money bearing his seal, which everyone in the country was obliged to accept [@advice-merchants-bound]. It reckoned that a merchant with an interpreter, two servants and goods worth 25,000 gold florins would spend 60 to 80 *sommi* of silver on the way [@advice-merchants-bound].
+At the far end of the road to Asia, the rules changed again. A Florentine merchant's handbook of about 1340 advised travellers to China to bring silver: the Mongol ruler took it into his treasury and gave them in exchange yellow paper money bearing his seal, which everyone in the country was obliged to accept [@advice-merchants-bound]. It reckoned that a merchant with an interpreter, two servants and goods worth 25,000 gold florins would spend 60 to 80 *sommi* of silver on the way [@advice-merchants-bound]. No passenger fare from this period could be found, and no price index reaches back far enough to convert the *sommi*, so this chapter gives no modern equivalents.
 
-### Papers
+## Papers
 
 The word "passport" probably comes from medieval Italy, where some states required a document to pass the harbour (*passa porto*) or the gates (*passa porte*) of a walled city [@passport]. Local authorities issued these to foreign travellers, listing the towns they could enter or pass through; seaports, as open trading points, generally required none, but going inland from them did [@passport]. In the 12th century Genoa issued a document called the *Bulletta* to its nationals bound for its overseas ports and colonies, and to foreigners entering them [@passport].
 
 For most long journeys, the paper that mattered was a letter from someone powerful. In some periods of Muslim rule over the Holy Land, Christian pilgrims could ask for letters of safe conduct to reach Jerusalem [@safe-conduct]. Bar Sauma carried letters from the Ilkhan Arghun to the Byzantine emperor, the Pope and the kings of Europe [@rabban-bar-sauma]. Such letters protected only as far as their reader chose: when William Wallace was captured in 1305, he had letters of safe conduct from Haakon V of Norway, John Balliol and Philip IV of France, the Philip the Fair who received Bar Sauma in Paris, and they were delivered to Edward along with him [@william-wallace].
 
-The Mongols, whose envoy Bar Sauma was, had a true official pass. The *paiza* was a tablet carried by Mongol officials and envoys, entitling them to mounts and rations at the relay stations of the *yam* [@paiza]. Nobles issued so many unofficially, and used them to abuse civilians, that Ögedei Khan (r. 1229–1241) forbade them to issue any [@paiza]. The Ilkhan Ghazan (r. 1295–1304) later had the bearers' names put on the tablets to stop them being passed on [@paiza], an innovation the airlines would adopt with enthusiasm.
+The Mongols, whose envoy Bar Sauma was, had a true official pass. The *paiza* was a tablet carried by Mongol officials and envoys, entitling them to mounts and rations at the relay stations of the *yam* [@paiza]. Nobles issued so many unofficially, and used them to abuse civilians, that Ögedei Khan (r. 1229–41) forbade them to issue any [@paiza]. The Ilkhan Ghazan (r. 1295–1304) later had the bearers' names put on the tablets to stop them being passed on [@paiza], an innovation the airlines would later adopt with enthusiasm.
 
-### Risks
+## Risks
 
-War could stop a journey outright. Bar Sauma and Markos abandoned their pilgrimage to Jerusalem on warnings of danger along the road [@rabban-bar-sauma]. In June 1287, off Naples, Bar Sauma watched a naval battle in the war between Anjou and Aragon over Sicily, in which, by his account, 12,000 men were killed [@rabban-bar-sauma].
+War could stop a journey outright, as Bar Sauma and Markos had found on the road to Jerusalem [@rabban-bar-sauma]. In June 1287, off Naples, Bar Sauma watched a naval battle in the war between Anjou and Aragon over Sicily, in which, by his account, 12,000 men were killed [@rabban-bar-sauma].
 
 Crowds carried their own dangers. At the Jubilee of 1300 in Rome, contemporaries reported pilgrims trampled or crushed to death in the throng [@first-jubilee].
 
-### Who travelled, and how many
+## Who travelled, and how many
 
 Merchants and their goods kept the main routes busy: freight services carried Italian wares over the Alpine passes to the Champagne fairs, south-east of Paris [@how-far-how]. Messengers carried the letters that held the merchant networks together. Clergy, royal officials and envoys such as Bar Sauma and Gobert de Helleville travelled on the business of Church and state [@rabban-bar-sauma].
 
-Pilgrims were the great mass movement. In February 1300, Pope Boniface VIII promised full remission of sins to anyone who came to Rome that year and visited the basilicas of St Peter and St Paul daily for fifteen days [@first-jubilee]. The Florentine chronicler Giovanni Villani, who went himself, claimed that 200,000 pilgrims were in the city at all times throughout the year [@first-jubilee]. It was very likely an exaggeration, chroniclers being no more immune than anyone to a good round number, but it shows how many people a promise could set on the road.
+Pilgrims were the great mass movement. In February 1300, Pope Boniface VIII promised full remission of sins to anyone who came to Rome that year and visited the basilicas of St Peter and St Paul daily for 15 days [@first-jubilee]. The Florentine chronicler Giovanni Villani, who went himself, claimed that 200,000 pilgrims were in the city at all times throughout the year [@first-jubilee]. It was very likely an exaggeration, chroniclers being no more immune than anyone to a good round number, but it shows how many people a promise could set on the road.
