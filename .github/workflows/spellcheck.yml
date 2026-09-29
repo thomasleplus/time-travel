@@ -1,5 +1,5 @@
 ---
-name: Spellcheck
+name: Spell check
 
 on:
   push:

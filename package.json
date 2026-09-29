@@ -1,7 +1,7 @@
 {
   "name": "time-travel",
   "private": true,
-  "description": "Tools to check the book, installed with npm ci: cspell, for the spellcheck",
+  "description": "Tools to check the book, installed with npm ci: cspell, for the spell check",
   "scripts": {
     "spellcheck": "cspell --dot --no-progress \"**\""
   },
