@@ -4,7 +4,7 @@ Today London is two and a quarter hours from Paris by train, closer in time than
 
 ## A traveller: the first Eurostar passengers, 1994
 
-On Monday 14 November 1994, the first fare-paying passengers travelled through the Channel Tunnel from London to Paris and Brussels, reaching both capitals in about three hours [@first-passengers-go]. The train pulled into the Gare du Nord a few minutes early; most of the passengers had booked their seats years in advance [@first-passengers-go]. A standard-class ticket cost £95 booked two weeks ahead (about $330 today) or £155 for a flexible fare (about $530) [@first-passengers-go; @100-1990-2026; @gbp-usd-historical].
+On Monday 14 November 1994, the first fare-paying passengers travelled through the Channel Tunnel from London to Paris and Brussels, reaching both capitals in about three hours [@first-passengers-go]. The train pulled into the Gare du Nord a few minutes early; most of the passengers had booked their seats years in advance [@first-passengers-go].
 
 The 50 km tunnel had taken six years and £10 billion to build [@first-passengers-go]. In 1994 the 790-seat trains reached 288 km/h in France but were held to 160 km/h on the old tracks of south-east England [@first-passengers-go]. Once a dedicated high-speed line to London was completed, the journey from St Pancras to the Gare du Nord fell to 2 hours 15 minutes [@high-speed-1]. A journey that took four or five days around 1800, and seven and a half hours by the boat trains of the 1890s, now takes about as long as a feature film.
 
@@ -51,6 +51,8 @@ What no ticket can shorten is jet lag, the one effort of the journey that speed 
 ## Paying the way
 
 For most journeys from Paris, paying has become almost invisible: a card or a phone works nearly everywhere, and within the euro area there is no currency to exchange at all.
+
+Fares already rewarded booking ahead when the Channel Tunnel opened: on the first Eurostar services in 1994, a standard-class ticket cost £95 booked two weeks ahead (about $330 today), against £155 for a flexible fare (about $530) [@first-passengers-go; @100-1990-2026; @gbp-usd-historical].
 
 ## Papers
 
