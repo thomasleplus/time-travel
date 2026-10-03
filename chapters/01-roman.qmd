@@ -6,7 +6,7 @@ From Roman Lutetia, the fastest a private traveller could reach Rome was about t
 
 The clearest record of a long Roman road journey from Gaul was left by an anonymous traveller from Burdigala (Bordeaux) in 333, more than a century after this chapter's date [@bordeaux-pilgrim-c]. It is less a diary than a road book: a list of places to change animals (*mutationes*) and places to spend the night (*mansiones*), with the distance between each [@bordeaux-pilgrim-c].
 
-The route ran from Bordeaux to Arles, over the Cottian Alps to Milan, then along the Danube valley to Constantinople. The traveller totted it up as 2,221 Roman miles (about 3,300 km), 230 changes, and 112 overnight stops [@bordeaux-pilgrim-c]. From there the road led on through Asia Minor and Syria to Jerusalem, and home by Macedonia, a sea crossing to Otranto, Rome, and Milan [@bordeaux-pilgrim-c].
+The route ran from Bordeaux to Arles, over the Cottian Alps to Milan, then along the Danube valley to Constantinople. The traveller totted it up as 2,221 Roman miles (about 3,300 km), 230 changes, and 112 rest-stops [@bordeaux-pilgrim-c]. From there the road led on through Asia Minor and Syria to Jerusalem, and home by Macedonia, a sea crossing to Otranto, Rome, and Milan [@bordeaux-pilgrim-c].
 
 A Roman mile was about 1,480 metres [@building-orbis-historical]. At the brisk 50 km a day that historians assign to accelerated private travel by carriage [@building-orbis-historical], the road to Constantinople alone meant more than two months of steady movement, before any rest days.
 
@@ -48,11 +48,11 @@ The route matters as much as the distance. Going to Rome over the Alps by road w
 
 The empire's principal roads ran to 80,000 to 100,000 km [@building-orbis-historical]. How fast you moved depended almost entirely on what you could afford. Historians modelling Roman travel set daily distances at about 12 km for ox carts, 30 km on foot, 50 km for private carriages travelling fast, 56 km on horseback, and 67 km for the fast carriages of the state post [@building-orbis-historical]. Relays of horses carrying urgent messages could reach 250 km a day, but that was for dispatches, not passengers [@building-orbis-historical].
 
-The network was built to be used in stages. The Bordeaux Pilgrim's 230 changes over 2,221 Roman miles mean a fresh animal roughly every 10 Roman miles (about 15 km) [@bordeaux-pilgrim-c].
+The network was built to be used in stages. The Bordeaux Pilgrim's 230 changes over 2,221 Roman miles mean a fresh animal was on offer roughly every 10 Roman miles (about 15 km) [@bordeaux-pilgrim-c]. Whether the Pilgrim took one at each is not known: the list records what the road provided, not what the traveller did, and the text's translator thinks the Pilgrim did not stop at all of these places but merely noted them in passing [@bordeaux-pilgrim-c].
 
 Rivers and the sea were cheaper than roads, but less predictable. Boats drifted downstream at around 65 km a day, but were hauled upstream at 10 to 30 [@building-orbis-historical]. Sea travel was possible all year in principle, but ancient writers stress the dangers of winter, and Atlantic storms made winter crossings rare [@building-orbis-historical].
 
-Prices were steep. Diocletian's price edict of 301 capped the fare for a passenger in a carriage at 2 denarii per Roman mile (about 1.5 km) [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay. Most labourers, sensibly, stayed at home.
+Mountain passes added their own delays: the Bordeaux Pilgrim's road climbed the Cottian Alps, and ORBIS adds up to a day and a half for mountain stretches and bars heavy carts and fast carriages from some Alpine and Pyrenean passes in winter [@bordeaux-pilgrim-c; @building-orbis-historical].
 
 ## The effort of the journey
 
@@ -65,6 +65,8 @@ Heading east also meant changing language. Greek was the common language of the 
 ## Paying the way
 
 Inside the empire, a traveller from Lutetia needed only one currency. The same gold aureus, silver denarius, and bronze sestertius passed from Britain to Syria, and Diocletian's edict set its maximum prices for the whole empire in denarii [@building-orbis-historical].
+
+Those prices were steep. The edict, issued in 301, capped the fare for a passenger in a carriage at 2 denarii per Roman mile (about 1.5 km) [@building-orbis-historical]. On that basis, ORBIS prices the fastest summer trip from Rome to Londinium at about 900 denarii for a passenger [@new-interactive-map]. The same edict capped a farm labourer's wage at 25 denarii a day, with food [@salary-ancient-rome], so the fare equalled about 36 days of a labourer's pay. Most labourers, sensibly, stayed at home.
 
 Officials did not pay at all. A traveller on state business carried a *diploma*, a warrant bearing the emperor's seal that entitled him to the horses, vehicles, and lodging of the state post, whose cost fell on the communities along the road [@cursus-publicus]. Under Trajan, each provincial governor could issue only a limited number of these warrants, and only for public business [@cursus-publicus].
 
@@ -80,7 +82,7 @@ Some provincials carried their citizenship in bronze. From the reign of Claudius
 
 ## Risks
 
-The sea was the great hazard. Storms closed much of the Atlantic in winter and made the north-western Mediterranean off southern France dangerous in that season [@building-orbis-historical]. Mountain passes added their own delays: the Bordeaux Pilgrim's road climbed the Cottian Alps, and ORBIS adds up to a day and a half for mountain stretches and bars heavy carts and fast carriages from some Alpine and Pyrenean passes in winter [@bordeaux-pilgrim-c; @building-orbis-historical].
+The sea was the great hazard. Storms closed much of the Atlantic in winter and made the north-western Mediterranean off southern France dangerous in that season [@building-orbis-historical].
 
 Roman rule did make travel more predictable than in many later centuries. Historians argue that the empire created a relatively safe environment for shipping, less exposed to tolls and piracy than other periods [@building-orbis-historical].
 

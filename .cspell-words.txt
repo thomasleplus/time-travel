@@ -193,6 +193,7 @@ signalement
 sigstore
 Sinuessa
 Skytrain
+slurpfile
 sommi
 Stiegler
 stylesheet
@@ -222,6 +223,7 @@ Vindobona
 Visayas
 visé
 vous
+vulns
 Wadi
 Wirballen
 Wissant
