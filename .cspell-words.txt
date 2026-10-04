@@ -116,6 +116,7 @@ livres
 Livret
 Loewy
 Londinium
+ltrimstr
 luacheck
 Lubeck
 Luchon
