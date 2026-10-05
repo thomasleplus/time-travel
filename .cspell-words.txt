@@ -114,6 +114,7 @@ lettre
 lettres
 livres
 Livret
+lockfiles
 Loewy
 Londinium
 ltrimstr
