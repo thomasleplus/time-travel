@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "@cspell/dict-en-gb": "5.0.35",
-    "cspell": "10.3.6"
+    "cspell": "10.4.0"
   }
 }
