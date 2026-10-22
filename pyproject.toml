@@ -24,7 +24,7 @@ license = "CC-BY-NC-SA-4.0 AND Apache-2.0"
 license-files = ["LICENSE", "maps/LICENSE"]
 dependencies = [
   "matplotlib==3.11.2",
-  "numpy==2.5.3",
+  "numpy==2.5.4",
 ]
 
 [project.urls]
