@@ -6,7 +6,7 @@
     "spellcheck": "cspell --dot --no-progress \"**\""
   },
   "devDependencies": {
-    "@cspell/dict-en-gb": "5.0.35",
+    "@cspell/dict-en-gb": "5.0.36",
     "cspell": "10.4.0"
   }
 }
