@@ -35,7 +35,7 @@ Source = "https://github.com/thomasleplus/time-travel.git"
 
 [dependency-groups]
 dev = [
-    "ruff==0.17.1",
+    "ruff==0.17.2",
 ]
 
 [tool.ruff]
